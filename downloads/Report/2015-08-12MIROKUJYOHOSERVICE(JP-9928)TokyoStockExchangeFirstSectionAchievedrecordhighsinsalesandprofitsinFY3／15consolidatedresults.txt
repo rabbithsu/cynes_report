@@ -1,0 +1,292 @@
+MIROKUJYOHOSERVICE(JP-9928)TokyoStockExchangeFirstSectionAchievedrecordhighsinsalesandprofitsinFY3/15consolidatedresults
+  2015-08-12 提供機構：FISCO 作者：FISCO 點閱次數：10   
+
+Miroku
+Jyoho Service Co., Ltd. <9928> (hereafter “MJS”) is a market leader in
+developing and providing Enterprise Resource Planning (ERP) systems, including
+financial accounting and tax systems for tax accountant and CPA firms and
+small/mid-sized companies. In
+its consolidated financial results for FY3/15, the company achieved record
+highs in sales and profits due to the expansion of ERP systems and services for
+companies, with net sales up 1.4% YoY to ¥22,383mn and ordinary income up 6.8%
+to ¥2,587mn. The
+trend of higher sales and profits is expected to continue in FY3/16, with net
+sales forecast to increase 5.4% YoY to ¥23,600mn and ordinary income 16.0% to
+¥3,000mn. Anticipating the opportunity provided by the introduction of the
+Social Security and Tax Number System, MJS is strengthening its efforts to
+acquire new customers from among small/mid-sized companies and for cross sales
+to existing customers. It is also expecting to improve profitability by
+expanding software and service revenues, which have high margins among its sale
+items. The
+3rd Medium-Term Management Plan (three-year plan) that started from FY3/15 has
+management targets of net sales of ¥26,000mn and ordinary income of ¥4,000mn
+for FY3/17, the final year of the plan. In addition to achieving sustainable
+growth in its existing business through developing new products and services
+and strengthening its sales force, its policy is to establish an earnings
+foundations from new businesses. In new businesses, the subsidiary MJS M&A Partners Co., Ltd.
+that it established in September 2014 has launched a new business that supports
+the business succession and revitalization of small/mid-sized companies. This
+fiscal period has been positioned as the first year to construct its business
+foundations and it is expected to become profitable from FY3/17 onwards. Also,
+in October 2014, MJS concluded a capital and business alliance with South
+Korean IT company Webcash and together they are progressing the joint
+development of new products and services. MJS is aiming to achieve its
+management targets for FY3/17 including the monetization of its Internet
+business, primarily through the business information website, bizocean.◆Corporate Overview Long-established innovator of
+financial and accounting systems for tax accountant and CPA firms and
+small/mid-sized companies (1) Corporate history Since its establishment in 1977, MJS has been providing
+management systems and management information services, primarily for finance
+and accounting, and changing its business model in step with the times. The
+company previously focused on providing data processing services at processing
+centers, and developing and selling office PCs. Now, MJS develops and provides
+package software and management information services. It has built up a
+long-established position in the Japanese market as an innovator in developing
+and providing management systems. Currently, MJS concentrates on developing services
+compatible with cloud computing and multi-devices, which are a new wave in
+technology.Business model leveraging
+strong trust relationship with tax accountant and CPA firms (2) Operational overview MJS’s
+main businesses include the development and sale of ERP (comprehensive
+operations management) systems for tax accountant and CPA firms and
+small/mid-sized companies, as well as the provision of services associated with
+system installation, such as instructions on system settings and operations, and
+network development, as well as operations, maintenance, call centers, and
+other support services. MJS’s main customers are small/mid-sized companies, which are
+primarily tax accountant and CPA firms and their clients. In its business for
+tax accountant and CPA firms, MJS has around 8,400 user firms, representing a
+share of approximately 25% of the industry. In its business for small/
+mid-sized companies, there are nearly 17,000 companies that use MJS software.
+Moreover, MJS also provides simplified accounting software for small businesses
+via tax accountant and CPA firms, with over 30,000 users. If we consider that
+the number of small- and medium-sized clients of these tax accountant and CPA
+firms is in the order of 500,000, there is still significant room to exploit
+this market.Improving profitability by
+expanding earnings from stock-type business through new customer acquisition (3) Business trends In the last few years, MJS has focused on strengthening its
+stock-type business by acquiring new customers, expanding its customer
+foundations, and providing support services (including software, hardware, and
+network maintenance services). As a result, its earnings continue to grow while
+its profitability improves, and it has achieved record highs in four
+consecutive fiscal years on an ordinary income basis.◆Financial Result Trends Achieved record highs in
+sales for the first time in 15 years and for the fourth consecutive period for
+profits (1) FY3/15 results overview The
+consolidated financial results for FY3/15 announced on May 12 showed an
+increase in both sales and profits. Net sales were up 1.4% YoY to ¥22,383mn,
+operating income was up 5.6% to ¥2,524mn, ordinary income was up 6.8% to
+¥2,587mn, and net income was up 26.5% to ¥1,757mn. Sales grew for products and
+services for companies and a record high was achieved in net sales for the
+first time in 15 years. In addition, records highs were recorded for each of
+operating income, ordinary income, and net income for the fourth consecutive
+fiscal year. The effects of the efforts the
+company has made over the last few years for “expansion of customer base and
+increase in service revenues” and “thorough management of management targets
+with an awareness of the order backlog of sales” seems to have steadily
+permeated into results.Sales of products and services
+for companies grew following the acquisition of new customers, and as a result,
+net sales continued their upward trend, increasing 1.4% YoY. Also, the gross
+profit margin grew by 1.9 percentage points to 64.0% due to the increase in the
+composition ratio of service revenues, which are highly profitable. The company
+increased its spending on advertising, sales promotions, and educating and
+training, and consequently SG&A expenses rose 1.4 percentage points to
+52.7%. But despite this, because of the increase in the gross profit margin,
+the operating income ratio rose 0.5 of a percentage point to 11.3%. Only net sales failed to
+achieve the initial target, but this was because sales from individual
+contract-based development at subsidiaries were lower than targeted. Also, the
+gain on sales of investment securities of ¥291mn was recorded as extraordinary
+income, and a double-digit increase in net income was achieved. Sales
+for companies are growing, while the accumulation of the order backlog is also
+proceeding smoothly (2)
+Sales trends by customer and by product category ○System
+installation contract sales by customer Net
+sales from system installation contracts (the sales total for hardware,
+software, and useware) declined 2.1% YoY to ¥14,229mn, the first decline in
+sales in 5 fiscal years. Looking at this result by customer, although sales for
+small/mid-sized companies increased 4.6% to ¥7,032mn, this was exceeded by the
+declines to tax accountant and CPA firms of 4.4% to ¥4,880mn and to others
+(sales for partners, subsidiaries, etc.) of 14.7% to ¥2,317mn. Looking at the breakdown for small/mid-sized companies, net
+sales were up 23.2% YoY to ¥2,100mn to new customers, but were down 1.7% to
+¥4,932mn to existing customers, which suggests that the acquisition of new
+customers that MJS has been working on for the past few years is progressing
+smoothly. It regularly conducts study meetings at its nationwide sales offices
+in order to strengthen its ability to provide customers with proposals. It has
+been working to improve its ability to provide proposals that match customer needs,
+such as by sharing effective proposals throughout the company, and these
+efforts seem to be producing results in terms of acquiring new customers.Within sales for
+small/mid-sized companies, the ratio for new customers was 29.9%, up 4.5
+percentage points YoY. One more indicator that the
+company prioritizes is the order backlog of sales for system installation
+contracts (non-consolidated). This had also increased by the end of FY3/15 to
+4.2 month’s worth, up 0.4 month’s worth YoY, and it is steadily accumulating an
+order backlog. The background to this seems to be that not only have sales
+representatives improved their ability to manage management indicators, but
+branch managers have too. Conversely, with regards to the major products for tax accountant
+and CPA firms with a lifecycle of around five years, ACELINK NX-Pro is about to
+enter its fourth year since its launch (April 2011), and the fact that
+replacement demand has also run its course is a factor behind the decline in
+sales.○Service revenues Net sales from service revenues steadily expanded, up 6.9% YoY
+to ¥7,671mn. Service revenues are a stock-type business that can earn stable
+income, so they have contributed to the improved stability of earnings. Looking
+at the breakdown, software operations support services for small/mid-sized
+companies (maintenance services) grew 10.9% to ¥3,275mn due to an increase in
+new customers. Also software usage fees for small businesses (iCompass NX and
+ACELINK NX, etc.), which are supplied to their client corporations of tax
+accountant and CPA firms, also grew, up 18.9% to ¥848mn due to an expansion in
+the number of contracted companies. Both performed strongly and exceeded their
+initial targets. Meanwhile, the total maintenance service for tax accountant
+and CPA firms, TVS, also benefited from new customer acquisition, with sales
+rising 2.1% to ¥1,817mn.○Sales trends by product category Looking at sales tends by product category, service revenues
+rose 6.9% YoY to ¥7,671mn thanks to an increase in software maintenance
+contracts following the acquisition of new customers. But sales of major
+software products were down 2.4% to ¥8,954mn because of declines in sales to
+tax accountant and CPA firms and from individual contract-based development at
+subsidiaries. Other sales increased 33.1% to ¥483mn, continuing the
+double-digit growth that it achieved in the past few years. This was mainly
+attributable to the popularity of the business information website, bizocean,
+which achieved over 1.5 million registered members, with an attendant rise in
+advertising revenues from the website. MJS operates bizocean for employees and
+employers in small- and mid-sized companies and business people.Financial structure has been
+improving in line with profit growth (3) Financial status Looking
+at the company’s financial status at the end of FY3/15, total assets had
+increased ¥287mn from the end of FY3/14 to ¥19,671mn. The main factors behind
+the rise in current assets were that the increase of cash and deposits of
+¥1,498mn exceeded the declines in available-for-sale securities of ¥399mn, and
+in products of ¥135mn. In fixed assets, investment securities declined ¥646mn
+following the sale of some shares held in a business partner, while software
+assets were down ¥304mn. Meanwhile,
+looking at liabilities, total liabilities were down ¥673mn from the end of
+FY3/14 to ¥6,324mn, as although consumption tax payable rose ¥366mn,
+interest-bearing debt, both short-and long-term declined ¥525mn, while deferred
+tax liability was down ¥503mn. In net assets, total assets increased ¥961mn to
+¥13,346mn, because while the valuation difference on other available-for-sales
+investment securities was down ¥771mn, this was exceeded by the rise in capital
+surplus of ¥1,274mn, as well as a decline in treasury shares following the
+exercise of stock options (+¥486mn). Over the last several years, strong earnings growth along with
+the reduction of interest-bearing debt had expanded net cash flow (cash and
+deposits + short-term investment securities – interest-bearing debt) as of the
+end of FY3/15 to over ¥4,000mn. Moreover, the shareholders’ equity ratio continues
+to rise steadily, increasing from 59.9% at the end of FY3/13 to 67.8% as of the
+end of FY3/15, showing that the company’s financial structure has been
+improving in line with its profit growth.Higher sales and profits are
+expected this period for the fifth consecutive period (3) Business outlook for
+FY3/15 The FY3/16 consolidated business outlook is net sales up 5.4%
+YoY to ¥23,600mn, operating income up 18.8% to ¥3,000mn, ordinary income up
+16.0% to ¥3,000mn, and net income up 3.0% to ¥1,810mn, for the fifth
+consecutive fiscal year of higher sales and profits. The operating income ratio
+is also expected to rise from 11.3% in the previous fiscal year to 12.7% due to
+the effects of the increased sales and the improvements to the product mix.The company is focusing its
+efforts on the following three points in this period; “expanding service
+revenues by actively acquiring new customers,” “providing high quality products
+and services and further enhancing functions to improve the level of customer
+satisfaction,” and “building and promoting the foundations for new businesses.”
+○Expanding
+service revenues by actively acquiring new customers Using
+as an opening the Social Security and Tax Number System scheduled to be
+introduced from January 2016, MJS is focusing on new customer acquisition and
+cross sales to existing customers. Through the introduction of the Social
+Security and Tax Number System, the work burden on companies will increase, as
+for example, they will be obliged to take safety measures for the management of
+individual numbers in the Social Security and Tax Number System. The company
+plans to release a My Number management system targeting use with the Social
+Security and Tax Number System this year in September to October, and sales of
+security products are expected to expand in conjunction with this. In addition
+to sales to existing customers, its strategy is to use the same product as a
+hook for new customers, which should result in the acquisition of orders for
+ERP systems. Also, it will continue to strengthen the MJS brand through the TV
+commercials that it has been focusing on since the previous fiscal period and
+also to actively conduct sales promotion activities through seminars and study
+meetings. ○Providing
+high quality products and services and further enhancing functions to improve
+the level of customer satisfaction Amid
+the continuing diversification of customer needs and the innovations in IT
+technology, MJS is strengthening the foundations of its development system that
+is able to continuously provide high quality products and services. It also
+continues to enhance functions for existing products, including by responding
+to the introduction of the Social Security and Tax Number System, the revisions
+to the Electronic Document Act, and to the cloud. ○Building
+and promoting the foundations for new businesses As
+a new business, the subsidiary MJS M&A Partners has launched a business
+providing services supporting the business succession and revitalization of
+small/mid-sized companies. It is currently active primarily in the Tokyo
+metropolitan area in a 6 person system, and it has already secured a number of
+projects. This fiscal year has been positioned as the first year to construct
+the business foundations and it is aiming to become profitable from FY3/17
+onwards. Also,
+the new cloud service that the company is jointly developing with Webcash*, a
+South Korean company with which it concluded a capital and business alliance,
+is scheduled to be launched during this fiscal period and to contribute to
+results from FY3/17. These are also business models that will contribute
+stock-type revenues. System
+installation contracts sales are forecast to halt their decline and increase (2)
+Sales forecasts by customer and by product category ○Outlook
+for system installation contract sales by customer System installation contracts net sales are forecast to halt
+their decline and increase 5.8% YoY to ¥15,057mn. While sales to tax accountant
+and CPA firms are set to continue to fall as replacement demand declines, sales
+of ERP systems for small/mid-sized companies are expected to increase by a
+double-digit 16.1% though new customer acquisition. Sales via the partner
+companies (indirect sales) and subsidiaries are also both forecast to increase.○Sales outlook by product category In sales by product category, main software sales are expected
+to halt their decline and increase 9.3% YoY to ¥9,788mn due to the expanded
+sales of ERP systems for small/mid-sized companies and the higher sales at
+subsidiaries. Also, from the anticipated progress in acquiring new customers,
+service revenues are forecast to steadily rise 2.6% to ¥7,872mn, while the
+increased sales from the highly profitable software and service revenues will
+contribute to improved profitability.◆3rd Medium-term Management Plan Pursing a growth strategy by
+strengthening partner companies and initiatives for new business The
+company’s management vision in its 3rd Medium-term Management Plan, which
+started from FY3/15, is “Challenging the creation of new value,” and it has
+positioned the three years of the plan as a startup period to a new growth
+stage. MJS’s
+management targets for FY3/17, the final fiscal year of the plan, are net sales
+of ¥26,000mn, ordinary income of ¥4,000mn, net income of ¥2,450mn, ROE of 15%,
+and an ordinary income margin of 15%. ○Expanding
+business with partners The company is focusing on business expansion leveraging its
+customer platform and its highly profitable businesses and is continuing to
+restructure its business portfolio. In terms of its sales system, from the fact
+that it has strengthened its sales force by direct sales, it is thought that it
+also wants to promote the enhancement of partner companies in the future. The
+company has around 400 partner companies nationwide, but sales through them
+remain at a low percentage of total sales, at no more than about 5%. This is
+because a majority of its partner companies are not sufficiently knowledgeable
+about MJS products, which is a factor limiting their business to introductions
+to the company.Therefore, in the future it is
+planning initiatives for independent sales activities by partners companies,
+and reforming the partner system and constructing a new educational program so
+that they can link up until the conclusion of contracts. The goal is to
+construct a system that will enable these companies to actively carry out sales
+activities after receiving a certain level of education and training and
+becoming knowledgeable about the company’s products. MJS hopes to increase
+sales via partner companies by strengthening its relations with them. ○Initiatives
+for new businesses The
+company is also focusing its efforts on new businesses. As was described above,
+the service supporting the business succession and revitalization of
+small/medium-sized companies has made a smooth start and there are major
+expectations for its growth in the future. Within the company’s customers, the
+prospective customers are the clients of tax accountant and CPA firms that
+approve the use of this service. Therefore, new projects will be preferentially
+directed to the company via tax accountant and CPA firms. The company counts
+among its customers 8,400 tax accountant and CPA firms, while there are more
+than 500,000 small- and medium-sized companies and micro companies that are
+their clients. If the company strengthens its relations with tax accountant and
+CPA firms, it can be said to have extremely large growth potential. Basically,
+the company stands on the sell-side in M&A negotiations, and negotiates
+conditions with buyers such as financial institutions or M&A operators to
+conclude contracts. It
+will also focus its efforts on the Internet business. Currently, the members of
+its business information website, bizocean have grown to in excess of 1.5
+million people and advertising revenues have expanded to as high as around ¥400
+to ¥500mn a year. The majority of its users are employees and employers in
+companies and business people, and if it can develop paid-for content targeting
+this group, it may achieve even greater earnings. MJS is currently at the stage
+of investigating content that it expects to be profitable. If new businesses grow steadily from FY3/18 onwards, it should
+have in its sights its next management targets, of net sales of ¥50 billion and
+an ordinary income ratio of 30% in fiscal 2020.◆Comparative Share Price Valuation Earnings indicators compare
+favorably to industry peers and feel undervalued We
+conducted a comparison with respect to MJS’s share price valuation against 12
+corporate peers that provide financial and accounting systems, in addition to
+ERP system vendors. The company's share price has risen around 30% since the
+start of the year, from around the ¥600 level to around ¥790. However, expected
+PER and actual PBR were all lower than the 12-peer average, and indicators such
+as ROE, ROA and dividend yield were all at high levels. Notably, compared to
+major ERP system vendors, the levels of the company’s earnings indicators such
+as ROE and ROA compared favorably, but PER and PBR were low. MJS’ operating results are on track to set record high profits,
+and we feel there are many points on which the company should be positively
+evaluated, such as projections for sustained growth; maintaining an ROE of 10%
+or higher, which is viewed as a key investment criteria; and expectations for
+growth in new businesses, such as business revitalization support services. 報告內容僅供參考，不得作為任何投資引用之唯一依據，且其投資風險及決定應由投資人自行判斷並自負損益。
