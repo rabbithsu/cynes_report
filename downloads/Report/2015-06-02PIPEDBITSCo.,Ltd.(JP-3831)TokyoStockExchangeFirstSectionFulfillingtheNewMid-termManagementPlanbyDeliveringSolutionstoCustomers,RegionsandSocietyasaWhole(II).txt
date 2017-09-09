@@ -1,0 +1,291 @@
+PIPEDBITSCo.,Ltd.(JP-3831)TokyoStockExchangeFirstSectionFulfillingtheNewMid-termManagementPlanbyDeliveringSolutionstoCustomers,RegionsandSocietyasaWhole(II)
+  2015-06-02 提供機構：FISCO 作者：FISCO 點閱次數：4   
+
+◆Operating results
+trends Delivered record-high
+operating profit, with steady progress on HR recruitment (1) FY2/15 Results (Actual) Sales and Earnings PB’s FY2/15 results were sales of
+¥3,173mn, (+26.1% YoY) operating profit of
+¥625mn (+10.7% YoY), recurring profit of ¥634mn (+12.2% YoY), and net profit of ¥372mn (+8.7% YoY). In addition to year-on-year gains in both
+sales and earnings, the Company delivered record-high operating profit.
+However, the Company’s performance fell slightly
+below its initial forecast (operating profit and recurring profit of \700mn).
+Rather than reflecting weak demand, the main reason was a slight delay in
+strengthening the workforce, as it took longer than anticipated to train and
+assign newly recruited employees to the frontlines. The operating profit result
+reflects the higher costs incurred as PB made more progress than initially
+anticipated on human resources (HR) recruitment. In FY2/16, PB is expected to
+make greater headway on assigning personnel recruited in FY2/15 to the
+frontlines, along with an anticipated increase in new accounts. Based on this,
+the Company should be able to regain lost ground in terms of its performance.
+For these reasons, PB’s performance, when examined
+closely, was fairly solid.Sales by segment showed sales from the Information Asset
+Platform business of ¥2,627mn, the Advertising
+business of ¥146mn, and the Solutions business of ¥400mn. In addition, all segments achieved operating
+profitability. Operating profit by segment showed the Information Asset
+Platform business with ¥596mn, the Advertising
+business with ¥17mn, and the Solutions business with ¥11mn.In addition to active account numbers increasing significantly
+to 10,757 (+661 YoY) as of the end of FY2/15, increases in sales in the core
+Information Asset Platform business were due to the amount of monthly fees per
+account rising in step with a higher number of information asset records as a
+result of the provision of a wide range of services. Another factor was an
+increase in the number of accounts generating large amounts of fees. Also, the
+cancellation rate returned to the ordinary low level, following the resolution
+of the special factors seen in FY2/15 Q3 (September to November 2014), which is
+contributing to stable profits.Moreover, it has proactively recruited human resources, which as
+is described below, is one of the key initiatives in its new Mid-term
+Management Plan. The number of employees had increased dramatically to 260 as
+of the end of FY2/15, compared with 187 at the end of the previous fiscal year.
+This increase reflected the recruitment of 119 employees against the initially
+planned recruitment of 90 employees. Extended HR training periods led to slower
+than anticipated progress on the assignment of trained personnel to the
+frontlines, and this caused delays in their contribution to earnings. In line
+with these delays, sales fell slightly below the plan targets, and operating
+profit was also below the plan target. However, considering that demand for PB’s services was solid, this result did not raise any concerns
+about the substance of the Company’s
+performance. Rather, it is commendable that earnings still rose after absorbing
+the increase in operating expenses associated with such a large increase in
+personnel. Looking ahead, these newly recruited personnel can be expected to
+start contributing to a stronger workforce, offering strong prospects for a
+dramatic positive change in earnings going forward.(Financial Position and Cash
+Flows) Looking at PB’s financial position as of
+February 28, 2015, total assets were ¥3,388mn
+up ¥745mn from the previous fiscal year-end.
+The major factors were a ¥759mn increase in fixed assets
+(primarily reflecting an increase in goodwill of \144mn from the acquisition of
+AsBase Inc. through a simplified stock swap, and an investment of \500mn in
+Sprinklr Japan KK). Total liabilities rose ¥167mn to ¥749mn, due to a ¥167mn increase in current liabilities. Net assets rose ¥578mn to ¥2,638mn, largely due to the
+recording of net profit.In terms of cash flows, operating activities provided net cash
+of \562mn. Investing activities used net cash of \598mn, mainly for the
+investment of \500mn in Sprinklr Japan KK. Financing activities used net cash
+of \55mn. Consequently, cash and cash equivalents stood at \1,368mn as of
+February 28, 2015.Steadily on track to achieve
+FY2/16 targets based on a stronger workforce and robust sales inquiries (2) FY2/16 (Full-year
+Forecasts) The forecasts for FY2/16, which is already underway, are for
+sales of ¥4,000mn (+26.0% YoY), operating profit of
+¥820mn (+31.2% YoY), recurring profit of ¥820mn (+29.2% YoY), and net profit of ¥490mn (+31.6% YoY).As noted earlier, PB’s business model is a recurring revenue model; the core PaaS
+product is expected to develop further; annual account cancellation rates
+remain in the order of 2-3%; and additionally, inquiries for the products are
+firming. Judging from these facts, PB is highly likely to achieve its targets. As touched on earlier, in FY2/15 PB recruited a large number of
+personnel in (119 employees), and these employees are already starting to
+contribute on the frontlines. This factor will also boost the Company’s performance in FY2/16. Also, the Company plans to recruit
+around 75 new staff members in FY2/16 (there were 260 staff members at the end
+of FY2/15). The aforementioned forecasts take into account the related
+personnel cost increases. Put differently, this means that the Company has
+considerable latitude with respect to budgeted operating expenses. From this
+perspective, barring any drastic declines in earnings, PB is highly likely to
+achieve its profit targets.◆New Mid-term
+Management Plan and Future Operating Strategies Capture growing demand from
+the introduction of the “My Number” system by reinforcing the organization The previous Mid-term
+Management Plan ended in the previous fiscal year. In response, the Company has
+announced its new 2017 Mid-term Management Plan under the slogan “The 3-year revolution to become a next-generation IT vendor”. The plan’s numerical targets are sales
+of ¥9,200mn (3.7 times compared with the
+FY2/14 actual result), and operating profit of ¥2,800mn (5 times compared with the FY2/14 actual result). The
+following three key initiatives have been adopted in order to achieve the plan’s targets. ○ Enhance the speed of
+making business decisions and profitability at new businesses via the
+introduction of the in-house company system ○ Expand business
+through proactive M&As and alliances ○ Proactive HR recruitment and training(Introduce the in-house
+company system) The in-house company system has been introduced for major new
+businesses. The aim of this is to enhance the speed of making business
+decisions and the profitability of new businesses, and to ensure their work
+practices conform to their target industry. For example, in sales for Bireki,
+which is focused on the beauty salon industry, given that most customers are
+beauty salons, many beauty salon customers would have (weekly) holidays on
+Tuesdays and Wednesdays. If in contrast to this, PB’s sales staff takes their (weekly) holidays on Saturdays and
+Sundays, marketing efficiency will be poor. Through the in-house company
+system, the in-house company for Bireki operations is able to freely select
+weekly holidays and working hours, allowing marketing efficiency to be
+increased. To date, the in-house company system has been introduced for Bireki,
+Seijiyama, and I Love Shimokitazawa operations. But depending on the
+circumstances, PB will consider introducing the in-house company system to
+other businesses.PB also announced that it will
+transition to a pure holding company in September 2015. In terms of the
+transition method, the Company plans to set up PiPED HD, Inc. as a wholly
+owning parent company through a share transfer from the current PIPED BITS Co.,
+Ltd., which will thereby become a wholly owned subsidiary of the new parent
+company. It seems possible that each business unit that is currently an
+in-house company will become a subsidiary under the holding company in the
+future. (Expand business through
+proactive M&As and alliances) At PB, M&A is positioned
+as a key operational strategy and it is constantly seeking candidate companies.
+Even currently, it appears that PB is in the process of considering a number of
+deals. PB’s M&A targets mainly fall into two
+groups. The first, like AsBase Inc. which we will discuss below, are companies
+that are able to provide services that PB does not currently have. By
+incorporating these services into PB’s
+platform, customers will be able to receive an even broader range of services.
+Put differently, companies that can provide “sibling services” are candidates. The second
+group targets industries that have been extremely slow to adopt IT, and
+companies in those industries that may have limited IT ability but are well
+versed in their industry. Tie-ups between these sorts of companies and PB will
+help facilitate the adoption of IT within these industries. ○Making AsBase a
+subsidiary As part of its M&A
+strategy, in March 2014, PB made AsBase Inc. a 100%-owned subsidiary via a
+stock swap. AsBase Inc.’s main businesses are audio
+and telephone solutions (call centers, telemarketing, etc.). Given that audio
+solutions are from one-to-one interactions, it has been difficult to compile
+data until now, and it is a field that even PB had not been able to create.
+However, by making AsBase Inc. a subsidiary, PB has been able to link audio and
+telephone solutions with its flagship product SPIRAL®, and increase customer satisfaction significantly. In essence,
+it has enabled a “Web+Audio” service to be provided over the cloud. One example of linking the
+Internet with a call center is the case of booking hotel reservations online.
+This normally requires users to input the necessary information via a keyboard
+or other device. But users such as the elderly who are unfamiliar with entering
+data online can instead contact a call center and communicate the required
+information by voice to complete their Internet reservation. (Note: unlike the
+case of simply making a reservation over the telephone, this example only
+applies to reservations made over the Internet). Making AsBase Inc. a
+subsidiary as noted above was not simply to boost PB’s sales and operating profit figures. Significantly, this
+initiative is expected to generate additional value by capturing synergies with
+the existing SPIRAL® product. Further, AsBase Inc.
+is a technology development-driven company, with marketing based on outright
+sales of on-premise software products. By joining the PB Group, AsBase Inc. can
+now develop business on the cloud, and we may expect AsBase’s own operations to expand. ○Alliance with Sprinkler
+Japan KK Similarly, as part of business expansion efforts, in January
+2015 PB made an investment of \500mn in 17.5% of the shares of Sprinkler Japan
+KK, the Japanese arm of U.S.-based Sprinkler Inc. Sprinkler Inc.’s core businesses consist of (1) customer experience management
+services for companies seeking to use social networking services (SNS) to
+perform CRM, product promotions, marketing and sales promotions, and (2) the
+delivery of platforms that help those companies to enhance their business
+performance through customer experience management. In Japan, more and more
+companies are using SNS to expand their own businesses, whereas in the U.S. an
+even larger number of companies are already using SNS for advertising and
+marketing purposes. Against this backdrop, Sprinkler Inc. is playing a key role
+in encouraging the use of social media by companies.PB invested in Sprinkler Japan
+KK to achieve two main goals. First, PB will be able to expand its customer
+base by referring the services of Spinklr Inc. to the Company’s customers. Second, PB will be able to provide even more
+advanced services in the future by linking SPIRAL® and other PB services to the SNS systems of Sprinklr Inc. The
+investment in Sprinklr Japan KK will not start contributing to sales
+immediately. However, if companies expand their CRM activities using SNS, we
+believe that the investment will eventually start to contribute positively to
+PB’s earnings. (Proactive HR recruitment and
+training) Prior to the current Mid-term
+Management Plan, PB had advanced its previous Mid-term Management Plan with
+FY2/14 as its final year. Unfortunately, PB’s results for FY2/14 fell short of the plan’s targets. PB analyzed the situation and concluded that the main
+reason for this was “insufficient resources.” That is to say, although there were ample inquiries from
+customers, insufficient staff to win new accounts, provide support and fulfill
+other roles resulted in the loss of many accounts. Therefore, under the current
+Mid-term Management Plan, PB initiated a policy to proactively recruit staff.
+Accordingly, although PB had planned to recruit around 90 employees (mainly in
+Sales) in FY2/15, it actually recruited 119 employees Group-wide. Additionally, after reflection
+on the last Mid-term Management Plan, effort will be put into not only
+recruiting numbers, but also training (education, development). Already three
+sales experts are undertaking the training of new recruits as specialist
+trainers and PB is aiming to rapidly increase its human resources through the
+SIP (Spirer Incubation Program), which is its original training program for new
+staff. In this way, it is training the “next generation of IT professionals” who will become its core staff in subsequent periods and will
+help it realize its goal of being a “next
+generation service vendor.” Actually, it is expected that
+this strengthening of human resources will occur after 1-2 years, with it
+anticipated that it will contribute to sales from 2H FY2/16. However, it is
+policy at PB not to loosen the reins on HR training. It is expected that the
+benefits of this policy will be realized in the final year of the Mid-term
+Management Plan, FY2/17. Impact of the introduction of
+the “My Number” National ID system The introduction of the so-called
+“My Number” National ID system represents a seismic shift in the Company’s business landscape that will have a significant bearing on the
+outlook for its future performance. The relevant bills for the “My Number” system were enacted on May
+24, 2013. Currently, local governments are taking the lead in modifying IT
+systems, revising various operations and performing other tasks ahead of the
+notification of personal ID numbers to Japanese citizens in October 2015, and
+the start of use of personal ID numbers in January 2016. In addition, national
+government institutions will begin sharing personal ID number data in January
+2017 and the sharing of this information will be expanded to local governments
+in July 2017. Until now, Japan has used ID numbers to identify individuals in
+various fields and organizations. For example, national and local governments
+and other entities have used universal pension numbers for the pension system
+and insurance identification numbers for long-term term care insurance. Reference
+numbers have also been used for clerical purposes within local governments.
+However, there have been no numbers that identify individuals across different
+fields and organizations. This had made it considerably difficult to identify
+an individual’s personal information as belonging to
+the same person when it is managed across different fields and organizations.
+In response, Japan has decided to introduce a “My Number” national ID system, assigning
+to every Japanese citizen a personal ID number that can be used across
+different fields and institutions. These numbers will ensure that personal
+information on an individual that is held by multiple institutions can be
+confirmed to belong to that same person.Notably, under the “My Number” system, ordinary companies,
+in addition to national governments, local governments and various other public
+institutions, will be required to manage and maintain records by linking an
+employee’s personal information to his or her
+personal ID number. Previously, the Act on the Protection of Personal
+Information required companies to manage only their customers’ personal information. By contrast, the “My Number” system will require companies
+to manage the personal numbers of all employees together with various types of
+records such as wages, taxes, pension, and health insurance data. Therefore, a
+large number of companies are highly likely to be compelled to overhaul or
+rebuild their current IT systems for HR management, payroll and other tasks. Database management systems that facilitate integrated
+management with these types of data and personal ID numbers are indeed the core
+strength of PB’s mainstay product SPIRAL®. There is a high likelihood that customer inquiries for PB’s products could increase as the introduction of the “My Number” system progresses further.
+Another advantage is that major corporations that have introduced on-premise
+software products will need to rebuild their IT systems as a result of the “My Number” system. In the process,
+considering the cost factors, these companies could shift to a cloud-based
+system. At any rate, it is evident that the introduction of the “My Number” system will create demand
+related to personal ID numbers for the IT industry as a whole. Against this
+backdrop, PB is anticipated to derive particularly significant benefits from
+this demand, and future developments will attract considerable attention.◆Supplemental
+information (Main application products) Providing highly
+user-friendly services to a wide range of fields spanning beauty parlors,
+healthcare, architecture and politics Bireki：Released in January
+2012 aimed at beauticians and beauty parlors. It is a new social service that
+records and archives a photographic record of hairstyles for beauty parlor
+customers, enabling communication between client companies and their users.
+Previously at beauty parlors, any records retained of customer hairstyle were
+all handwritten. This was transformed into a service when one of PB’s salesmen proposed retaining them as digital image data, but is
+now spreading throughout the industry, centered on popular and charismatic
+stylists at famous establishments. For beauty parlors, because
+previous hairstyles are kept as photographs, it is possible to reproduce them
+down to subtle details, enabling links to popular stylists and salons outside
+the beauty parlor in question. On the beauty parlor side also, it reduces the
+burden of managing hairstyle records, with a benefit being that it makes it
+easier to attract and retain customers. JoyPla：A cloud format
+pharmaceutical and medical supplies ordering system aimed at medical
+institutions. It differs from traditional joint purchasing systems that only
+allow purchasing of designated products. By using cloud and aggregating orders
+from many medical institutions, it enables each medical institution to freely
+select the products it needs, while maintaining trading relationships with
+existing wholesalers, with a key characteristic being that users may
+additionally enjoy the cost reductions from joint purchasing. Further, given
+that orders to multiple wholesalers may be carried out in a single operation,
+it also enables reductions in the burden associated with ordering procedures
+for medical institutions. A new version of JoyPla was launched in February 2015. It comes
+standard with inventory management functions that are easy for small and
+medium-sized hospital to use, such as withdrawal slip and inventory processing
+functions.ArchiSymphony：An application
+aimed at the construction industry that was launched as a service in May 2012.
+It is handled by Paperless Studio Japan Co., Ltd., which PB made a subsidiary
+through an M&A, and it offers a 3-D design support service called BIM
+(Building Information Modeling). It is a service that links BIM design support
+software with construction materials catalogues over the cloud and that allows
+BIM to be introduced without changing the existing operational flow. It may be
+used for free as an electronic building materials catalogue, with downloaded
+product data reflected in architectural plans. Costing calculations are also
+made possible, with fees corresponding to the volume of information disclosed
+being borne by the building material manufacturer. BIM (Building Information
+Modeling) is a database of building attributes that adds construction and
+maintenance costs, including those for materials and works as well as other
+data, to completed 3-D models of buildings recreated on a computer screen.
+Using this is a new construction process for the building industry, and is used
+in tasks from design and construction to operation and maintenance. Although BIM has yet to fully
+penetrate the Japanese market, in Singapore reportedly they have already
+shifted to BIM for building certification applications up to 10,000 square meters.
+Building estimation also, which is taken to be the most difficult task at a
+construction site, is also being undertaken using ArchiSymphony as a form of
+electronic catalogue. By using ArchiSymphony, a customer can significantly
+reduce time and effort, and as a platform like a 3-D data library, it has the
+hidden potential to be developed significantly in the future. Within this advance of BIM,
+Paperless Studio Japan agreed to form a business tie-up with Penta-Ocean
+Construction<1893> in April 2014. Moreover, Paperless Studio Japan
+conducted a workshop in the “Ministry of Land,
+Infrastructure, Transport and Tourism, the Impact of BIM” seminar sponsored by the Kensetsutsushin Shimbun Corporation.
+In such ways, it is cementing its leadership position for consulting projects
+related to BIM. For the future, Paperless Studio Japan aims to link PB’s SPIRAL® with BIM. Seijiyama：A political and election information platform was
+released in March 2011. In the House of Councillors Election in July 2013, the
+ban on election campaigning over the Internet (or net electioneering) was
+lifted. However, the lifting of the ban does not appear to have brought
+significant benefits to PB. In any event it is expected that Internet
+electioneering activity will progress further, and that this will be a major
+tailwind for PB, a first mover in this field. In October 2014, PB launched “Politician Profile Webpages” that allow candidates for office to share their profile,
+policies, messages and other information with voters. Moreover, in March 2015,
+PB began providing “Members-only Seijiyama
+Services for Members of the Diet” ahead of nationwide local
+elections in April 2015. The Company is focusing on increasing the number of
+member politicians, in addition to encouraging voters to participate in the
+political process. Future developments in this field will be watched closely. 報告內容僅供參考，不得作為任何投資引用之唯一依據，且其投資風險及決定應由投資人自行判斷並自負損益。

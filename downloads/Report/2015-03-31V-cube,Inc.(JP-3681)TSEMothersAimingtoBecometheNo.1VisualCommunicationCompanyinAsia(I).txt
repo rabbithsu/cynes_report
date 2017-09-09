@@ -1,0 +1,253 @@
+V-cube,Inc.(JP-3681)TSEMothersAimingtoBecometheNo.1VisualCommunicationCompanyinAsia(I)
+  2015-03-31 提供機構：FISCO 作者：FISCO 點閱次數：37   
+
+V-cube, Inc.’s <3681> core business is visual communication, primarily
+web conference services using a cloud platform. The business has been growing
+rapidly in Japan and Asia. The company has a distinctively wide range of
+product lines to meet users’ needs, including not only web
+conferencing, but also webinar, online sales, and distant learning. In the fiscal year ended
+December 2014, i.e. FY12/14, the company set a new record for earnings with
+consolidated net sales of \4,681mn, up 85.4% year on year (YOY), operating
+income of \403mn, up 45.9%, ordinary income of \594mn, up 125.4%, and net
+income of \261mn, up 13.7%. For FY12/15, the company is projecting consolidated
+net sales of \6,400mn, up 36.7% YOY, operating income of \502mn, up 24.5%,
+ordinary income of \500mn, down 16.0%, and net income of \267mn, up 2.0%.
+However, the company has positioned FY12/15 as a phase for accelerating
+business expansion and will therefore be focusing on expanding sales more than
+profits, in an effort to hasten expansion of its markets and market share. The
+company therefore expects to record zero profits for the first half, with
+profits concentrated the second half. Since the company’s services are based on cloud computing, as long as it can
+secure net sales, it should be able to achieve profits. The company’s core medium-term growth
+strategies are 1) Expand our existing share and explore potential, 2)
+Asia-based overseas expansion, and 3) Development of a B to B to C platform
+model. There is still ample room for development in both the Japanese and
+overseas markets, and the company’s progress on these strategies
+will be watched by many.◆Corporate Overview Shifting from the core web solutions business to web
+conferencing (1) History Representative director and
+president Naoaki Mashita started V-cube Internet, Ltd. when he was a student at
+Keio University, as a company to provide web solutions. This company was the predecessor
+to V-cube, Inc., subsequently receiving an investment from Keio University and
+changing its business line and name to reach its current form. Today, the
+company’s mainstay business is visual
+communications centered on web conferencing. The company is expanding its
+operations with the goal of becoming No. 1 in Asia in this business. The
+company’s stock was listed on the Tokyo Stock
+Exchange Mothers market in December 2013. Cloud-based services such as web conferencing for
+corporate customers are an earnings pillar (2) Business Overview The company’s business can be described
+briefly as “provision of visual communication
+services via the Internet,” typically web conference
+services and webinars. The company’s
+main business is provision of visual communication services in a Software as a
+Service (SaaS) format (monthly fee) using a cloud computing platform. The
+company’s sale format is described below.●Special characteristics
+of web conferencing Services such as telephone and
+TV conferencing have been widely used by corporations for some time. However,
+the services require special equipment which could only be used at the site of
+installation. By contrast, the company’s
+web conferencing service is provided via the Internet and is therefore available
+for use at any location with an Internet connection. Moreover, the service does
+not require dedicated equipment or terminals; users can simply use ordinary
+devices such as PCs, smartphones, or tablets. In other words, the special
+characteristic and strength of web conferencing is that it can be used anytime,
+anywhere, and by anyone. ●Special characteristics
+of cloud-based businesses The company is developing
+primarily a cloud-based business. With such businesses, barring the case of a
+large scale contract cancellation, the net sales of a given upcoming fiscal
+year tend to be the amount of sales in final month of the previous fiscal year
+(in this case, December) × 12 plus the amount of newly acquired customers.
+Since the business is a cloud-based business, there are few variable costs and
+a large portion of added net sales can usually be added to profit. The special
+characteristic of cloud-based businesses is that once the sales exceed
+break-even point, the profitability increases sharply. ●Revenue sources The company provides its
+services to corporate clients. It does not have transactions with individuals.
+The clients cover a wide range from SMEs to large-scale listed companies, and
+are not biased toward a particular industry. The monthly fee differs depending
+on the maximum number of conference participants in a wide range from \5,000 to
+several hundred thousand yen, with most customers paying between \50,000 and
+\80,000. Therefore, increasing (building up) the number of subscribing companies
+and the amount of fees per company increases the company’s net sales (increases earnings). The company does not disclose
+the number of customers, however few companies cancel their subscriptions once
+they have subscribed, and most subscriptions appear to be continuing. Cloud-based services (monthly
+fees) currently account for 60% of the company’s net sales; however, there are also some customers who are
+constrained from using cloud-based services due to security aspects, and the
+company provides them with an on-premises-type solution using a dedicated
+server, which is a one-time sale type of service. The price for the
+on-premises-type solution is apparently equivalent to around three years’ worth of cloud-based fees. Despite being an on-premises-type solution,
+it includes an ongoing maintenance agreement, and it is therefore important for
+the company to build up the numbers of this kind of customer too. Furthermore, in addition to
+the above, the company also sells appliances, including electronic smart board
+systems that bundle hardware and software together as a package. The company’s consolidated subsidiary PioneerVC Corporation (PVC) handles
+these. ●Main costs The company’s main costs are server and
+communication line (dedicated line) fees, software development expenses,
+operating costs, and the like. It uses external data centers for servers,
+however some of the servers are its own dedicated servers. An increase in
+customers (usage amount) entails an increase in server fees to a certain
+degree; however the ratio of server fees to net sales decreases as the net
+sales increase further. The situation is similar with communication line costs,
+which increase with the increase in net sales, but at a slower rate. In other
+words, as the company’s net sales increase past the
+breakeven point, it will become more profitable.On the other hand, software
+development, operating costs, and so forth are up-front investment components,
+and may not always change in proportion to net sales. They can therefore weigh
+on profitability improvement depending on the business plan. At present these
+costs are on a rising trend since the company is currently in an upfront investment
+phase. In appliances sales, the cost
+of sales rises proportionately to the increase in net sales. For example, in
+the case of electronic smart board systems, the company procures large-size LCD
+displays and sells them. Maintained top market share in the Japanese web
+conference market for a seventh consecutive year, with a share of over 30% (3) Industry share, special
+characteristics, and strengths Web conferencing services
+themselves do not require special technological capabilities, and the market is
+relatively easy to enter. In such a market, the company’s special characteristics and strengths are in the following
+areas. ●Strong service lineup In addition to its main line
+in web conference services, the company has a wide range of other services to
+meet other needs such as webinars, online sales, distant learning,
+tele-healthcare and Counseling, video distribution, and online support. The
+fundamental technologies underpinning these services are the same as for web
+conferencing, however the company provides good usability in each field, which
+has earned it a strong reputation among the users in each field. Through
+continuous R&D, the company is gradually winning the advantage over its
+competitors. Moreover, the company made PVC
+a subsidiary in May 2014, as mentioned above. PVC’s main products are electronic smart boards. In addition to
+selling electronic smart boards and related solutions, it will now also be able
+to provide solutions that combine the electronic smart boards with V-cube’s web conferencing and webinar expertise. Furthermore, from October
+2014, PVC integrated its visual collaboration services under the new xSync (“by-sync”) brand, and commenced
+provision of xSync Prime Collaboration. xSync Prime Collaboration is a service
+designed to meet the need to have meetings with overseas bases such as offshore
+production plants just as with domestic plants. It realizes high quality visual
+collaboration between countries. ●Overseas (Asia)
+expansion capability The company’s services extend beyond Japan. They have developed a service
+for connecting overseas data centers in a dedicated network, which is provided
+in 11 countries centered mainly on Asia (Japan, China, Singapore, Malaysia,
+Indonesia, Thailand, Vietnam, Philippines, India, US, and UK). The company also
+provides multi-language localization of its cloud-based services (Japanese,
+English, Chinese (simplified and traditional), French, Indonesian, Thai, and
+Korean), along with an enhanced English-language support center and other
+measures for global expansion. Having this infrastructure already established
+(ahead of competitors) is one of the company’s strengths. In Asia especially, even if the respective countries have
+relatively strong internal telecommunication networks, their inter-country
+communication environment (international communication lines) are often
+unstable, causing frequent disruptions with TV conferences and other such
+communications between countries. The company’s services solve this issue by using dedicated lines to provide
+a stable communication environment, even between countries, enabling users to
+use the company’s web conferencing service with
+confidence.●Market share and
+competition The company’s share of the Japanese web
+conferencing market is estimated at around 31.4%, and it has held the top
+position for seven consecutive years. Its main competitors are Company C, (a US
+communications major, share 17.0%), Company N (a Japanese communications major,
+share 13.9%), and Company F (a Japanese communications major, share 9.2%).Moreover, in the Asia-Pacific
+(APAC) region, the company’s share is estimated at 17.7%,
+making it second to US company C (32.3%). ●Providing services as a
+specialist company As mentioned above, the
+company’s main competitors are a foreign-owned
+company and subsidiaries of major Japanese companies. It stands to reason that
+they may not necessarily be providing services that meet users’ needs. Foreign-owned companies often relocate the services and
+standards of their own countries without adapting them, and do not always meet
+the needs of Japanese users. Moreover, most major Japanese corporations do not
+have web conferencing as their main business, and in many cases are not
+aggressively investing cash, personnel, and other resources in this field. It
+is therefore difficult to see how they could be fully meeting customer needs. Here, as a specialist in visual communication services centered
+on web conferencing services, the company differentiates itself from other
+companies in the industry because it can continuously make new investments,
+usability improvements, and so forth to meet customers’ needs.◆Business Trends Achieved major increase in sales and profits in FY12/14
+with contribution from PioneerVC acquisition (1) Business trends in FY12/14
+●Profit and loss For FY12/14 the company’s
+consolidated net sales rose 85.4% YOY to \4,681mn, operating income rose 45.9%
+to \403mn, ordinary income rose 125.4% to \594mn, and net income rose 13.7% to
+\261mn.Net sales increased
+dramatically from the previous fiscal year, mainly due to the acquisition of
+PVC, however they were 0.5% lower than originally forecast. Operating income
+also rose sharply over the previous fiscal year but achieved only 76.5% of the
+original forecast of \527mn. The main reason for operating income falling below
+forecast was lower-than-expected cloud-service sales, described below, but the
+result was not a poor one by any standard. Meanwhile, ordinary income
+rose 125.4%, mainly reflecting the recording of a foreign exchange gain of
+\171mn (compared to \46mn in FY12/13) in non-operating income. Nevertheless,
+net income increased only 13.7% YOY, due to recording \21mn as a loss on
+valuation of treasury subscription rights to shares (extraordinary loss),
+non-controlling interests in loss of \93mn due to growth in income of
+consolidated subsidiaries, and a tax obligation of \220mn due to elimination of
+accumulated losses. By region, net sales were
+\3,993mn in Japan (up 74.7% YOY), \590mn in China (up 306.5%), and \97mn in
+other countries (up 3.6%). Sales in Japan increased dramatically, mainly due to
+the acquisition of PVC. Overseas, the subsidiary established in China in 2013
+began operations smoothly and contributed to consolidated net sales. In
+particular, a large-scale project for a Shanghai General Motors Company Ltd.
+has made good progress, presenting opportunities for lateral development in the
+future. In other overseas developments, geopolitical unrest in Thailand
+suppressed sales growth there. As a result, the ratio of overseas sales
+increased from 9.5% in FY12/13 to 14.7%. In net sales in Japan by sale format, the company recorded net
+sales of \2,324mn for the mainstay cloud format (up 19.6% YOY) and \596mn for
+the on-premises format (up 143.7%). Furthermore, the company recorded sales of
+\852mn (no sales in FY12/13) in appliances, a new sale format (primarily PVC’s electronic smart board sales) that was added from FY12/14, and
+\219mn (up 125.6%) in other sales.Net sales have expanded steadily, but sales in cloud services,
+which have high profitability, were below plan, while sales in on-premises and
+appliances, which have relatively low profit margins, expanded. As a result,
+the gross profit margin fell to 57.7% (66.7% in FY12/13). Cloud sales were
+below plan because long-term contracts (recorded as approximately 80% of net
+sales at once) declined, resulting in a slow-down in sales for the present.
+However, the key index for cloud-based services, the number of subscription
+ports (subscription unit), expanded steadily along with the usage time.
+Moreover, the company has developed V-CUBE One, a new concept for a fee system
+in which multiple V-CUBE services are used as a single package. As a result,
+from 3Q to 4Q FY12/14, the port unit price increased from \4,005 to \4,451,
+which is by no means a poor performance.Operating income reflected the
+following factors. The cost of sales increased by \1,138mn YOY (of \838mn for
+purchasing costs, \542mn was for an increase in purchasing in appliances),
+software amortization expenses increased by \73mn, other outsourcing expenses
+increased by \227mn, selling, general, and administrative expenses increased by
+\891mn (personnel and related expenses increased by \409mn, commission payments
+increased by \114mn, sales strategy expenses increased by \111mn, amortization
+of goodwill increased by \63mn, and other expenses increased by \191mn).
+However, net sales rose \2,156mn, absorbing the increase in costs, so that
+operating income increased by \127mn. ●Financial condition The company’s financial condition at the end of FY12/14 was as shown in the
+table. Current assets stood at \2,987mn (\3,391mn at the end of FY12/13),
+however this was mainly due to the use of cash for investments and so forth
+after it had increased in FY12/13 due to the issuing of new shares and other
+factors. Noncurrent assets increased to \3,270mn (\1,638mn at the end of
+FY12/13), mainly reflecting an increase in software to \1,806mn from \1,224mn
+at the end of FY12/13, and an increase in goodwill to \833mn (\145mn at the end
+of FY12/13) in association with the acquisition of PVC and other factors. As a
+result, total assets were \6,257mn (up \1,227mn from the end of FY12/13). Current liabilities increased to \1,350mn (\951mn at the end of
+FY12/13), mainly reflecting an increase in notes and accounts payable-trade of
+\185mn and a decrease in short-term loans payable of \118mn. Moreover, net
+assets increased to \4,400mn (\3,757mn at the end of FY12/13), mainly as a
+result of an increase in non-controlling interests of \308mn associated with
+the consolidation of PVC, while capital surplus increased by \262mn due to the
+recording of net income.For FY12/15, focusing on cloud and appliances in Japan,
+and growth in China (2) Forecast for FY12/15 For FY12/15 the company is
+forecasting consolidated net sales of \6,400mn, up 36.7% YOY, operating income
+of \502mn, up 24.5%, ordinary income of \500mn, down 16.0%, and net income of
+\267mn, up 2.0%. The decline in ordinary income is mainly due to the impact of
+the significant foreign exchange gains that were generated in FY12/14 as
+discussed above. Moreover, net income is expected to grow at a slower pace as
+in FY12/14 due to the impact of taxes and non-controlling interests. Net sales are expected to be concentrated in the second half of
+the year, as non-consolidated net sales tend to be mainly in the second half
+and the sales peak at PVC for appliances in Japan (mainly electronic smart
+boards) tends to occur during 3Q. Net sales for 1H FY12/15 are projected to be
+\2,700mn (up 55.8% YOY). However, operating expenses of PVC will apply for the
+full year from FY12/15, and personnel expenses will increase in line with an
+increase in sales staff from FY12/14, along with sales expenses for acquiring
+customers for the future. These and other expense increases are expected to
+bring all profit levels to zero. The company expects 1H FY12/15 to be a period
+for particularly intense investment activity, the effects of which are not
+planned to emerge until FY12/16 onward. The deterioration in profit during
+FY12/15 is therefore not considered problematic.By region, the company is
+projecting consolidated net sales as follows: Japan \5,359mn (up 34.2% YOY),
+China \811mn (up 37.4%), other overseas \229mn (up 134.5%). Moreover, from
+FY12/14 the company has disclosed consolidated net sales by sale format.
+Projections for FY12/15 are as follows: cloud \3,516mn (up 24.6% YOY),
+on-premises \841mn (up 9.1%), appliances \1,582mn (up 85.6%) and other \459mn
+(up 95.7%). Clearly, the company’s sales growth drivers in terms of sale format are cloud and
+appliances, and in terms of regions, China. The company is also planning to
+expand sales in other overseas by actively opening up new markets. On the expenses front, the
+company is forecasting the following increases for FY12/15: purchasing \561mn
+(of which appliances in Japan are \390mn), outsourcing expenses \217mn,
+amortization of software \167mn. In addition, the company is projecting that
+personnel expenses will increase by \470mn due to the consolidation of PVC
+(full-year burden) and an increase in sales and development personnel, while
+amortization of goodwill increases by \76mn, and sales strategy expenses by
+\41mn, among others. Since these kinds of upfront-investment style expenses
+will continue to increase, the company is projecting zero profit for 1H
+FY12/15, and full-year profit growth as outlined above.  報告內容僅供參考，不得作為任何投資引用之唯一依據，且其投資風險及決定應由投資人自行判斷並自負損益。

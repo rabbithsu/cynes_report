@@ -1,0 +1,247 @@
+STARTIA,INC.(JP-3393)TokyoStockExchangeFirstSectionPreparingtoreaccelerategrowthandgreatlyincreaseearnings,focusingonnewproducts
+  2015-07-08 提供機構：FISCO 作者：FISCO 點閱次數：18   
+
+Startia <3393> serves
+small and medium-sized companies with fewer than 300 employees. Large system
+integrators and network equipment dealers bypass such companies, which
+typically cannot maintain full-time IT personnel. Startia provides one-stop
+IT-related services for these companies, constructing, operating, and
+maintaining hardware through systems for them. Startia’s key advantage is its robust marketing approach, which entails
+getting geographically close to clients to devise ways to facilitate
+cross-selling and offer merchandise that locks clients in. Management targets \3,400mn in
+aggregate recurring profit under its New Three-Year Medium- Term Ordinary
+Income Plan, which ends in FY3/18. The target for FY3/15, the first year, was
+\866 mn, the same as the level for the previous fiscal year. Management has
+accelerated the target growth pace for the second and third years to \1,134 mn
+and \1,400 mn, respectively. Recurring profit in FY3/15 was
+\878 mn, which was \12 mn higher than targeted. Management undertook various
+strategic steps during the year to pave the way for earnings expansion over the
+medium term. The company deployed a rapid succession of initiatives to position
+itself for growth. Efforts included moves to reinforce the security of hosting
+services, acquiring businesses, undertaking business and capital tieups, and
+strengthening overseas operations. Forward investment measures should have
+settled in place in FY3/16, by which time the company will likely leverage its
+more robust sales structure to again drive forward to secure top-line growth. Startia is intensively developing new products and services for
+next-generation growth. Releases in FY3/16 include AppGoose and Startia Hikari.
+The AppGoose service makes it simple for small and mid-sized stores to engage
+in online-to-offline marketing, which has become a focus of attention. Startia
+Hikari is the brand for services launched through participation in NTT’s Hikari Collaboration service. We believe that both AppGoose
+and Startia Hikari will start contributing fully to Startia’s earnings from FY3/17. The initial year launches will command
+considerable attention, as these services have high growth potential.◆Description of
+businesses Providing an integrated IT
+environment to small and medium-sized companies Hideyuki Hongo, the President, Representative Director and Chief
+Executive Officer, established Startia in 1996. It started out by selling
+business phones, expanding by offering Web hosting (rental servers) and other
+services with the spread of the Internet. Startia’s business model focuses on serving small and medium-sized
+companies with fewer than 300 employees, which are often ignored by the
+competition, helping these entities overcome weak IT capabilities by providing
+an integrated IT environment. Startia currently provides one-stop solutions in
+the three business areas below.(1) Web solutions related
+business The wholly owned Startia Lab,
+Inc., oversees the Web solutions business. This segment focuses on developing
+and selling ActiBook e-book production software and selling the COCOAR
+augmented reality service. Both are apparently very high-margin offerings,
+enabling this segment to account for almost half of Startia’s operating income. This business provides website
+production, operations, and maintenance services. It also supplies log analysis
+and search engine optimization and management services. Startia released AppGoose in
+FY3/16. We will detail that product later in this report, but in essence,
+AppGoose makes it simple for small and medium-sized enterprises and stores to
+produce online-to-offline applications and marketing campaigns. (2) Network solutions related
+business The network solutions business
+engages in internal IT network construction. It provides integrated hardware
+and software assistance. On the hardware side, it sells routers, firewalls, and
+other network equipment and provides network construction and other equipment.
+On the software side, this business also proposes optimal Internet service
+provider support that reflects client needs and scales and other factors. Startia assists clients after
+network completion, supplying rental servers and the Secure SAMBA and
+Digit@Link Cloud services. Its offerings also include the Global Gateway
+dedicated line linking Japan and China and NetResQ, a maintenance service for
+the networks of small enterprises. (3) Business solutions
+business The business solutions segment
+focuses on selling and maintaining wireline telephones and corporate mobile
+phones, copiers, and the Otoku Line service. The business model for many
+products in this segment is a stock-based revenue structure. Therefore,
+although margins are low this segment can stably amass earnings. In May this year, the company
+launched Startia Hikari, the brand for a retail business for fiber-optic lines.
+Startia is a provider under the Hikari Collaboration service of NTT
+<9432>. This new service could put the business solutions segment back on
+track for growth. We will discuss details later in this report. ◆Profit structure and
+strengths Emphasizing flow sales growth
+over stock sales proportion gains (1) Profit structure Startia derives its profits from one-time sales (flow) and monthly
+revenues (stock). Clients can choose from flow or stock options (one example
+being ActiBook e-book software). In other cases, a dual flow and stock
+structure applies. An example of this is multi-functional printers (MFPs), for
+which a one-time sale is recorded to purchase a unit, with monthly revenues
+accruing from MFP counter fees (charging for paper, toner, and other
+consumables). Flow sales currently account for 66.5% of net sales, with stock
+sales representing 33.5%.The higher the stock sales proportion,
+the more stable the results. Startia, however, maintains a dual flow and stock
+sales structure for much of its merchandise and services. In addition, the
+company could provide ActiBook on a stock sales basis, selling on installment,
+or on a flow basis, which would clearly be more effective in boosting results
+in a single fiscal year. We believe that Startia should be seen as focusing
+more on flow sales growth and less on stock sales proportion gains. Successfully deploying highly
+efficient marketing strategy (2) Key factors in strong
+marketing capabilities Startia’s strong marketing capabilities are central to its growth. The
+company has successfully devised its own approach to reinforce marketing and
+turn it into a strength. The first factor is Startia’s business focus. Most of its clients are small and medium-sized
+enterprises with fewer than 300 employees. There are around 5.43 million such
+companies around Japan. Many do not have in-house IT engineers. Yet, systems
+integrators and network equipment dealers generally ignore them because they
+are so small. Startia’s business purpose is to step
+into this IT void and eliminate the digital divide for these enterprises. This
+means that Startia’s salespeople have to be
+physically near client enterprises. The company therefore set about expanding
+sales to clients its people can reach in around an hour and a half. Startia
+accordingly markets in areas with high population concentrations, notably
+metropolitan Tokyo, and the Kansai, Tokai, and Kyushu areas. The focus is on
+being close to clients rather than having a presence in Japan’s four major metropolitan areas. The second factor is that Startia has multiple offerings that it
+can exploit in cross-selling. For example, it can package business phones with
+MFPs or provide a package that combines hosting services with network equipment
+and construction. From the client perspective, the company has a lineup of
+complementary offerings. Startia’s slim billing service is a
+one-stop billing system covering multiple services from the company. The
+benefit for clients is that they can contact a single inquiry desk. This is not
+only more convenient for clients but also helps reduce their administrative and
+accounting workloads. This is a great motivator for companies to order packages
+of Startia’s IT services. In short, Startia adds
+one-stop solutions for IT infrastructure and slim billing to achieve
+cross-selling.As discussed earlier, Startia
+has combined its focus on close proximity to clients with proposing a product
+and service lineup that enhances client convenience as part of a highly
+efficient marketing strategy that has successfully increased multiple
+purchasing per client while expanding client numbers. ◆Medium-term income
+plan and new services Accelerating to regenerate
+profit growth from this fiscal year (1) Overview of medium-term
+income plan Startia announced its New Three-Year Medium-Term Ordinary Income
+Plan on August 20, 2014. The first noteworthy aspect of this initiative is that
+the company is targeting \3,400 mn in aggregate recurring profit over the three
+years through FY3/17. This would be 71.2% higher than the \1,986 mn generated
+in the preceding plan. The next key point of the plan is that management looks
+to maintain the initial year recurring profit at the FY3/14 level and
+accelerate growth in the second and third years.This is apparently the first
+time for Startia to formulate a medium-term income plan that takes such an
+approach. We think that the company did so because it has already reached a
+certain earnings level stemming from ongoing expansion since its establishment
+and wants to prepare for the next stage of growth. Management itself has
+characterized the flat recurring profit projection for FY3/15 as “a forward investment.”
+The greatest of several such investments will be on improving security for the
+network solutions business. From the outset, the company factored in such
+efforts as hiring and training large numbers of new graduates and beefing up
+its global strategies. Exceeding recurring profit
+projection and increasing technological division engineers as proportion of
+employee number (2) Progress assessment:
+FY3/15 results In FY3/15, the first year of the current medium-term income
+plan, Startia posted \8,682 mn in net sales (YoY +6.3%), \747 mn in operating
+income (YoY +10.0%), \878 mn in recurring profit (YoY +2.6%), and \592 mn in
+net profit (YoY +37.2%). Although net sales and operating income were \566 mn
+and \93 mn, respectively, lower than management’s forecasts, recurring profit, a key performance indicator under
+the medium-term income plan, was \12mn higher than projected.The main factors in sales and
+operating income shortfalls below projections were that all businesses,
+particularly Web solutions, performed more sluggishly than expected in the
+third quarter. The Web solutions shortfall stemmed from insufficient marketing
+capabilities despite endeavoring to shift the sales focus from ActiBook to
+COCOAR, with new graduates spearheading that effort, and COCOAR sales
+decelerating. In the fourth quarter, the company was unable to offset third
+quarter shortfalls despite regaining momentum. Recurring profit was ¥12 mn higher than forecast, as equity in earnings of affiliates
+increased ¥46 mn, while there was a ¥47 mn foreign exchange gain. The table below presents key initiatives during FY3/15. Startia
+invested in security as planned, upgrading to new servers and installing new
+security software. The company recruited 84 new graduates, representing around
+20% of its employees, with around 60 of those new hires still with the company
+as of the end of FY3/15. The year was noteworthy for business and capital
+alliances to secure new people and boost personnel capacity. Startia set up a
+branch in Taiwan during the year. The company had previously marketed its
+offerings there exclusively through local entity Horma Digital Technology (in
+which it acquired a 39.76% stake in June 2013). With the new Taiwanese branch,
+Startia retained that setup while stepping up operational oversight, apparently
+with considerable success.As well as hiring new graduates in FY3/15, Startia took on
+engineers from the businesses of Next IT Inc. and Issei Business Machines. The
+group thus had 554 employees at year-end. It is worth noting that the number of
+technical operations people is rising as a proportion of all employees.Launching two new products
+this term that could drive growth (3) Key new products Startia made forward
+investments in FY3/15 to drive growth. The company aims to return to an
+expansionary trajectory from FY3/16. In that year, it plans to release two new
+products that could become growth engines, building on the successes of such
+offerings as ActiBook, COCOAR, and Secure SAMBA. (a) AppGoose Online-to-offline marketing is
+attracting considerable attention in the retailing sector. Typical examples
+online include distributing discount coupons or providing bricks and mortar
+store location or event information to encourage visits to those stores. To execute online-to-off-line
+marketing, stores have to develop their own apps, which consumers must download
+from the App Store or Google Play. Stores then distribute coupons and event and
+other information through the apps. This is one hurdle to stores developing
+their own apps. Startia’s AppGoose service offers two
+key advantages. The first is that stores that do not have their own apps can
+use Startia’s GOOSEE app to distribute coupons and
+event and other information. Second, it enables stores that want to engage in
+online-to-offline marketing with their own apps to create them simply
+(distributing coupons and information through the apps). Startia’s business model is to charge stores an initial fee and then a
+monthly usage charge.(b) Startia Hikari NTT <9432> made it
+possible for service providers to wholesale FLET’s Hikari fiber-optic broadband connections, which it previously
+marketed itself. Those providers can add Hikari to their own services and sell
+them to consumers at fees that those companies set independently. This setup is
+called the Hikari Collaboration Service. Providers are called Hikari
+Collaboration businesses. Startia is one such business, marketing its service
+package under the Startia Hikari brand. Consumers using FLET’s
+Hikari can switch to services from Startia Hikari or other Hikari Collaboration
+businesses, without needing to change their phone numbers or commission
+construction work for the changes and only requiring a change in contract form.
+The usage environment remains the same for consumers after the change, as the
+contracts allow them to continue using services that are available only from
+NTT.◆Operational results
+and financial analysis Significantly higher revenues
+and earnings in each segment in near absence of factors constraining
+profitability (1) Outlook for FY3/16 Management’s forecasts for FY3/16 are for ¥10,000 mn in sales (YoY +15.2%), ¥1,134 mn in operating income (YoY +51.8%), ¥1,134 mn in recurring profit (YoY +29.2%), and ¥567 mn in net profit (YoY -4.2%). Although the company looks for
+significantly higher revenues and earnings in each segment, it is important to
+assess this information carefully because of transfers between some product
+segments. Management forecasts sales of ¥2,523 mn (YoY +23.6%) in the Web solutions business. We believe
+that most of that growth would come from COCOAR. Development costs are low for
+this offering, partly because it is a derivative of ActiBook, and the very high
+profitability of this product makes it attractive. The AppGoose service will
+probably not contribute fully to earnings until FY3/17 onward, as sales will
+not kick in during this inaugural year until customers learn of the
+convenience, utility, and usage advantages. That said, online-to-offline
+marketing is attracting a lot of attention because it is easy to understand its
+impact, so AppGoose could have more scope for growth than expected. The sales projection for the
+network solutions business is ¥2,429 mn (YoY -0.1%). One
+factor in that decline would be that Startia has transferred the NetResQ
+service from the network solutions business-to-business solutions, lowering
+network solutions sales by around ¥350
+mn. Management looks to compensate for the NetResQ transfer by increasing sales
+of Secure SAMBA as a Saas-based online storage service and sales of network
+equipment. The sales projection for the business solutions segment is ¥4,986 mn (YoY +18.5%). The company looks to significantly
+increase MFP sales after adding new models once it sells out predecessor ones.
+The accumulated unit sales growth of MFPs should greatly increase counter
+fee-based revenues and drive segment sales growth. Management estimates sales
+of ¥80 mn to ¥90 mn for the new Startia Hikari service, and it will be worth
+monitoring sales trends in this area as salespeople will probably find the
+service easier to promote than the copper-based Otoku Line service.On the earnings front, most of the elements that constrained
+profitability in FY3/15 should be absent in FY3/16. Expenditure to reinforce
+server security peaked during FY3/15, and this factor should add around ¥30 mn to the bottom line this fiscal year. Startia hired 70 new
+graduates in spring this year. Management has drawn on the experience of FY3/15
+to modify its strategies for cultivating and training new hires and handling
+merchandise, changing its approach so people gain confidence quicker. This
+effort seems to be steadily bearing fruit. We think that the company will be
+well placed to absorb the impacts of higher personal expenses and spending on
+20th anniversary celebrations on selling, general and administrative expenses
+if it reaches its sales goals.ROE trending above average
+for Japanese companies and international standards (2) Financial status analysis In FY3/15, Startia’s ROE reached 15.9%. This was not only higher than the average
+for Japanese companies but also exceeded the 15% average internationally. That
+said, it is important that this ROE reflected a nonrecurring factor, notably
+the sale of investment securities that boosted net income by ¥52 mn that year. Still, Startia’s ROA was a solid 16.2%, so we can say that its ROE was of a
+very high quality. Our ROE forecast for FY3/16 is 13.5%, calculated from total
+assets and shareholders equity estimates based on management’s assumptions. A decline in the ratio of gross profits to sales
+would have a great impact. Management forecasts great differences in recurring
+profit and net income because of the company’s normal tax rate. We believe that there is ample potential for
+net income to be higher than management envisages, in which case ROE could be
+more than 13.5%.◆Shareholder’s return Company emphasizing
+individual shareholders and pursuing shareholder returns Startia is emphasizing
+individual shareholders and pursuing shareholder returns. Dividends are
+fundamental to that approach, and management has determined dividends that
+strike a balance with the internal reserves set aside for growth investments. Management was previously
+committed to a payout ratio of 10%. In FY3/14, the company paid a dividend of ¥15 per share to commemorate listing on the first section of the
+Tokyo Stock Exchange, thereby raising the payout ratio to 17.6%. From FY3/15,
+the company listed the target payout ratio to 15%. A dividend of ¥20 per share in FY3/15 to mark the company’s 20th anniversary increased the payout ratio to 17.2%. In FY3/16, management plans to pay dividends of ¥17 per share. That would represent a payout ratio of 15.3% on
+the projected net income per share of ¥111.24
+yen. If earnings expand even further, we could anticipate commensurately higher
+dividends, with management possibly raising its payout ratio targets over the
+medium and long terms. 報告內容僅供參考，不得作為任何投資引用之唯一依據，且其投資風險及決定應由投資人自行判斷並自負損益。

@@ -1,0 +1,266 @@
+SoftbrainCo.,Ltd.(JP-4779)TokyoStockExchangeFirstSectionAmajorplayerinSFA/CRMsoftwarewithrecordhighinFY2014(theyearendingDecember31,2014)
+  2015-05-11 提供機構：FISCO 作者：FISCO 點閱次數：6   
+
+Softbrain <4779>
+(hereafter, “the company”) is a major player in SFA (Sales Force Automation) / CRM
+(Customer Relationship Management) software, which support resolving corporate
+sales issues, and holds 20-30% of the domestic market share in the SFA field.
+The field marketing business operated by its subsidiary company is developing
+into a second core revenue stream. The company’s consolidated financial results for FY 2014, the year ending
+December 31, 2014 (hereafter, “FY 2014”), recorded high for the first time in seven years with 11.7%
+sales growth year-on-year (hereafter, “y/y”) to ¥4,934mn while operating profit
+increased by 15.4% to ¥568mn, its first profit
+increase in two years. Field marketing business sustaining its high growth
+through expansion in the number of customers and share of trade, and earnings
+recovery in systems development and other businesses contributed to the profit
+increase. e-Sales Manager related business, however, reported profit fall due
+to the accumulation of upfront investment including costs for development and
+sales-promotion, though sales revenue increased steadily. The increase both in sales and
+profit is projected to continue in FY 2015, with sales increasing by 9.4% y/y
+to ¥5,400mn and operating profit by 14.3% y/y
+to ¥650mn. In addition to field marketing
+business in good condition, the company also aims to enlarge the number of
+customers in its e-Sales Manager related business by advancing the product
+development which will enhance the convenience. The company focuses on sales
+growth in e-Sales Manager related business, and aims for double-digit sales
+growth in this term while strengthening its partnerships with enterprises which
+have strong sales channel for small- and medium-sized companies. The company does not plan to pay a dividend this term. The
+company is currently considered to be in an investment phase in order to expand
+its businesses, therefore its retained earnings will preferentially be
+allocated to such areas as development investment and sales-promotion costs.
+The company will consider reviewing its shareholder return policy in accordance
+with its financial condition.◆Business Outline Cumulative total of
+installation of the company’s product exceeds 3,000
+companies, from large companies to small- and medium-sized companies The company’s operations are classified in
+4 categories; e-Sales Manager related business, field marketing business,
+system development business, and other businesses. The majority of both sales
+and profit are coming from e-Sales Manager related and field marketing
+business, which are the two main revenue streams. There are 5 consolidated
+subsidiaries as of the end of December 2014, each of which business outlines
+are as described in the table below.○e-Sales Manager related
+business This includes sales of
+licenses for SFA software named “e-Sales Manager”, cloud services, customized development, as well as sales
+consulting and skills training. “e-Sales Manager” is a software tool which helps identify areas for improvement
+and enhance sales efficiency by enabling users to grasp the situation
+quantitatively and to visualize each process in sales activities, which are
+described as process management of sales activities.Sales for e-Sales Manager can
+be divided into two types; on-premises type which yields revenue from sales of
+software licenses, and cloud type with which usage fees are collected. In
+recent years, the majority of contracts have been cloud-type services that do
+not require a capital expenditure burden and that can keep down the initial
+installation costs. As for the cloud type, the company provides e-Sales Manager
+Remix Cloud (¥6,000/month per user) as well as e-Sales
+Manager nano (¥500/month per user), which is simplified
+with functions usable for small- and medium-sized companies with 10 employees
+or less. The domestic market scale of
+SFA (Sales Force Automation) is approx. ¥5 to 8 billion, out of which the company is thought to hold a
+share of 20-30%. Competitors include NI Consulting CO., LTD. (unlisted), and
+Salesforce.com Inc. (cloud type only). Salesforce.com holds the top share with
+more than 40% in the market of cloud-type SFA. The cumulative total of e-Sales Manager installation exceeds
+3,000 companies, which consists of a broad range of companies from
+manufacturers to service providers, from large companies to small- and
+medium-sized companies. The unique selling propositions of the company’s product include, on top of its usability such as
+user-friendliness and processing speed, compatibility to both on-premises and
+cloud sales types, and that it is well-supported by services such as consulting
+and educational services to help improve the outcome of installation.○Field marketing
+business Field marketing business, which has been developed by a
+subsidiary company named Softbrain Field Co., Ltd., mainly carries out field
+activities at stores and market research using “casts” (registered staff members)
+which consist mostly of housewives. It also provides services such as temporary
+staffing of and referrals to “rounders” (field merchandiser) who carry out field activities as well as
+shoppers’ databases collected by the company.Field activities mainly represent business negotiation, layout
+of sales floors, and creation of point-of-purchase ads at retail stores when
+consumable manufacturers launch new products such as food items and daily
+commodities. Although these activities used to be accomplished by employees of
+the manufacturer, outsourcing of the activities has become more popular for the
+purpose of improving cost efficiency in sales promotion. There are more than
+200 corporate customers including customers in the past with a broad range of
+manufacturers for food and beverage and for healthcare-related products. The
+number of “casts” exceeded 50,000 people as of the end of December 2014, and the
+stores covered include various types of businesses such as drug stores and
+convenience stores, with which nationwide coverage is one of the company’s strengths.Further, a new marketing support
+service named “POB – Point of Buy” (which provides data on
+reasons for purchase) was commenced in 2013 jointly with Credit Saison (8253),
+a leading company in the credit-card industry. It provides more reliable
+customer behavior analysis by enabling users to collect data such as reasons
+for purchase of products in retail stores and/ or menu items ordered at
+restaurants with receipts attached. It is structured in a way where customers,
+on the other hand, are eligible to acquire the points on Eikyufumetsu.com
+(points that never expire) by Credit Saison. The number of registered members
+(consumers) exceeds 120,000 people and it is building the nation’s largest platform. ○Systems development
+business Contracted software
+development is undertaken by Softbrain Offshore Co., Ltd., a subsidiary
+company. Divestiture of the subsidiary company in China was conducted in
+September 2013 as a part of its business structural reforms though it keeps a
+business relationship as a subcontractor, and the company continues to utilize
+its Vietnamese and domestic near-shoring bases. ○Other businesses This includes business consulting, sales and support in
+installation of smart devices, and educational services by Softbrain
+Integration Co., Ltd., and planning, editing and publishing of sales
+promotion-related publications by Diamond Business Planning Inc.◆Business Trends Increase in proportion of
+stock-type (recurring) revenue from cloud and on-premises contracts (1) Overview of the results
+for FY 2014 The consolidated results for
+FY 2014 that were announced on January 30 showed growth in each category such
+as sales by 11.7% y/y to ¥4,934mn, operating profit by
+15.4% y/y to ¥568mn, and current profit by 17.5% to ¥578mn, also showed a decline in net profit by 35.4% y/y to ¥252mn, which means all the results surpassed those in the
+previous term except net profit. In addition, all the results, including net
+profit, exceeded the beginning-of-year forecast. The company recorded its
+highest sales in seven terms (FY 2007: ¥4,546mn) with field marketing business as the driving force.
+Although SG&A costs including sales-promotion costs and labor costs rose,
+operating profit increased for the first time in two terms as a result of the
+increased sales and the structural reforms to the systems development business.
+Net profit declined, which is affected by the normalization of the tax burden
+and the increased minority interest in conjunction with the increased income at
+subsidiaries including Softbrain Field. An overview of conditions in each
+business segment is shown below.○e-Sales Manager related
+business In e-Sales Manager related
+business, sales (for external customers, the same shall apply hereafter) grew
+by 5.9% y/y to ¥2,386mn, while segment profit declined by
+17.2% to ¥229mn. e-Sales Manager Remix Cloud,
+which constitutes approx. 40% of this business, achieved double digit growth
+y/y in sales due to the steady development of new customers through incremental
+enhancement of functionality. Moreover, there was an increase in cases of
+orders for the various consulting services such as sales education &
+training and Process Management College, which accounts for approx. 20 to 30%
+of the business, in parallel with installation of e-Sales Manager which
+resulted in a y/y double digit increase in profit. On-premises type,
+conversely, recorded large-scale deals in 2013, therefore its results remained
+unchanged. Segment profit were down for the second consecutive period, for
+which the main reasons are the increased prior investment in such areas as
+development to enhance the functionality of e-Sales Manager, and sales
+promotion to acquire customers. The sales ratio for stock-type services, which
+includes cloud services and maintenance services for on-premises contracts,
+rose to around 50% of this business and the stability of revenue base is
+steadily improving.○Field marketing
+business Field marketing business
+maintained high growth, with sales increasing by 26.4% y/y to ¥1,652mn, and segment profit by 18.0% y/y to ¥300mn. It receives high evaluation marks from their customers on
+their service quality and the cost-efficiency. Accumulated continuous projects
+with its primarily-targeted consumables manufacturers including
+pharmaceuticals, foodstuffs, and commodities and acquisition of periodic
+large-scale deals contributed to the increase in profit. Although revenue contribution
+from POB business which commenced in February 2013 is yet small, the number of
+registered members exceeds 120,000 people and it is steadily building a
+platform with a high usage value for corporate marketing analysis. A website
+named RECEIPO was established in October 2014 which introduces products in the
+form of a ranking with reviews by real customers who have bought the product,
+and it aims to further expand this business by acquiring more members. Similarly, the rounder human
+resources business that was launched in March 2013 (temporary staffing of and
+referrals to field support staff) is also achieving a certain result as in
+deals made with more than 50 companies, and it is expected to contribute to
+revenues in the future. Despite the increase in segment profit, the profit margin fell
+slightly from 19.5% to 18.2%, which is thought to be affected by intensified
+competition and higher costs in conjunction with the launch of new businesses.
+However, the company persists maintaining profitability in comparison to peers
+in the field marketing industry.○Systems development
+business The results of the system
+development business showed sales increased by 2.3% y/y to ¥430mn and segment profit at ¥0.04mn (¥56mn loss in the previous
+year) which means it turned into the black slightly. Against the backdrop of the recovery in IT investment and the
+chronic shortage of human resources required for development, the temporary
+staffing business, in which development personnels are dispatched to corporate
+customers, performed favorably which resulted in increased profit. In terms of
+profit and loss, moreover, the reduction in fixed costs by the divestiture of
+the subsidiary development company in China in addition to the fact that the
+impact of the unprofitable project, which was generated in the previous term,
+took a round, contributed to the improved profit.○Other businesses Results in other businesses
+showed sales increased by 7.0% y/y to ¥465mn
+and segment profit increased by around 6 times to ¥36mn. Softbrain Integration
+performed strongly, benefiting from the cross-selling effects between e-Sales
+Manager and operational consulting & educational services utilizing smart
+devices such as iPad . Softbrain Integration was certified in Apple Consultants
+Network in July 2014 for its achievement in introducing iPad to organizations.
+It continues to develop professional services with leading-edge information and
+technologies as an Apple certified IT consultant. Publishing business at Diamond Business Planning also recorded
+an increase in both sales and profit due to the increased demand for corporate
+publications.Profitability indicators,
+such as operating profit margin, ROE, and ROA, exceed 10% (2) Financial position and
+management indices Examining the financial
+position at the end of December 2014, total assets increased by ¥478mn y/y to ¥4,145mn. Items that mainly
+impacted the rise and fall are; cash and deposits increased by ¥619mn, sales receivables and deferred tax assets decreased by ¥40mn and ¥71mn respectively. On the other hand, liabilities
+at the end of the term rose to ¥1,134mn with a ¥189mn increase. Interest bearing liabilities increased by ¥30mn and each of arrears, advances received, and notes and
+accounts payable slightly increased in conjunction with business expansion. Net
+assets have grown to ¥3,011mn with a ¥288mn increase including ¥248mn in retained earnings and ¥35mn in minority interest. Looking at the main management indices, all the indices
+including the current ratio, shareholders’ equity ratio and debt/equity ratio which indicate stability
+slightly worsened compared to the end of the previous term, however, it can
+still be said that the company has maintained financial strength. Each
+indicator of profitability, such as ROA, ROE, and the operating profit margin,
+are more than 10%. However, there has been a noticeable decline in ROE due to
+the enhancement of shareholders’ equity in conjunction with
+the increase in profit, therefore it seems that the company will be required to
+be committed to maintaining and improving its capital efficiency.◆Future Outlook An increase in sales and
+profit is expected from the high growth in the field marketing business (1) FY 2015 Outlook Consolidated result in FY 2015
+(the year ending December 31, 2015) projects that sales will rise by 9.4% y/y
+to ¥5,400mn, operating profit by 14.3% to ¥650mn, current profit by 12.3% to ¥650mn, and net profit by 18.7% to ¥300mn. In addition to field marketing business continuing high
+growth, the company also aims to enlarge the number of customers in its e-Sales
+Manager related business by strengthening functionality on a continuous basis.
+System development business and other businesses are forecasted to remain
+unchanged y/y. This year’s efforts for the two core
+businesses are as described below. Aims to increase the number
+of customers both for cloud and on-premises type while enhancing functionality (2) e-Sales Manager related
+business The company aims for a more
+than 10% sales increase (y/y) for e-Sales Manager related business this year.
+Their strategy is to proactively invest in product development pursuing “SFA with No.1 usability”
+and to increase the number of customers both for cloud and on-premises type
+while enhancing functionality. Function enhancement was implemented four times in the previous
+year all of which were highly evaluated by customers. The design of its smart
+phone version was renewed in January this year to improve user-friendliness.
+The company plans to strengthen its product competitiveness by continuous
+function enhancement as shown below.The company’s strategic direction for new
+business development is to focus particularly on developing its main market
+segment such as small- and middle-sized companies, for which the company aims
+to further strengthen partnership with other companies, which has been
+intensified since the previous term, and also to actively invest in
+sales-promotion including Web advertisement.Although its profit may stagnate as a result of the increased
+development costs and sales-promotion costs, the company gives customer
+acquisition the greatest priority in this business. This is because it is
+projected that installation of SFA software as a tool for sales productivity
+improvement will be accelerated hereafter along with the popularization of
+smart devices in business corporations. The number of domestic companies that
+have installed SFA is said to be approximately 20,000. Since there are approx.
+3-4 million corporate entities domestically out of which 1 million entities are
+estimated to have a sales division, SFA penetration rate yet remains at a small
+percentage therefore there is a significant growth potential.New large-scale deals and
+growth in the rounder human resources business are expected (3) Field marketing business This term’s sales figures in field marketing business are expected to
+greatly increase by 20% y/y. In addition to expected new large-scale deals for
+field support, growth in the “rounder” (field merchandiser) human resources business is projected. The driving forces behind its
+growth in field support operations are its competitive advantages such as
+customers’ cost-effectiveness due to the high
+quality of the company’s services and its service
+charges on a per-visit basis*,
+and its extensive and rapid job performance as a result of deploying 50,000
+casts throughout the nation. It is projected to continue the high growth for
+the time being aided by the growing trend toward outsourcing of field support
+operations in the market. In addition, there is an
+increasing demand for competent in-house field support staff with high value
+experience in the context of the growing shortfall in human resources in a
+number of industries. Sales figures in the rounder human resources business,
+which was launched in March 2013 in order to meet those needs, is expected to
+account for approx. 15% of the entire business. Although the profitability is
+projected to become less than in the past because its temp services take up the
+majority between temp services and referral services, it is expected to
+contribute to the company’s business expansion. Moreover, the POB business is
+smoothly expanding services not only for consumables manufacturers but also for
+restaurant chain companies. It launched a service where customers can browse
+shoppers’ insight information in comparison with
+similar products of other companies (purchased products, reasons for purchase,
+stores where purchased, comparative products, etc.) collected from approx.
+120,000 membership base at low cost, and can also browse information on each
+category - in May 2014 for consumables manufacturers and in June 2014 for the
+restaurant industry respectively. Since the information such as buying motivations and product
+evaluations can be collected in a short time from actual product buyers, the
+value of this service as a corporate marketing tool is expected to grow in the
+future. It is thought that it will take a few more years before the business
+expands to the extent that it has an impact on revenues, though it is expected
+to grow into one of the stable revenue streams as it is a stock-type business.◆Plan of Shareholder
+Return Flexible dividends based on
+operating results The company sets their basic shareholder return policy as “flexible dividends depending on its stage of growth and
+operating results while focusing mainly on enriching retained earnings ratio in
+order to strengthen its corporate financial position and to promote business
+development in the future”. The company did not pay
+divideds in FY 2014 (the year ending December 31, 2014) as it judged that
+neither of its reserves nor profit are yet at the level where dividends can be
+paid. Currently no dividend is planned for FY 2015 (the year ending December
+31, 2015) neither, which is because, as was noted above, the company is
+currently in the investment phase in such businesses as e-Sales Manager and new
+businesses, therefore its policy is to actively invest retained earnings in
+development of these businesses and in sales promotion. In the future, however,
+the company will consider reviewing its shareholder return policy in accordance
+with the changes in economic environment and its financial condition. 報告內容僅供參考，不得作為任何投資引用之唯一依據，且其投資風險及決定應由投資人自行判斷並自負損益。

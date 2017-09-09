@@ -1,0 +1,220 @@
+V-cube,Inc.(JP-3681)TSEMothersAimingtoBecometheNo.1VisualCommunicationCompanyinAsia(II)
+  2015-03-31 提供機構：FISCO 作者：FISCO 點閱次數：29   
+
+◆Medium- to Long-Term Strategy Room to develop in potential markets, strengthening of
+partner strategy and industry-specific services The company has a vision of
+becoming “The No. 1 Visual Communication Platform
+in Asia.” It has mainly been promoting the
+following three business strategies designed for medium- to long-term growth. (1) Expand Existing Market
+Share and Explore Potential The company still has untapped
+potential markets to explore in Japan. We believe that by opening new markets
+while increasing its share it can grow its sales in Japan further. According to Ministry of
+Internal Affairs and Communications statistics, there are approximately
+4,213,000 companies in Japan (12,000 large companies, 536,000 mid-sized
+companies, and 3,665,000 small companies). The top 550,000 or so of these
+companies are targets for the V-cube’s
+business. Currently, only about 10,000 of these 550,000 companies are thought
+to have introduced web conferencing, and the number of these that have
+introduced the technology across the board is even fewer. The web conferencing
+market therefore appears to have plenty of room left for further growth by
+accelerating full company-wide introduction and increasing the number of user
+companies. Furthermore, many are using TV
+conferencing (high end) and PC-based video-chat, Skype, or other platforms
+(low-end) as communication tools, however they each have the following
+weaknesses. TV conferencing ・Extremely expensive
+(especially when the number of locations is increased) ・Can only be used in a
+predetermined location ・Paucity of functions
+outside of video, such as functions for sharing of files and other materials ・Hardware faults and deterioration are a prominent issueFree video chat, etc. ・Security is uncertain ・Communications lack
+stability ・No functions for
+business use ・Support not available Using the company’s web conference service enables companies to cover all of these
+weaknesses, so it seems to have the potential to capture market share from TV
+conferencing and free video chat and the like. The company is expanding its
+market in Japan through the following specific strategies, and intends to
+increase its market share within that market. ●Industry
+reorganization-type M&A and OEM The company aims to expand its
+market share through industry reorganization such as forming capital alliances
+with competitors, undertaking OEM, and other strategies. With regard to OEM in
+particular, many of the company’s competitors are companies
+affiliated with major electronics manufacturers as noted above, and while these
+companies have brand power, they often lack a sufficient product line up. There
+are strong possibilities for mutual benefits if the company provides OEM
+products (services) to such companies. Meanwhile, in the case of companies that
+have distinctive products or technologies, such as PVC, the company intends to
+actively investigate options for acquisition. ●Strengthen partner
+strategy Up until now the company has
+grown its sales primarily through a direct sales strategy. Looking ahead,
+however, it aims to increase its sales in Japan a step further by strengthening
+its links with partner companies to increase its market share. In particular,
+the company’s policy is to focus its efforts on
+invigorating its sales agency network in addition to partnerships with
+telecommunications carriers and links with SaaS service companies. The company’s sale format is based on monthly fees, and it is expected to
+induce many companies to participate in sales as agencies by returning part of
+these revenues to them as an incentive. Currently, over 200 large,
+mid-sized, and small companies, including telecommunication carriers and
+systems integration companies, are engaged as the company’s sales partners. However, with many of these partners, the
+internal sales evaluation is based on the single month sales method (evaluation
+based on the sales over the period of a month). This appears to be a factor
+making it difficult to expand sales of cloud-based products such as those of
+the company (monthly sales are small amounts, but continue over a long term).
+The company therefore plans to strengthen the incentive to sell its products, while
+aggressively appealing the benefits to the sales partners in the case where
+they sell a cloud-based product. ●Solution provision-type
+services To differentiate itself from
+others in the industry, the company will expand its industry-specific solutions
+in addition to ordinary web conferencing. In this way, it will accelerate its
+evolution from a simple web conferencing company to a provider of visual
+communication solutions. The following ongoing projects are specific examples
+of this change. ▲Solutions for financial
+institutions Specialized teams are developing sales of usage models for
+financial institutions such as banks, securities companies, insurance
+companies, and lease companies, including conferences between offices,
+training, seminars for customers, remote visits to customers, BCP, and more.▲Solutions for
+healthcare The company established
+M-cube, Inc. as a strategic subsidiary with M3, Inc. <2413> (V-cube
+equity stake 49.0%) in March 2014. Among other services, this subsidiary
+carries out the web lectures that are currently offered by M3. Moreover, using
+these as a starting point, the company plans to accept commissions for services
+from clients other than M3, and to establish the de-facto standard for web
+lectures in the medical and healthcare field, centered on M-cube. In April 2015 the company will
+begin full-scale provision of pkgQ (Package Q), a web lecture service for
+pharmaceutical companies that has been newly developed by M-cube. In the
+pharmaceutical industry, over 100,000 lectures are held each year to
+communicate with doctors and other medical professionals. However, many
+representatives at pharmaceutical corporations say that they want to have
+enhanced communication with doctors throughout Japan, while doctors say that
+they want to use their time efficiently to gather insights and information
+relating to pharmaceuticals and new treatment case studies. pkgQ not only
+provides live distribution of web lectures, but also links with Japan’s largest healthcare portal website, m3.com, which is operated
+by M3. This link enables users to easily gather together visitors from all over
+Japan, a task that was previously difficult, and enables them to grasp the
+individual needs of doctors attending the lectures in order to assist the
+smooth provision of pharmaceutical product information and support activities. ▲Solutions for the
+education market Another major potential market
+for the company is the education market, which is to say, the market serving
+various kinds of schools. There is already a national policy in place with a
+four year plan to prepare an environment for incorporation of IT in education
+(FY2014-2017), with a total planned budget of \671.2 billion. One of the
+elements in this environment to be prepared is “the cost of providing for a 400,000-unit shortfall in electronic
+smart boards and the renewal of 10,000 existing units.” As mentioned above, the recently acquired PVC is a major
+supplier of electronic smart boards and a top manufacturer with a record of
+supplying 20,000 units to schools in Japan. This national policy is therefore a
+positive tailwind for PVC, and can be expected to contribute significantly to
+the company’s financial results. ▲Robotics-related
+business centered on devices such as drones The company invested in
+Rapyuta Robotics Co., Ltd., a developer of technologies related to commercial
+use of drones (miniature unmanned aircraft), and started up a new
+robotics-related business. Drones can be controlled remotely from a cloud
+system to visit a location in place of a person and transmit images and other
+information in real time. Now the company is combining V-cube’s visual communication services and Ryaputa’s technologies to enable images captured by a drone to be
+recognized in real time on V-CUBE services. This will lead to the joint
+development of services for use in various scenarios, such as infrastructure
+inspections of bridges and tunnels where aging has presented challenges,
+maintenance at plants with tall structures or chimneys, assessment of damage in
+disaster zones, and security measures for large-scale facilities like power stations.
+In FY12/15, the company will take part in verification tests using drones with
+the goal of achieving profitable services from FY12/16. ●Key products for the
+company’s growth strategies To expand its business, the company needs to “increase the number of customers” and “increase the sales amount per
+customer.” To achieve this, the company has
+prepared the following line up of strategic key products. The company will use
+them from FY12/15 to expand its business further.▲V-CUBE One As explained above, the
+company has prepared products that involve provision of various services. Since
+September 2014 it has provided V-CUBE One, a fee system based on a new concept
+of using multiple services (web conferencing, webinars, online sales, etc,)
+bundled in a single package. There had already been strong demand from users
+who wished to use multiple services, but the previous model required the customers
+to subscribe separately for each service. This made the price (monthly
+subscription fee) for using multiple services somewhat high, causing many users
+to hesitate. The introduction of V-CUBE One meant that users who subscribe to
+the product can now use multiple services for a lower price than before.
+Meanwhile, the company can expect to benefit from a higher average price per
+subscription port (monthly subscription amount). ▲V-CUBE Gate V-CUBE Gate was released in
+November 2014. This is a free text-chat service especially for corporations,
+which can be set up to enable anyone within a subscribing company to use the
+service for free. The goal of introducing this
+service is to get many people using it so that they will also learn about the
+company’s other services. V-CUBE Gate is linked
+with the company’s web conference services, so
+users can go into a web conference and use the web conference service with
+single click. The product has therefore been called “V-CUBE Gate” because it acts as a conduit
+to its main service. Since it is a free service, it
+does not generate profit initially. However, making the service free is
+intended to encourage its use on more occasions and contribute to profit
+through the seamless link to the V-CUBE service. At any rate, it is important
+to increase the number of users of the service at first, and the initial target
+is set at 1 million users. The company plans to begin full-scale promotion of
+the product from FY12/15, and to see the effects emerge from the second half of
+that fiscal year. ▲New version of V-CUBE
+Meeting, “V5” The technology underpinning
+V-CUBE Meeting has been upgraded. With an improved environment and more
+comfortable user experience, the company intends to increase the number of
+subscribers and reduce the number of subscription cancellations. Using some of most advanced
+component technologies in the world The company has used some of
+the most advanced component technologies in the world to dramatically enhance
+connectivity, image quality, and audio quality. These improvements have enabled
+the company to significantly reduce the time needed to prepare the
+customer-side environment before the subscription. This will support improved
+subscription rates and shorten lead times for signing up new subscribers. Moreover,
+since the new version provides solutions for connectivity, image quality, and
+audio quality, which account for nearly half of the factors driving
+cancellations, it will greatly reduce churn rates. Mobile-first design Designs predicated on use with
+a mobile device have expanded usage scenarios. Moreover, the company is also
+aiming to drive sales expansion in overseas markets where use with mobile
+devices is common. Strengthen global
+infrastructure By establishing infrastructure (dedicated lines) overseas, the
+company has opened the way for clients to use the services in emerging
+countries, including China. The company has also improved the user experience
+in regions where it had been poor, such as South America and Europe, with the
+goal of expanding its customer base.Overseas expansion by entering new regions and
+strengthening of sales systems in existing markets (2) Step up overseas expansion
+centered on Asia ●Expansion into new
+countries To expand overseas sales, it
+is important not only to expand sales in its existing markets, but also to
+follow a strategy of expanding into new countries. In this respect, the company
+plans to expand its locations while also aggressively developing partnerships
+with other companies. The company has already started sales in South Korea, and
+is preparing to formalize its operations in Taiwan and Vietnam. The company
+also plans to close on rapidly expanding sales negotiations in Malaysia, and to
+further expand prospects in Indonesia. ●Investing sales
+resources In existing markets, the
+company plans to aggressively invest sales resources. Sales costs in existing
+overseas markets are much lower than in Japan, but IT product prices (including
+the company’s prices) are almost the same. In other
+words, overseas companies offer high cost effectiveness. The company plans to
+increase earnings by investing sales resources on a large scale, particularly
+in Malaysia and China, where marketability has been confirmed through direct
+sales. ●Lateral development of
+successful case examples The company will expand sales
+through lateral development of successful case examples in overseas markets.
+Specifically, it will develop the successful case example of services for
+Shanghai General Motors Company Ltd. for other automobile companies, sell the
+example of its crisis management solution for government organizations in
+Thailand and China to the governments of other countries, and expand sales of
+the distant learning system delivered to universities in emerging countries to
+other universities. Regrettably, the political instability surrounding the Thai
+government put a complete stop to projects there in FY12/14; however, the
+project itself has not ceased to exist. By continuing sales activities, the
+company appears confident that it will be able to revive the project to some
+extent in FY12/15. Accelerate provision of services as a platform to drive
+rapid business expansion (3) Development of a
+B-to-B-to-C Platform Model The company is developing two
+models as follows. (a) Joint operations in
+various fields, such as education and healthcare The company will establish
+ties with industry leaders in content and service provision, such as cram
+schools and correspondence education operators, training service providers, and
+nursing care service operators, and establish a revenue model in which
+customers of these businesses pay for a set product including provision of the
+contents and services. For example the company has established ties with
+companies such as Recruit Holdings Co., Ltd. <6098>, Gakken Holdings Co.,
+Ltd. <9470>, YARUKI Switch Group Holdings Co., Ltd., and Escrow Agent
+Japan, Inc. <6093>. (b) Incorporate the long-tail
+market using V-CUBE Market The company will not only supply tools such as web conference
+services, but also offer the V-CUBE Market fee-based live distribution service
+platform using web conferences and web seminars, which it has developed.
+Anybody will be able to use the V-CUBE Market provided by the company to
+distribute lectures, seminars, and other material with ease.The company is currently
+pursuing the above medium- to long-term strategies with the goal of becoming
+the “No.1 Visual Communications Platform in
+Asia.” There is still ample room for further development of markets in
+Japan and overseas for the company’s
+web conferencing service. Many investors will be watching its progress going
+forward. 報告內容僅供參考，不得作為任何投資引用之唯一依據，且其投資風險及決定應由投資人自行判斷並自負損益。

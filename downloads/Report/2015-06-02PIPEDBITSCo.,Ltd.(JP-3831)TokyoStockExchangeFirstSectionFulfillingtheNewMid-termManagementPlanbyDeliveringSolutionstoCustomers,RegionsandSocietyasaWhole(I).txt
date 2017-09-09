@@ -1,0 +1,168 @@
+PIPEDBITSCo.,Ltd.(JP-3831)TokyoStockExchangeFirstSectionFulfillingtheNewMid-termManagementPlanbyDeliveringSolutionstoCustomers,RegionsandSocietyasaWhole(I)
+  2015-06-02 提供機構：FISCO 作者：FISCO 點閱次數：3   
+
+PIPED BITS (3831) is a unique
+IT company that provides its proprietary product SPIRAL® (middleware) in cloud format. Not only does it provide this
+platform to mid- and large tier corporations, but also undertakes the sale of
+applications it develops itself aimed at specific industries (such as the
+beauty salon and construction industries). In FY2/15, it showed
+significant year-on-year gains in both sales and earnings, but fell slightly
+below its initial plan targets. Sales were ¥3,173mn, (+26.1% YoY), operating profit was ¥625mn (+10.7% YoY), recurring profit was ¥634mn (+12.2% YoY) and net profit was ¥372mn (+8.7% YoY). In FY2/16, which is already underway, the
+Company expects to achieve record-high results for the second straight year. It
+is forecasting sales of ¥4,000mn (+26.0% YoY),
+operating profit of ¥820mn (+31.2% YoY), recurring
+profit of ¥820mn (+29.2% YoY) and net profit of ¥490mn (+31.6% YoY). Further, the Company has
+embarked on a new Mid-term Management Plan, having its final year in FY2/17,
+with the ultimate goals of ¥9,200mn in sales
+(approximately 3.7 times compared with FY2/14) and operating profit of ¥2,800mn (5.0 times compared with FY2/14). Guided by the slogan “the
+3-year revolution toward being a next generation IT vendor,” PIPED BITS plans to expand its business based on three
+strategies: provide solutions to clients, b) provide solutions to regions and
+industries and c) provide solutions to society. The plan’s final targets are arguably very lofty compared with forecasts
+for FY2/16. However, we believe that PIPED BITS will be able to attain these
+targets provided that the Company takes full advantage of the cloud format
+business model where its core business domain lies. Trends such as the number
+of active accounts will also need to be watched closely, along conditions
+surrounding the introduction of the “My
+Number” National ID system.◆Corporate Outline Expanding business around
+SPIRAL®, a proprietary platform developed
+in-house (1) Corporate history PIPED BITS, hereafter “PB” or “the Company,” was established by its Founder and current President, Nobuaki
+Satani, in April 2000. For most companies, data acquired in the course of
+business including customer attributes and e-mail addresses form important “Information Assets”, so PB commenced operations
+with services to effectively use them at the same time as managing them
+securely. What was developed in-house in order to carry out this business was
+the proprietary SPIRAL® platform for data management.
+(Details to follow). Subsequently, PB developed a range of applications based
+around SPIRAL®, and has been engaged up to the present
+in rolling-out these business applications.Help to manage information
+assets and cut costs, a priority for virtually all companies (2) Description of business (Product Outline) In a word, PB’s flagship business is its proprietary
+platform SPIRAL®, and the provision to users of related
+applications, not by way of outright sales but rather in a rental format (a
+monthly fee method). Within the layers of software, SPIRAL®’s position may be referred to as a cloud format middleware.Generally, the majority of
+companies, when developing operational and other systems, need to purchase the
+hardware required to develop and run the system, the operating system (OS),
+development environment (tools), database(s), middleware and other elements
+themselves (or outsource development), and develop, by combining them, the base
+(platform) in order to run the system. Additionally, they must also bear the
+burden (cost) of maintaining it post-development. However, with SPIRAL® developed by PB, because the development tools are embedded,
+not only can a range of applications be easily developed, given that it also
+has a database built-in, it enables the use and sharing in each application of
+customer and other data stored in SPIRAL®. Further, these applications and data classes may be easily
+reproduced and delivered. This provides a significant advantage over package
+software. As a result, corporate
+customers may easily and holistically operate with (use) and manage data, and
+at the same time greatly reduce application development costs by using SPIRAL®. Additionally, given that it is a pay-for-use monthly fee
+format platform, it further helps in cost reduction. Starting with major
+financial institutions, the names of companies that have introduced SPIRAL® include many preeminent corporations. Recently in the IT industry, the majority of services are
+provided in a cloud format, with them being described in a variety of ways
+depending on the content of the particular cloud format service.. PB’s SPIRAL® belongs to the area called
+PaaS (Platform as a Service).(Description and Pricing of
+Major Products) As noted above, PB’s flagship product SPIRAL® is a platform environment. Accordingly, the main customers
+using it are medium and small tier system integrators (SIs) that undertake
+development aimed at large tier companies and main street SMEs that internally
+develop in-house operating and other software. By using SPIRAL®, PB is able to internally develop applications aimed at
+specific industries and users, and then also sell these applications. These
+types of core products are not sold as a package, but are sold entirely in a
+cloud-based monthly fee format. Below are the major products and their monthly
+pricing (minimum fees). It goes without saying that in
+PB’s business model, increases in active
+accounts (fee-based) is linked to sales growth. However, the fees mentioned
+below are only basic or minimum fees and the actual fees change depending on
+data volumes (pay-for-use). Therefore, sales do not simply equal the number of
+accounts multiplied by the basic fee. But in order to view sales trends, the
+number of active accounts is an important indicator. SPIRAL®：PB’s flagship product. The core
+platform including installed database(s), development environment, and
+execution environment. From ¥25,000/month. SPIRAL PLACE®：Cloud format groupware possessing website creation and updating
+functions, and at the same time linked to SNS. As groupware, it allows web
+content enhancement and updating as well as traffic analysis via simple
+(manual) operations while sharing calendars and files, being also linked to
+Facebook and Twitter. It is highly regarded by retail chain stores and others
+that employ large numbers of staff. Basic fees are from ¥6,000/month. SPIRAL EC®：An e-commerce (EC) platform focused on apparel. While pursuing a
+sophisticated brand image for EC sites aimed at apparel, it is highly regarded
+by the industry for resolving a number of issues, such as simplifying update
+procedures and also containing this within a low budget. Usage fees are
+pay-for-use with a maximum fee of 5% of the distribution amount. Net de Kaikei and Net de
+Aoiroshinkoku：A cloud format accounting service targeting small-and mid-tier
+companies and sole proprietors. It is building up a brand in clerical accounts
+administration for small- and mid-tier businesses. Its operations were acquired
+and sales launched in September 2011. SPIRAL Affiliate：A holistic
+ASP affiliate management service that reduces the issues and costs associated with
+introducing and operating affiliate marketing for advertisers. It contains a
+number of special features, such as free upfront costs for SPIRAL® users only. Other：As noted below, there are also applications aimed at
+specialist fields and industry sectors. Pricing is from one hundred to several
+thousand yen per month.(Operating Segments) Based on major products such as those noted above, PB’s operating segments are classified as set out below.Building a competitive edge
+through links with various applications plus maintenance and monitoring
+functions (3) Special Characteristics
+and Strengths (Ease of system construction) SPIRAL®’s greatest distinguishing
+feature is its ability to be freely customized. As explained above, PB itself
+combines SPIRAL®’s functions, and develops applications
+for its own operational systems and specific customers (areas), and, excluding
+areas such as financial institutions which require extremely high reliability,
+it is not an exaggeration to say that every operational system in the world at
+large may be created by combining SPIRAL®’s functions. These types of operational systems were generally
+developed by operators known as system integrators (SIers). However, it is
+possible to replace the majority of the work traditionally done by SIers
+through a combination of SPIRAL® functions, with corporate
+customers being enabled to easily undertake a range of development and system
+creation themselves.(Every type of application can
+be linked) SPIRAL® possesses a broad range of functions. However, the most basic
+function is that it enables, for example, a corporate customer managing
+databases over the Internet to easily engage in tasks from database creation to
+those such as data manipulation, batch data registration and downloading for
+registration, updating and deletion. Specifically, in cases such as those where
+companies undertake online surveys, market research or new product evaluations,
+on the company side, using SPIRAL® they may very easily create a
+survey, deliver it to targeted and prospective customers, have them complete
+the survey, and then collect them. If a customer satisfaction questionnaire is
+linked to the customer database, it becomes possible to analyze them according
+to customer attributes, and follow-up in order to enhance satisfaction levels.
+Survey results may be aggregated in real time, and compiled into a report. Via
+SPIRAL®, this series of actions between
+different applications may all be easily undertaken with simple (manual)
+operations. In the same way, in relation
+to creating forms, such as for gift promotions/affinity marketing campaigns,
+recruitment application forms, questionnaire forms, seminar applications,
+account openings, and information requests, it is possible via SPIRAL® to expeditiously undertake actions such as form creation; the
+recording, updating, and deletion of member attributes; and login verification.
+For example, in a case such as holding seminars, even if hypothetically
+multiple seminars are proceeding simultaneously, the taking of multiple
+applications and management of cancellations is able to occur instantaneously,
+making the holding of the seminar efficient. It is also easy to develop this
+data in a search form tabulating it, having a yes or no Q&A questionnaire,
+or (creating) a summary chart or graph. Also, given the addition of services
+from AsBase Inc., a subsidiary that possesses audio (telephone) solutions as
+noted below, and an alliance with Sprinklr Japan KK, which has strengths in
+social media management platforms, it is expected that customer convenience
+will be enhanced further. One of PB’s competitors is salesforce.com, Inc. of the United States, but
+this company has grown through repeated acquisitions of other companies.
+Therefore, because its various applications were developed by the different
+companies it acquired, each application was not created on the same platform.
+Consequently, when a client needs to link multiple applications, in many cases
+this requires additional development costs and time. On this point, PB’s SPIRAL® is considerably superior to
+salesforce.com’s product, as its applications are on the
+same platform and as a result, each of the applications can be easily
+(inexpensively and quickly) linked. (Superiority in installation
+costs and security) Further, because SPIRAL® is not sold as package software, but provided as a
+pay-as-you-go cloud service, a distinctive feature is that client companies may
+themselves build requisite systems rapidly and at low cost, without incurring
+unnecessary time and expense. That is, even in the initial period when the
+system is installed, the system can be developed from just a small investment
+without incurring major costs. In addition to its superiority in terms of costs, PB also
+provides guarantees, maintenance, and monitoring functions on the security
+front, which is extremely convenient, particularly for medium- and small-tier
+SIers. For example, in the event that a vulnerability is identified in the SSL
+(Security Sockets Layer), which is the most widely used communication
+cryptographic technology on the Internet, normally it is necessary for each
+SIer to individually deal with this vulnerability for each system. But if
+SPIRAL® is used, PB is able to take all
+necessary actions and the issue is resolved on SPIRAL®, eliminating the need for the SIers to deal with it
+individually. On the other hand, in terms of security the use of SPIRAL® can also be said to give a sense of security to the final
+client.(Installation case studies) One example of a successful installation of PB’s SPIRAL® was the case of Asahi Fire
+and Marine Insurance Co., Ltd. The company introduced SPIRAL® as a customer service system. By linking client attributes with
+various types of data, the number of requests for information materials
+increased by 130 times, and the work time needed from receiving to answering a
+customer request was reduced from the usual time of around 30 minutes to just
+two or three minutes. Moreover, when introducing the system, PB competed with
+other SIers to win the account. PB’s
+quote was about 1/10th the cost of its competitors. Although every case is
+different, this example clearly demonstrates the competitive advantages of
+SPIRAL®. 報告內容僅供參考，不得作為任何投資引用之唯一依據，且其投資風險及決定應由投資人自行判斷並自負損益。

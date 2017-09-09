@@ -1,0 +1,355 @@
+Hottolink,Inc.(JP-3680)TSEMothersHighergrowthpotentialdrivenbytheSocialgistacquisition
+  2015-04-24 提供機構：FISCO 作者：FISCO 點閱次數：13   
+
+Hottolink (3680) is developing
+a core cloud-service business that provides useful information to business
+managers by gathering and analyzing data posted on Twitter, blogs and other
+social media. In January 2015, Hottolink acquired Effyis.inc., a U.S.-based
+social media data provider, for US$22mn (approximately \2,596mn) (service brand
+name: Socialgist, hereafter “Socialgist”). In FY12/15, Hottolink is
+projecting large increases in sales and earnings due to the conversion of
+Socialgist into a subsidiary. The Company is forecasting net sales of \2,423mn,
+up 135.7% year on year (“yoy”), and operating income of \208mn, up 41.9% yoy. Socialgist’s business results are expected to account for about half of
+Hottolink’s overall business performance in
+FY12/15. Socialgist is the world’s only company to acquire a
+marketing license with full access rights to the data of Sina Weibo, which is
+the Chinese version of Twitter. Socialgist has continued to deliver
+double-digit annual growth rate in net sales. Through this acquisition,
+Hottolink has established a key position in the global market as a data
+distribution player in the social media space, and the Company’s future growth potential has increased further. Although the Company will
+adopt International Financial Reporting Standards (IFRS) from FY12/15,
+Hottolink will announce its business results based on Japanese accounting
+standards through the third quarter of FY12/15, and will therefore record
+amortization of goodwill for this period. For this reason, it should be noted
+that Hottolink’s profitability will appear to
+deteriorate temporarily. Notably, Hottolink is highly likely to incur an
+operating loss in the first quarter of FY12/15, due to the recording of
+M&A-related expenses (just over \100mn) in addition to an increase in
+amortization of goodwill (from \14mn to \90mn).* Hottolink’s existing businesses showed a slower pace of growth
+in FY12/14. Hottolink believes that this reflects a period of transition as its
+customer base of social media data users expands from major corporations to
+middle tier companies. In FY12/15, the Company is forecasting a double-digit
+annual growth rate in net sales based on a higher number of customers. The
+increase in customers will be driven by upgrading and expanding the
+functionality of core services such as kuchikomi@kakaricho and e-mining, and
+increasing its sales personnel.◆Business overview SaaS Business represents just
+over 70% of net sales (1) Description of business Hottolink has developed tools
+for gathering and analyzing postings on a variety of social media, such as
+Twitter, 2channel, Sina Weibo and various blogs. It provides services that put
+this information to good use in corporate marketing strategies, risk management
+and other functions. Looking at Hottolink’s core services, in the SaaS* Business, Hottolink offers services such
+as kuchikomi@kakaricho and e-mining, for which the Company directly enters into
+subscription agreements with customers. In the Solution Business, Hottolink
+provides analysis tools and data to systems integrators and tool vendors, along
+with consulting services to client companies. The chart below describes each
+business segment.○SaaS Business The SaaS Business currently
+accounts for just over 70% of Hottolink’s net sales. In the SaaS Business, Hottolink provides two
+products: (1) kuchikomi@kakaricho, a social media analysis tool; and (2)
+e-mining, a risk monitoring tool. The price structure for each of these
+services consists of an initial registration fee of \100,000 and a monthly
+usage fee starting from \130,000. The monthly usage fee is calculated based on
+the number of usable IDs, the number of media subject to analysis, data
+capacity and other factors. Some large corporate customers spend up to \1mn a
+month to use these services. The number of corporate
+subscribers is over 1,700 for the two services combined on a cumulative basis.
+Of this, there are currently approximately 500 active corporate subscribers.
+The industry breakdown shows corporate subscribers span a wide range of
+sectors, from consumer goods manufacturers to the services and finance sectors.
+Approximately 80% of the corporate users are major corporations. kuchikomi@kakaricho has the
+following features. It possesses Japan’s
+largest social media coverage and it is easy to operate and perform real-time
+searches, such as trend analysis and attribute analysis. It also has functions
+such as cross-media analysis spanning television, Web news sites and other
+media, plus a data import analysis function to perform text mining of data held
+internally by corporate customers (questionnaires and call logs, etc.). Notably, Hottolink has a
+dominant advantage in Japan in terms of the sheer amount of social data it
+possesses. For example, the Company holds all historical data on the 2channel
+bulletin board site and has entered into a marketing agency agreement with
+Gnip, Inc., which markets Twitter data worldwide. In addition, Hottolink covers
+approximately 90% of blogs in Japan (more than 37 million bloggers). The kuchikomi@kakaricho tool
+can be applied promptly to a company’s
+marketing initiatives through real-time features such as trend analysis. For
+this reason, kuchikomi@kakaricho is being steadily adopted primarily by major
+corporations as a support tool that helps to improve return on investment (ROI)
+for marketing departments. Meanwhile, e-mining is a tool
+that automatically collects data from Twitter, 2channel and other sources
+according to pre-set risk-related keywords. The e-mining service provides alert
+functions that enable companies to promptly detect any dispersion of these
+risks. Monitoring covers a wide range beyond 2channel and Twitter, extending to
+blogs and various news sites. Each day, e-mining monitors approximately 12
+million web pages and reports search results by category. Recently, there has been a notable increase in incidents that
+have spread out via postings on social media, such as food contamination
+problems. It has become crucial for corporate risk management to promptly
+identify these risks and to implement response measures at an early stage.
+Accordingly, e-mining is being adopted primarily by major corporations.○Solution Business The Solution Business accounts
+for just over 20% of Hottolink’s net sales. In the Solution
+Business, Hottolink provides two different services: (1) data platform services
+that provide systems integrators and other customers with the data and analysis
+engines that make up kuchikomi@kakaricho; and (2) consulting services developed
+by subsidiary Hottolink Consulting Inc. Data platform services, which
+represent the bulk of the Solution Business, involves supplying Hottolink’s data and analysis engines for use in the products and services
+of systems integrators and tool vendors. This allows systems integrators and
+other third parties to provide higher value-added services to their end
+customers. The initial deployment fee is \500,000 and the monthly usage fee is
+based on a tiered billing structure according to the number of requests.
+Customers spend between \0.1mn and \3mn on these data platform services.
+Meanwhile, the consulting business provides social media analysis reports to
+advanced users. Hottolink’s strengths: world-class big data analysis technologies (2) Hottolink’s strengths Hottolink’s strengths lie in having world class big data analysis
+technologies, in addition to Japan’s
+largest coverage of social media data. Hottolink’s outstanding technological capabilities are highlighted by the
+use of its data and analysis engines in the customer relationship management
+(CRM) services provided by salesforce.com, Inc., a global cloud computing
+services enterprise. Hottolink continues to internally develop next-generation
+technologies in the big data field, with development personnel accounting for
+approximately 41% of its employees (including temporary staff and contractors).
+At the same time, Hottolink is conducting joint research and other activities
+by providing data to universities including the University of Tokyo, Tokyo
+Institute of Technology, and Waseda University. Another strength of the Company
+is that it is able to recruit some of Japan’s best talent in the course of
+undertaking these sorts of joint research activities.◆Financial results trends Delivered record results for
+the second straight year atop higher sales in both of Hottolink’s core businesses (1) Outline of performance
+trends for FY12/14 Consolidated financial results
+for FY12/14 were announced on February 12, 2015. Net sales were \1,028mn, up
+8.9% yoy, operating income was \146mn, down 7.3%, ordinary income was \163mn,
+up 11.7%, and net income for the year was \74mn, up 7.2%. Although net sales fell short
+of the Company’s initial forecast of \1,261mn, Hottolink
+delivered record net sales for the second straight year atop higher sales in
+both the core SaaS Business and the Solution Business. On the earnings front,
+operating income declined mainly because of higher personnel costs (up \47mn
+yoy) due to an increase in development and sales personnel. However, ordinary
+income remained on a growth track, owing to the recording of foreign exchange
+gains of \28mn under non-operating items. The operating margin was 14.3%, a decrease of 2.5 percentage
+points yoy. Looking at cost components as a share of net sales, personnel costs
+rose 0.9 percentage points, while other costs increased 1.2 of percentage
+point. This indicates that higher personnel costs were the primary factor
+behind the lower profit margin.In terms of quarterly performance trends, it is noteworthy that
+the Company’s business results have been picking up momentum in FY12/14, with
+net sales showing a double-digit increase in the fourth quarter, after
+struggling to grow in the first three quarters.A strong showing by the
+Solution Business, despite a slight slowdown in the SaaS Business (2) Net sales by service○SaaS Business Net sales in the SaaS Business
+rose 4.2% yoy to \749mn, slightly slower than its previous double-digit growth
+rate. This was mainly because the number of active corporate subscribers
+increased only slightly from the previous fiscal year-end, which primarily
+reflected the expiry of subscriptions and cancellations among short-term users,
+despite steady growth in orders for kuchikomi@kakaricho and e-mining. Many of the short-term
+corporate users whose subscriptions expired were middle-tier companies, SMEs
+and other firms. The majority of these companies were trialing the service.
+Most of these companies do not yet have the personnel, internal organizations
+and other resources in place to effectively use Hottolink’s tools and apply these tools to their business strategies.
+Consequently, quite a few of these companies seem to have terminated their
+subscriptions after using the services for only a short period. That said, a
+similar pattern of events unfolded when major companies began introducing these
+tools in 2009 or so. Therefore, Hottolink believes that middle-tier and smaller
+companies will eventually deploy the personnel and establish the internal
+organizations needed to effectively use social media analysis tools. In the
+process, the number of active corporate subscribers should return to a faster
+pace of growth. ○Solution Business Net sales in the Solution
+Business were strong, increasing 25.6% yoy to \272mn. Looking at the
+components, data platform services posted brisk net sales, driven partly by the
+benefits of increasing sales personnel in step with the ongoing expansion of
+application fields for social media data and the “socialization” of enterprise software in
+various fields. Meanwhile, the consulting business also saw steady growth in
+net sales on the back of a stronger need for social media analysis primarily
+among major corporations. However, sales in both of these businesses fell short
+of the Company’s initial forecasts as changes in market
+conditions were more gradual than initially anticipated by the Company. Significantly higher net
+sales and earnings projected in FY12/15 (3) Financial forecasts for
+FY12/15 In terms of consolidated
+financial forecasts for FY12/15, Hottolink is projecting significant increases
+in both net sales and earnings. Net sales are projected at \2,423mn, up 135.7%
+yoy. Operating income is forecast at \208mn, up 41.9%, and net income for the
+year is forecast at \106mn, up 42.8%. The largest contributor to the Company’s business results will be Socialgist, which was converted into
+a wholly owned subsidiary following an investment of US$22mn (approx. \2,596mn)
+in January 2015. Although Socialgist has not disclosed its financial forecasts,
+we believe that Socialgist will account for around half of Hottolink’s consolidated business results. The projected growth rate for operating income is small compared
+with that of net sales. This is attributable to anticipated M&A-related
+expenses (just over \100mn) and higher personnel costs. The number of employees
+is projected to reach 104 as of December 31, 2015, comprising 37 Socialgist
+employees and new staff (+7 employees) following an increase in sales and
+development personnel.○Socialgist Established in 2000 as a
+U.S.-based startup, Socialgist collects and provides social media data from
+sources such as blogs, bulletin boards, Q&A and review sites worldwide.
+Besides its advanced technological capabilities in the data streaming field,
+Socialgist is notable for being the world’s only company to acquire a marketing license with full access
+rights to the data of Sina Weibo, which has been dubbed the “Chinese Twitter” (China’s largest social networking service (SNS) with over 600 million
+accounts and 120 million posts a day). Sina Weibo data sales currently
+represent just over 30% of Socialgist’s
+net sales. Socialgist does business with
+customers that include the world’s major social big data
+monitoring firms and marketing platforms, as well as CRM, business intelligence
+(BI) and other tool vendors, along with financial institutions and governments.
+In June 2014, Hottolink entered into a business alliance with Socialgist and
+acquired marketing agent rights to Sina Weibo data in the Asia-Pacific region
+outside China. Looking at Socialgist’s latest business performance, net sales have continued to show
+a strong double-digit annual growth rate in step with expansion in the social
+media market. Incidentally, although Socialgist has not disclosed its financial
+results for FY12/14, we believe that its net sales rose to around US$9mn, while
+its operating profitability tumbled into the red. However, excluding special
+factors, operating profitability was positive. The main factors behind this
+performance were measures accompanying the conversion of Socialgist into a
+subsidiary, namely the recording of an allowance for doubtful accounts, as well
+as the strategic disposal of negative items from the company’s books through to the end of the previous fiscal year. Goodwill of around \3,000mn on the Socialgist acquisition
+exceeds the acquisition cost of approximately \2,596mn, and Socialgist’s net
+assets stood at negative \893mn as of December 31, 2013. Extrapolating back
+from these figures, we can estimate that Socialgist incurred a net loss for the
+year of between \200mn and \300mn in FY12/14.○Adoption of IFRS Hottolink has announced that
+it will transition from Japanese accounting standards to international
+accounting standards, i.e., IFRS, beginning with its consolidated financial
+results for FY12/15. The biggest difference between the two accounting
+standards lies in the treatment of amortization of goodwill. Under Japanese
+accounting standards, companies must reflect amortization of goodwill in profit
+and loss for the fiscal year. However, under IFRS, companies are not required to
+book amortization of goodwill. It should also be noted that
+Hottolink will only start adopting IFRS with its announcement of full-year
+financial results for FY12/15. This means that its financial results through
+FY12/15 Q3 will be announced based on Japanese accounting standards. Even if
+the company’s net sales were to double in the first
+three quarters compared with the previous year, its earnings are highly likely
+to decline as amortization of goodwill pressures profits. Notably, Hottolink is
+highly likely to incur an operating loss in FY12/15 Q1, partly due to
+anticipated M&A-related expenses. To make the situation easier
+to understand, the following is a rough outline of the trend in Hottolink’s quarterly financial results. First, let’s take a look at a simplified illustration of the Company’s full-year projections in which projected net sales and
+operating income are divided evenly on a quarterly basis. In this case,
+Hottolink should generate net sales of around \600mn every quarter. In terms of
+operating profitability under IFRS, Hottolink will incur an operating loss of
+\25mn in FY12/15 Q1 (including M&A-related expenses of \100mn), followed by
+steady quarterly operating income of \75mn from FY12/15 Q2 onward. In contrast, under Japanese accounting standards, Hottolink will
+record amortization of goodwill of \90mn every quarter (including amortization
+of goodwill on the Socialgist acquisition of around \75mn). Therefore,
+amortization of goodwill will be a factor that pushes down earnings. Accordingly,
+Hottolink is highly likely to post lower profits on higher net sales through
+FY12/15 Q3, compared with the same period last year. In actuality, considering
+that net sales are projected to increase continuously in FY12/15, the amount of
+the operating loss in FY12/15 Q1 could be slightly larger than assumed here.
+Nevertheless, Hottolink is expecting higher profits on higher net sales for
+FY12/15 on a full-year basis, as it will be announcing full-year financial
+results based on IFRS.○Outlook for existing businesses Looking at earnings excluding amortization of goodwill and
+M&A expenses, Hottolink expects a double-digit annual growth rate in net
+sales and earnings in both existing businesses and the Socialgist business. In existing businesses, Hottolink launched an upgraded version
+of e-mining in January 2015. Specifically, the Company dramatically enhanced
+its user friendliness by, for example, enabling e-mining to support various
+smart devices, so that users are able to monitor the tool from any location. In
+addition, the user interface was improved by adding dashboard functions and
+navigation functions, so that anybody can effectively use the tool. The
+upgraded version of e-mining has earned high marks from customers, and a
+similar version upgrade is planned for kuchikomi@kakaricho this spring.
+Hottolink is implementing a strategy for increasing net sales in the SaaS
+Business and reducing the subscription cancellation rate for customers among
+middle-tier companies by enhancing the user friendliness of these tools. In the Solution Business, Hottolink expects to increase net
+sales to existing corporate partners that are embedding Hottolink’s data and analysis engines into their own products and
+services. Additionally, Hottolink will seek to develop new partner companies in
+this business. In the social media analysis field, the market environment is
+showing signs of positive tailwinds, particularly following the emergence of
+food contamination problems that became a major social concern at the beginning
+of the year. The key to driving faster growth in this environment lies not just
+in winning more new accounts, but also in reducing the subscription
+cancellation rate. ○Outlook for Socialgist’s financial results Meanwhile, Socialgist is expected to continue delivering
+double-digit net sales growth atop strong sales of Sina Weibo data provision
+services. The main factor behind this outlook is the growing need for social
+media analysis services as market strategies and risk management in China
+becoming increasingly crucial to global corporations. In regard to personnel,
+Socialgist’s fixed costs will remain mostly unchanged as it only needs to
+increase back office staff by one or two employees. Therefore, Socialgist is
+expected to contribute positive operating income to Hottolink from the
+beginning of the fiscal year in line with its projected increase in net sales.
+Incidentally, Socialgist’s net sales will be included in the Solution Business.◆Growth strategy Targeting net sales of \10bn
+as early as possible by driving growth worldwide Guided by the business concept
+of “Big Data x Social x Cloud,” Hottolink’s strategy is to drive growth
+by providing social media data and analysis engines in various market sectors.
+In particular, the conversion of Socialgist into a subsidiary is highly
+significant as it will enable Hottolink to capture growth in overseas markets,
+as well as in Japan. The structure of the social big data distribution market can be
+broadly divided into three layers: data owners, data distributors, and data
+users. Of these, Hottolink and Socialgist belong to the data distributor layer.
+Data distributors possess marketing licenses for social media data and fulfill
+the role of bridging social media data owners (such as Twitter and 2channel)
+and data users (corporate customers). Looking at trends in the global market,
+the data owners have been converting these data distributors into subsidiaries
+for the past one or two years. These trends can be interpreted a sign of the
+increasing importance of data distribution companies in the market.In this market environment,
+Hottolink believes that the Socialgist acquisition has delivered the following
+three main benefits: ・ Obtained a key
+position as a data distributor in the global social big data industry ・ Obtained businesses,
+services, and a customer base in the global market that have the same business
+volume and growth potential as Hottolink ・ Obtained
+internationally minded personnel who are able to build businesses on an equal
+footing with major global corporations Furthermore, Hottolink plans
+to develop a sophisticated analysis service by integrating its data analysis
+technologies and Socialgist’s data streaming technologies.
+Meanwhile, in the Japanese market, the importance of social
+media analysis has continued to increase year after year. Notably, the SNS
+usage rate has increased to 60% of Japan’s population and big data related
+markets are projected to grow rapidly at a pace of 37.5% per year from 2012 to
+2017. Therefore, Hottolink should continue to benefit from positive tailwinds
+in the Japanese market.In terms of market sectors, future growth in demand is
+anticipated in all manner of sectors. These include not only consumer goods
+manufacturers, but also politics, news media, finance and government. Growth in
+social media analysis services appeared to temporarily slow down as 2014 ended
+up as a transitional year for the penetration of these services. However, as
+noted earlier, Hottolink’s strategy is to drive faster growth by expanding the
+range of market sectors through the development of new services, along with
+reducing the subscription cancellation rate by providing highly user-friendly
+tools. In addition, Hottolink will continue to proactively execute business
+alliances in the course of developing markets.Hottolink is targeting net sales of \10,000mn as early as
+possible by driving this growth worldwide over the medium and long term. It
+will be straightforward for Hottolink to ensure relatively steady profitability
+because its core operation is the cloud services business, which is a
+stock-type business that generates recurring revenues from a fixed customer
+base. The Company’s only main variable expense is data purchasing costs, which
+represent a small percentage of net sales, at around 10%. The largest component
+of fixed expenses is personnel costs, which account for 33-35% of net sales.
+With Hottolink’s workforce in Japan expected to increase by only around several
+employees a year going forward, its personnel cost ratio is projected to gradually
+decrease. For these reasons, Hottolink’s profitability is expected to steadily
+improve in step with sales growth.◆Financial status and risk factors Projected upturn in ROE,
+despite a further decrease in ROA (1) Financial status Looking at the financial
+status of Hottolink as of December 31, 2014, total assets were \3,244mn, up
+\1,777mn from December 31, 2013. The main factor increasing total assets was
+short-term loans payable of \1,700mn for the Socialgist acquisition. Cash and
+deposits increased by \1,823mn, roughly in line with the increase in short-term
+loans payable. In addition, given that
+Hottolink completed payment of the entire acquisition cost of Socialgist
+(approx. \2,596mn) in January, Hottolink appears to have executed additional new
+borrowings to raise business funds. Initially, Hottolink was planning to repay
+the short-term loans payable by exercising subscription rights to shares issued
+in January via a third-party allotment. However, Hottolink did not exercise
+these subscription rights based on its expectations of a higher stock price in
+the future (The exercise price is \1,223.). Instead, Hottolink has refinanced
+the short-term loans payable by executing long-term loans payable. For this
+reason, the Company no longer faces any cash flow issues. Looking at key financial
+indicators, Hottolink’s stability indicators have
+slightly deteriorated. Specifically, there has been a decline in the equity
+ratio and a higher interest-bearing debt in step with the procurement of debt.
+Although the debt level is likely to reach a short-term peak in FY12/15 Q1, we
+believe that the debt level is not problematic in light of the prevailing
+ultra-low interest rates. In addition, Hottolink plans to repay debt through
+funds generated by growth in its financial results and the exercise of
+subscription rights to shares. Looking at profitability indicators, ROA and ROE both decreased
+yoy in FY12/14, mainly due to increases in total assets and net assets,
+respectively. In FY12/15, ROA is likely to decrease further, mainly because of
+a projected increase of more than \2,000mn in total assets due to the
+conversion of Socialgist into a subsidiary. Meanwhile, an upturn in ROE is
+projected, mainly based on an increase in earnings, along with the fact that
+Socialgist has accumulated losses (a factor that will reduce net assets).
+Furthermore, the operating margin is expected to decrease to a single-digit
+level of 8.6% in FY12/15, mainly based on anticipated M&A expenses.
+However, the operating margin should return to the 10% level from FY12/16
+onwards.Financial results are
+susceptible to the risk of changes in contractual conditions (2) Risks Looking at risks that could
+affect financial results, changes in management policy by companies that
+purchase social media data could lead to a cancellation of current
+subscriptions, and this could have an impact on financial results. That said,
+Hottolink already has approximately 500 corporate customers in Japan.
+Furthermore, the amount of data purchased is expected to continue to increase
+mainly based on expansion in the data platform business. Therefore, FISCO
+believes there is an extremely low likelihood that subscriptions will be
+cancelled. The same holds true for
+Socialgist. Notably, in the event of a change in contractual conditions with
+Sina Weibo, a major data supplier, there is the risk of an impact on financial
+results. Maintain no dividend policy
+for FY12/15 due to current upfront investment phase (3) Shareholder return policy Regarding the return of profits to shareholders, Hottolink plans
+to pay out dividends to shareholders in the future. However, Hottolink believes
+that it is currently in an upfront investment phase where it should actively
+allocate funds primarily to investment in development, and the recruitment and
+training of talent. Accordingly, Hottolink plans to maintain its no dividend
+policy in FY12/15. 報告內容僅供參考，不得作為任何投資引用之唯一依據，且其投資風險及決定應由投資人自行判斷並自負損益。

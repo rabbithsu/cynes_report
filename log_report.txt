@@ -1,0 +1,11 @@
+2015-08-21 01:15:06:  file 1.txt finished.   824 links added.
+2015-08-21 01:18:44:  file 1.txt finished.   565 links added.
+2015-08-21 01:40:11:  file 1.txt finished.   1440 links added.
+2015-08-21 01:47:48:  file 1.txt finished.   1440 links added.
+2015-08-21 01:50:44:  file 2.txt finished.   1084 links added.
+2015-08-21 01:54:49:  file 3.txt finished.   1740 links added.
+2015-08-21 01:58:45:  file 4.txt finished.   1488 links added.
+2015-08-21 02:02:29:  file 5.txt finished.   1487 links added.
+2015-08-21 02:05:55:  file 6.txt finished.   1480 links added.
+2015-08-21 02:10:00:  file 7.txt finished.   1280 links added.
+2015-08-21 02:14:00:  file 8.txt finished.   744 links added.

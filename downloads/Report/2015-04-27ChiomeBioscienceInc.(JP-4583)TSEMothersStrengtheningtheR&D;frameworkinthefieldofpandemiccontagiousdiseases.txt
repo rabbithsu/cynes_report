@@ -1,0 +1,299 @@
+ChiomeBioscienceInc.(JP-4583)TSEMothersStrengtheningtheR&D;frameworkinthefieldofpandemiccontagiousdiseases
+  2015-04-27 提供機構：FISCO 作者：FISCO 點閱次數：11   
+
+Chiome Bioscience Inc.
+<4583> (subsequently, “the company”) is a biotechnology company that discovers antibodies for
+medical applications using a proprietary technology discovered by RIKEN. It
+also supports the research and development of such antibodies by other
+entities. This technology, called the ADLib® (Autonomously Diversifying Library) system, has three distinct
+features: 1) it can generate antibodies for a wider range of antigens than most
+conventional methods, 2) it generates antibodies faster than other methods, and
+3) it can be applied to tough antigens for which it is tough to generate
+antibodies by other methods. In its consolidated operating
+results for the nine-months ended December 31, 2014 (FY12/14, an irregular
+nine-month fiscal year), Chiome Bioscience reported consolidated net sales of
+\277 million and an operating loss of \865 million, mostly in line with the
+company’s plan. Net sales were \253 million in
+the drug discovery alliance business and \23 million in the licensing out
+platform technology business. On the development front, the company worked to
+develop antibodies for pandemic contagious diseases using its original ADLib® system. It is drawing attention for successfully generating
+antibodies that demonstrate reactivity to specific antigens of the influenza
+and Ebola viruses. For FY12/15, the company is
+forecasting net sales of \670 million and an operating loss of \1,967 million.
+The projected net sales include \300 million planned for the licensing out
+anti-semaphorin 3A, the first project of the lead antibody licensing business.
+On the other hand, the increase in operating loss is based on an expected significant
+increase in R&D costs from \574 million in FY12/14 to \1,489 million in
+FY12/15 due to strengthening of the R&D framework, including in the area of
+pandemic contagious diseases. To strengthen its R&D framework, from June 2015 the company
+will launch operations at a new research facility in KING SKYFRONT, an area of
+Tonomachi, Kawasaki City that has been designated as a National Strategic Zone.
+R&D personnel will be boosted with 40 new staff, and development efficiency
+improved by setting up a framework that includes animal testing. In the domain
+of pandemic contagious diseases, the company is developing its business with an
+eye on joint research with specialist U.S. institutions and the future movement
+in this area will be a point of focus. By strengthening its R&D framework,
+the company aims to license out the fully human ADLib® system in FY12/16 to achieve profitability for the first time
+with net sales of \3,452 million and operating income of \651 million.◆Company Description Technology for producing
+fully human antibodies now completed to the level of practical implementation (1) ADLib® System The ADLib® system, the company’s core technology, was developed by RIKEN as a method for
+antibody discovery in 2002. Today, the patent rights to it are shared equally
+by the company and RIKEN. Simply stated, the ADLib® system promotes DNA recombination (gene conversion) in the
+antibody locus of DT40 cells, a cultured cell line derived from chickens, to
+generate the antibody protein library. Then, using magnetic beads, the system
+collects only the cells that bind to the target antigen. Antigen-specific
+antibodies can be harvested by culturing those cells for about a week.Most of the therapeutic monoclonal antibodies now on the market
+were discovered by one of two conventional methods; the mouse hybridoma method
+or the phage display method. The table below shows the differences between
+these existing technologies and the ADLib® system.The generation of fully human antibodies has been a big
+challenge in the past. However, on March 2014, the company announced that it
+had completed its technology for producing fully human antibodies and this
+appears to have opened the way for full-scale commercialized use of human ADLib® system. The fully human ADLib® system is able to generate human antibodies as drug candidates
+by humanizing chicken antibodies by replacing antibody genes in a DT40 cell
+line established from chicken lymphocytes with artificial human genes. As it
+only lags behind compared to existing methods in terms of its practical use for
+generating fully human antibodies, this achievement has been seen as extremely
+significant toward the company developing its business in the future.Development of three business
+models centered on the Fully Human ADLib® System as a core technology (2) Overview of Business
+Structure With the ADLib® system as its core
+technology, the company operates three business models.The drug discovery alliance
+business generates new antibodies using the ADLib® system, mainly for therapeutic drugs, in collaboration with
+pharmaceutical companies around the world. The company’s sales consist of upfront income when a joint R&D contract
+is concluded, milestone income reflecting R&D expenses and progress, and
+royalty income after a drug is marketed. In this business, in principle the
+company retains at least a 50% share of the right to a developed antibody, so
+it provides greater added value than conventional consigned or commissioned
+drug development. The Chugai Pharmaceutical <4519> Group is the main
+collaborative research partner for this segment (business with this group
+accounted for 56.9% of the company’s
+total sales in FY12/14). The licensing out platform
+technology business is the second pillar. Here, the company licenses the ADLib® system to other companies, which use this technology to
+generate antibodies. From this business, it obtains upfront income when a
+licensing contract is concluded, annual license fees, milestone income
+reflecting the progress in the development of antibodies discovered using the
+ADLib® system, and royalty income after a drug
+is marketed. Currently, Fujirebio Inc. is the only licensee, having a license
+to use the ADLib® system for the discovery of
+antibodies for in-vitro diagnostic agents. The third pillar, the lead
+antibody licensing business, is the licensing of antibodies that have been
+developed by the company in the discovery or pre-clinical stage. These
+antibodies are generated using the ADLib® system for target antigens obtained through joint R&D or
+business agreements with universities, public medical institutes and companies
+with proprietary technology, such as Biotecnol,Ltd.* In the future, this business model will
+generate upfront income from licensing agreements, milestone income reflecting
+progress in antibody development, and royalty income after a drug is marketed,
+supplementing the company’s revenue from the other two
+businesses. The ADLib® system is patented in Japan, the U.S., Europe, and China. The
+patent rights are shared equally by the company and RIKEN and it pays royalties
+to RIKEN. This patent will expire in Japan, Europe and China in 2023, and in
+the U.S. in 2025. But the company has been applying for relevant patents,
+including the patenting of the fully human ADLib® system. Thus it should retain a competitive advantage for the
+ADLib® system even after the existing patent
+expires. The table below shows the main partners in each business and the
+purposes of the agreements.Integrated Expertise from
+LivTech Expected to Promote Development of Novel Therapeutic Antibodies (3) Subsidiary LivTech, Inc. In December 2013, the company
+invested about ¥90 million for a 52.9% stake in LivTech,
+Inc., making the company a subsidiary. LivTech has been developing antibodies
+for cancer stem cell antigens and has two development pipelines. For one
+pipeline, it licensed one of these lead antibodies to Yakult Honsha Co., Ltd.
+<2267> in 2011 for use in cancer therapy and is conducting joint R&D.
+For another, LivTech is now seeking a pharmaceutical company as a partner for
+the development of a medicine based on its other lead antibody. The company acquired LivTech
+to obtain its expertise in the pre-clinical stage development of antibodies and
+its expertise from its experience in actual licensing of antibodies, and it
+also gained access to LivTech’s animal facility. By
+combining LivTech’s expertise with its antibody
+production technology based on the ADLib® system, the company will be able to accelerate its development
+of antibodies to counter the antigens. At a Board of Directors’
+meeting held on March 13, 2015, the company resolved to make LivTech a
+wholly-owned subsidiary, with the goal of strengthening the Group management
+framework and speeding up decision-making.◆Business trends Consolidated operating
+performance for FY12/14 mostly in line with company plans (1) FY12/14 Results On February 13, 2015, the
+company announced its consolidated results for FY12/14 (April to December)
+reporting sales of ¥277 million, an operating loss
+of ¥865 million, an ordinary loss of ¥883 million, and a net loss of ¥863 million, and the results were roughly in line with company
+forecasts. As the period was an irregular nine-month fiscal year, year-on-year
+comparisons are not possible, however, looking at a comparison for the same
+period of the previous fiscal year, net sales declined by \57 million and
+operating loss increased by \416 million. The decline in net sales reflected a
+decline in income in the drug discovery alliance business, while the increase
+in operating loss reflected increases in R&D costs and other SG&A
+expenses. Trends according to business segment were as follows.○Drug discovery alliance
+business In FY12/14 (April to
+December), sales were ¥253 million (compared to ¥324 million in the same period last year) and segment income was
+¥164 million (208 ¥million). Sales to the Chugai Pharmaceutical Group declined
+y-o-y, but R&D activities are going ahead steadily in line with the plan,
+and in December 2014 the company extended its agreements for both contract
+research and joint research. Also, the subsidiary LivTech, which is involved in
+joint research on cancer treatment antibody LIV-2008* with Yakult Honsha, succeeded in reaching
+the development milestone and so received milestone income from Yakult Honsha
+in 3Q FY12/14 (October-December 2014; the amount is undisclosed). The company also started to
+sales activities in FY12/14 towards concluding a verification agreement
+relating to the fully human ADLib® system in addition to the
+conventional ADLib® system. ○Lead antibody licensing
+business The lead antibody licensing
+business does not currently record sales as it is at the stage of progressing
+joint research into various antibodies in the development pipeline with
+university research laboratories. In FY12/14 the company renewed joint research
+agreements with the laboratory of Professor Goshima in Yokohama City University
+and the laboratory of Professor Takahashi in the University of Tokyo, and also
+started new joint research projects with the laboratory of Professor Uemura in
+Nagoya City University and the laboratory of Professor Takei in Yokohama City
+University. Among them, anti-semaphorin 3A is the company’s first lead antibody candidate and it is advancing joint
+research with Professor Goshima’s laboratory in Yokohama City
+University. They started drug efficacy tests from mid 2014 using an animal
+model for human diseases toward an inflammatory diseases model (sepsis model)
+and indications in the area of oncology. In the oncology domain, semaphorin 3A
+(SEMA3A) is known to promote migration and infiltration of cancer cell. If
+anti-SEMA3A can be shown to suppress this activity, there will be wide ranging
+potential for commercialization as a pharmaceutical product. Currently,
+experiments at the cell level have shown a suppressive effect.Also, the R&D project to develop an antibody indicated for
+cancer research with Biotecnol, which is a technology alliance partner, is
+proceeding well, advancing by one stage, from generating antibodies to
+verifying functions and so forth.○Licensing out platform
+technology business In FY12/14 (April to
+December), sales were ¥23 million and segment income
+was ¥23 million. Fujirebio Inc., which is the
+company’s original ADLib® system licensee, launched a diagnostic kit in Europe that
+included an antibody from the ADLib®
+system for measuring vitamin D (used for diagnosing rachitic patients), and the
+company is receiving royalty income based on its sales. ○R&D Conditions In R&D cost initiatives
+for FY12/14, the company focused on expanding its library by advancing level of
+diversification of the fully human ADLib® system. The company also drew attention to the widening
+possibilities for the ADLib® in the field of generating
+antibodies by announcing that it had successfully used the original system to
+generate antibodies for specific antigens of the influenza and Ebola viruses in
+a short time period. Investing funds from capital
+increases in FY12/14 and FY03/14 into R&D (2) Financial condition The balance of total assets at
+the end of December 2014 was up ¥1,244 million compared to the
+end of the previous fiscal year (March 31, 2014), to ¥6,257 million as shown in the table. The main reason was an
+increase of cash and deposits due capital increases through a public offering
+and a third-party allotment. Liabilities declined ¥35 million compared to the end of the previous fiscal year, to ¥417 million, primarily because of a decrease in interest-bearing
+debt. Net assets increased ¥1,280 million. This was
+attributable to an increase of \1,085 million in capital stock and capital
+reserve following the public offering and third-party allotment, which more
+than offset the downturn in retained earnings of \863 million attributable to
+the net loss for the period. Currently, the company is in the upfront investment stage, with
+sales declining slightly as the R&D cost burden in increasing as the
+company works towards practical implementation of the ADLib® system. The company is projecting a return to profitability
+from FY12/16 onwards, and is planning to cover its R&D costs, operating
+costs, and so forth, with the funds gained through capital increases in FY12/14
+and FY03/14. Currently the company’s
+cash reserves are over the \5,000 million level, so it should have enough
+financial capacity to last for another two years or so, even if sales do not
+grow. However, investors should bear in mind the risk that the company may need
+to procure further funds by some means if the ADLib® system is still not commercialized after FY12/17.◆Growth strategy Significantly increase
+R&D costs to accelerate R&D activity aimed at realizing the management
+vision The company has announced a mid-term management plan covering
+the three-years up until FY12/16. Projected earnings and segment sales are
+shown in the graph below. FY12/15 is still positioned as an upfront investment
+stage, including technological improvement of the ADLib® system. Full scale recovery of the investment is expected from
+FY12/16. Assumptions for the earnings forecasts for each fiscal year in the
+plan are as shown below.(1) Results forecasts for
+FY12/15 ○Forecast by segment In its forecast for
+consolidated operating results for FY12/15, the company is projecting net sales
+of \670 million and an operating loss of \1,967 million. Looming at the sales
+plan by segment, in the lead antibody licensing business, sales from licensing
+out the anti-semaphorin 3A antibody are expected to be \300 million. The
+company’s plan for anti-semaphorin 3A is to
+accumulate data from drug efficacy tests using animals, which are currently in
+progress, during the first half of the year, and then seek to conclude a
+contract in the second half. As noted above, the target areas are the
+inflammatory diseases model (sepsis model) and indications in the area of
+oncology, however the oncology field is a higher priority and the company is
+likely to seek a contract in this area first. The field of pancreatic cancer
+looks promising, with its high risk of cancer metastasis. The company appears to have
+various candidates for out-licensing in and outside Japan. Looking ahead, it
+needs to provide data results demonstrating efficacy as well as clear analysis
+of the mechanism of action. Steady progress on these tasks should make it
+possible for the company to conclude a contract in FY12/15. Conversely, if
+sufficient data demonstrating efficacy cannot be obtained and so forth, there
+is a possibility that contract negotiations will be held up. In the drug discovery alliance
+business, the company is projecting sales of \321 million, continuing at the
+same pace with commissioned and joint research with the Chugai Pharmaceutical
+Group is expected to continue. In the licensing out platform technology
+business, sales are expected to be \49 million, with continued sales to
+Fujirebio along with new contracts with other companies. ○R&D trends The reason the company is projecting an increase in its
+operating loss for FY12/15 is a significant increase in R&D costs from \574
+million in FY12/14 to \1,489 million in FY12/15. To accelerate R&D
+activities towards realization of its management vision*, the company will enhance its R&D
+framework a step further by establishing a new R&D facility at KING
+SKYFRONT, an area of Tonomachi, Kawasaki City.KING SKYFRONT has been
+designated as a National Strategic Zone. Global corporations and research
+institutions have established bases there and the area is rapidly developing a
+platform for open innovation. Looking ahead, the areas seems a likely recipient
+of support from national and local governments. The company will set up its
+base within the Innovation Center of Nanomedicine iCONM, which is scheduled to
+start operation in April 2015. The center is themed on realizing “nanomedicine” to achieve innovative
+treatments for difficult diseases, and universities, corporations, and research
+institutions are planning to establish bases there. They are expected to
+develop synergies within the iCONM center. With 40 R&D staff, the
+company has established a full-line development framework to cover all aspects
+from antibody generation through to animal testing. The R&D framework is
+scheduled to begin operation from June. In addition to enhancing the R&D
+framework, the system is expected to improve development efficient and speed.
+Moreover, going forward, the addition of development pipelines and the development
+management structure will become important. The company has fully introduced a
+product management system in 2015 and in March it brought in outside personnel
+with knowledge of product management. The company will strengthen its
+development management system at the same time. The company intends to maintain
+its existing research facility within the head office. In other areas, the company is
+developing its business in the domain of pandemic contagious diseases, with an
+eye on joint research with specialist U.S. institutions. As mentioned above, in
+2014 the company announced that it had achieved generation of antibodies
+demonstrating reactivity to certain protein antigens of the influenza virus and
+specified antigens of the Ebola virus (antigens deactivated to counter
+contagion risk) in a short time using its original ADLib® system. This result reconfirms that strengths of the ADLib® system, namely acquisition of diverse antigens and acquisition
+of antigens in a short time. Ordinarily it takes around
+seven or eight months to generate an antibody and make it into a therapeutic
+vaccine after obtaining an antigen. With the ADLib® system this process can be completed in just a few weeks. In
+the event of a pandemic, such a system is vital for developing a vaccine as
+quickly as possible after the disease breaks out to prevent it from spreading.
+This factor alone is likely to increase the advantages of the ADLib® system. The company is considering options for joint research and other
+initiatives relating to use of the ADLib® system for generating antibodies with multiple institutions,
+including specialist U.S. institutions with biosafety level 4* research facilities that possess the
+highest class of pandemic threat pathogens, and is keen to begin technological
+evaluation (in which the partner provides the target pathogen and the company
+generates an antibody). If technological evaluation were to start, the effect
+on the companies operating performance would depend upon whether it would bear
+all of the R&D costs alone or bear a portion of them as a joint R&D
+project, and the costs have not been factored into the company’s business plan for FY12/15. However, if this initiative goes
+ahead smoothly, it will bear watching, if only because it could ultimately lead
+the company to license out the ADLib®
+system technology as quickly as possible.Profitability to be achieved
+in FY12/16 by licensing out the fully human ADLib® system (2) Forecast for FY12/16 ○Forecast by segment In its operating results
+forecast for FY12/16 the company is expecting to achieve profitability for the
+first time with net sales of \3,452 million and operating income of \651
+million. The company also plans to make sales of \2,378 million in the
+licensing out platform technology business, mainly from expected sales of
+around \2,000 million from licensing out the full human ADLib® system. The amount for licensing out
+the system has been estimated based on similar cases in the past. As a schedule leading up to
+the licensing out of the fully human ADLib® system, the company first aims to concluded several
+verification agreements in 2015, and is currently at the stage of negotiating
+with candidate corporations in Japan and overseas, while sharing data with them
+under non-disclosure agreements. Having concluded the verification agreements,
+the company will proceed with negotiations for concluding the main agreement
+while continuing the actual technology evaluation. In the lead antibody licensing business, the company plans to
+achieve sales of \460 million from licensing out its development pipelines and
+\614 million from an increase in contracting companies in the drug discovery
+alliance business. Furthermore, the company is forecasting R&D costs at the
+same level as FY12/15.◆Risks and Return to
+Shareholders The company does not plan to
+pay a dividend until it has established its earnings base and financial
+soundness. (1) Risks We see the following potential
+risks to the business of the company. ○Risk of delays in
+licensing agreement negotiations and R&D Should there be a delay in
+licensing agreement negotiations with client candidates or should a rupture of
+the agreement occur, or, should the licensing of lead antibodies not progress
+as expected due to delays in R&D, or should the development be abandoned
+during the course of the drug development, there is the risk that these events
+could impact on the company’s performance in the future. ○Superior technologies
+could be developed If a technology far superior to the fully human ADLib® system for producing antibodies or other new technologies are
+developed, this system may not be able to maintain its competitiveness in the
+market.○High dependence on a
+single customer is potentially dangerous The Chugai Pharmaceutical
+group <4519> accounted for 57.1% of the company’s total sales in FY12/14. If the business relationship with the
+group deteriorated for some reason, the company’s performance would be threatened. In December 2014, the company’s contracts with the Chugai Pharmaceutical Group for joint
+research and contract research using the original ADLib® system had each been extended. (2) Returns to shareholders As the company still carries cumulative losses, it will not pay
+a dividend in the near future. However, after it establishes a basis for stable
+profits, its policy is that it will pay dividends that reflect its improved
+financial condition and business performance. 報告內容僅供參考，不得作為任何投資引用之唯一依據，且其投資風險及決定應由投資人自行判斷並自負損益。

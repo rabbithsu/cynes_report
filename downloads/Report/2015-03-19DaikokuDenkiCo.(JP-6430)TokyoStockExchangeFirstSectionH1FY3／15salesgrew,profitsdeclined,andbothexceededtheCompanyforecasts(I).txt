@@ -1,0 +1,160 @@
+DaikokuDenkiCo.(JP-6430)TokyoStockExchangeFirstSectionH1FY3/15salesgrew,profitsdeclined,andbothexceededtheCompanyforecasts(I)
+  2015-03-19 提供機構：FISCO 作者：FISCO 點閱次數：20   
+
+Daikoku Denki <6430>
+(hereafter, “the Company”) has two main Segments, the Information System Segment, which
+manufactures and sells computer systems for pachinko (Japanese pinball) parlors
+or halls, and the Control System Segment, which produces and sells display and
+control units for pachinko machine manufacturers. The Company holds an
+approximately 35% share of the Japanese market for hall computers, reflecting
+an information management method that is the de facto standard for the
+industry. The Daikoku Denki Strategic Information System (DK-SIS) gathers,
+processes and analyzes the daily operational information of pachinko halls with
+customer associations and gives feed-back to the managers of these halls to
+improve their operations. It is the only such system in Japan and supports the
+Company’s business base. The system was used by
+3,712 pachinko and pachinko slot halls at the end of the first half of the
+fiscal year through March 2015, i.e., at the end of H1 FY3/15. As Japan’s pachinko market has been shrinking for several years, the
+Company is pursuing three main reforms to achieve growth over the medium to long
+term: 1) development of next-generation hall computer, 2) shifting to a
+stock-type revenue model, and 3) expansion of in-house developed pachinko slot
+machines. Over the next three years, the Company plans to invest about ¥5bn to develop a hall computer that will operate on a cloud
+server and be capable of advanced analysis of Big Data. It will be far superior
+to any competing computer and should allow the Company to increase its share of
+the Japanese market for these machines. In H1 FY3/15, sales increased
+7.8% y-o-y to ¥27,892mn, but operating profit declined
+12.7% y-o-y to ¥2,170mn. Both sales and operating profit
+were larger than the Company had forecasted at the start of the fiscal year.
+Sales exceeded the forecast mainly because sales of peripheral equipment for
+hall computers were stronger than projected by the Company. Operating profit
+decreased because R&D expense on the development of the next-generation
+hall computer increased substantially y-o-y. For FY3/15, the Company
+maintained its original forecasts of a 3.4% y-o-y drop in sales to ¥55,000mn and a 43.8% fall in operating profit to ¥3,000mn. Although the H1 business performance showed steady
+growth, the Company is maintaining its original plan as it is considering
+conservative prospects for the Control System Segment in H2 FY3/15 and the
+postponement of some expenses from H1 to H2. In the short term, the Company
+will pay close attention to its business performance which could be affected by
+such factors as recently announced Partial Change of the Type Testing Process
+for Balls Dispensed by Pachinko Slot Machines by Japan’s National Police Agency. However, from the medium-term point of view, the Company
+understand the importance of its progress of business reforms.◆Business Description Revenue-generating Information System Segment, which has
+the largest market share in the industry, is the operating base of the Company Daikoku Denki manufactures and
+sells computer systems for pachinko halls as its core business. It also
+manufactures and sells display and control units for pachinko machines and
+pachinko slot machines, and pachinko slot machines developed in-house. As the pioneer in the
+development of hall computers, which assist the management of pachinko halls,
+the Company strengthened hall’s trust and pachinko fan’s satisfactions by providing the management system which put
+emphasis on data management, introduction of epoch-making peripheral equipment
+for its hall computers, and utilization of DK-SIS, the only membership
+information service in pachinko industry; and it holds the top share of the
+Japanese market for hall computers. Its hall computers are
+installed in about 4,200 pachinko halls in Japan, primarily high-end halls,
+giving it an approximately 35% share of the market. The Company’s two main businesses are the
+Information System Segment and the Control System Segment, but the Information
+System Segment provided 63.3% of its total sales and 84.4% of its total
+operating profit before adjustments in H1 FY3/15 and is the main source of
+stable profit.Develops tools for generating information that supports
+pachinko hall operations (1) Information System Segment
+The Information System Segment
+offers a complete line of information equipment and services to support sales
+and operational management at pachinko halls. Hall computers are the main
+hardware item made by the Segment, and these are supported by peripheral
+equipment, such as prize customer management systems and information display
+systems. For consolidating and analyzing the data recorded by this equipment,
+the Segment offers services such as a hall operational support service and its
+unique DK-SIS system, the membership information service. Hall computers display the
+operating condition of each machine and sales data, and are the core systems
+for supporting pachinko hall operations. As mentioned above, these computers
+are supported by peripheral equipment, such as prize customer management
+systems and information display systems; and also serve as the foundation of
+the DK-SIS system, the membership information service. The major
+characteristics of this business is that peripheral equipment and support
+services are often sold with hall computers as a package deal. Other than the
+sales of its information system equipment, the Company is shifting to a
+stock-type revenue model by reinforcing regular fee income business from
+after-sales management support service and information supply service. Manufactures control units while in-house developed
+pachinko slot machine achieved big hit (2) Control System Segment The Control System Segment produces LCD display units, control
+units, switches and motors to makers of pachinko and pachinko slot machines.
+Applying the knowledge obtained during many years of analyzing data from
+pachinko machines through its DK-SIS, the Segment is serving as a developing
+partner to machine manufacturers by proposing specifications based on trend
+analysis of popular machines, and involved in contents business by obtaining
+the rights to use popular characters, beyond the Segment’s position as a unit manufacturer.Daikoku Denki began manufacturing and selling in-house developed
+machines on a full scale from FY3/14. The Magical Suite Prism Nana pachinko
+slot game machine, which the Company commercialized in April 2013, has been
+highly appraised by players for its unique world of original characters and the
+enhanced amusement it provides.◆Company Traits Made contributions to pachinko hall’s enhanced profitability by promoting the efficiency and
+increasing fan’s satisfaction (1) By offering valuable
+innovations, the Company established market development type growth model Since its establishment,
+Daikoku Denki has consistently planned and developed new categories of goods
+and services, thereby developed the pachinko market and achieved growth. It has
+not just developed machines with superior functions but emphasized the
+importance of data management and the need for information disclosure. Thus, it
+has been able to present ideas with added value to the various aspects of
+management of pachinko halls. Launched in 1974, the Company’s first hall computer enabled the managers of pachinko halls to
+introduce data management method to manage the data that they had previously
+simply accumulated. Consequently, its hall computers have become the de facto
+standard for hall computers. In subsequent years, the Company introduced other
+kinds of information equipment with revolutionary functions. One such piece of
+equipment was the Data Robo terminal, which provides information about
+different models of pachinko machine to the fans of these machines. This
+equipment has enhanced the profitability of pachinko halls by increasing the
+efficiency of pachinko hall management and the satisfaction of pachinko machine
+fans. One new business being pursued by Daikoku Denki is the in-house
+developed pachinko slot machines that differ from previous pachinko slot machines
+and pachinko machines, which tend to be chosen based on the appealing of
+gambling. As mentioned above, in April 2013, the Company commercialized a
+pachinko slot game machine that displays original animation characters created
+by popular illustrators, and it pursued the commitment to quality in animations
+and voice actors. This high-quality machine has won accolades from pachinko
+slot machine fans who also love animation videos, and the Company has again
+established a new market for amusement equipment.Strong network of hall computers is supporting the
+Company’s operating base (2) The Company has
+established a strong network of pachinko halls Another advantage Daikoku Denki has is the DK-SIS, hall computer
+based membership information service. The DK-SIS connects the Company and
+member pachinko halls through networks, and gathers, processes and analyzes the
+daily operational information of pachinko halls recorded by hall computers, and
+feed-back useful information to the managers of these halls to improve their
+operations. The managers of halls in which Daikoku Denki’s hall computers are installed can make proper store management
+by using useful information such as operational data on nationwide pachinko
+machines and sales data broken down by the model of pachinko machine. As for
+Daikoku Denki, this firm network with member halls is supporting its operating
+base. The Company also serves as a think tank on the pachinko industry and, as
+a leading company of the industry, this elevates the Company’s brand name. The DH-SIS service is currently used by 3,712
+pachinko and pachinko slot halls which operate approximately 1.33mn machines,
+or 28.9% of all the machines installed in Japan, and gathers the data of ¥10.1 trillion annual sales.The Company has continually provided value by balancing
+profitability and investment (3) Stable revenue base
+supports the Company’s investment in the future
+growth Daikoku Denki’s main source of
+competitiveness is its investment in future growth, including its R&D
+expense. Over the past few years, the Company has maintained aggressive
+investment in future growth driver fields such as pachinko slot machines and a
+next-generation hall computer, and other products. The stable revenue stream or
+Cash Cow provided by the high-margin Information System Segment make this
+investment possible. The Company’s ability to balance large
+profits from its existing businesses with heavy investment in businesses of the
+future allows it to maintain sustainable value creation.◆Industry Environment Although the number of halls is declining, the average
+size of a hall and the average number of machines per hall are increasing Japan’s pachinko industry has been
+shrinking for years, reflecting a decline in the pachinko fan’s population, a trend toward playing games with low rental costs
+for balls, increases in Japan’s consumption tax, and other
+factors. According to surveys by the National Police Agency, the number of
+pachinko and pachinko slot halls in Japan declined at an average annual rate of
+1.5% from 2009 to 2013, when the number reached 11,893 and Daikoku Denki served
+about 4,200 of these halls, or about 35%. Most of Daikoku Denki’s customers are high-end pachinko halls, so those halls are
+relatively insensitive to economic cycles and have money enough to invest in
+new businesses.However, the National Police Agency reports that, while the
+number of pachinko machines in Japan has declined, the number of pachinko slot
+machines has increased, leading to a slight rise in the combined number of pachinko
+and pachinko slot machines. Since the number of pachinko and pachinko slot
+halls decreased over the same period, this indicate the trend for large scale
+hall operations. Upsizing of pachinko and pachinko slot halls with advantage of
+scale, benefits Daikoku Denki, as the Company can seeks high investment effect
+from advanced functionality and added values.According to Daikoku Denki’s estimate, the value of Japan’s combined market for pachinko and pachinko slot games, as
+measured by the gross profit earned by all halls nationwide, has fallen each
+year, and this value has also declined on a per-machine basis. Thus, even
+though pachinko halls and pachinko slot halls are increasing in average size,
+they continue to operate in a challenging business. Daikoku Denki believes that
+the combined market for pachinko and pachinko slot games could recover to about
+¥4trn per year in mid-term once the
+pachinko industry has recovered from a temporary downturn in business following
+the latest consumption tax hike, and if Japan’s economy can able to overcome deflation as the country prepares
+to host the Olympic Games in Tokyo. 報告內容僅供參考，不得作為任何投資引用之唯一依據，且其投資風險及決定應由投資人自行判斷並自負損益。

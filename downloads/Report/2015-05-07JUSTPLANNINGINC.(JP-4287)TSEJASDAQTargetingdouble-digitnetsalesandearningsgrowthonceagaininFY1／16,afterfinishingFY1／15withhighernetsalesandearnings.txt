@@ -1,0 +1,395 @@
+JUSTPLANNINGINC.(JP-4287)TSEJASDAQTargetingdouble-digitnetsalesandearningsgrowthonceagaininFY1/16,afterfinishingFY1/15withhighernetsalesandearnings
+  2015-05-07 提供機構：FISCO 作者：FISCO 點閱次數：8   
+
+JUST PLANNING, Inc. (4287)
+provides the restaurant industry with Makasete Net, an ASP service that is used
+for sales, purchasing, workers’ attendance management and
+other functions. The number of subscribing restaurants reached an all-time high
+at 4,733 as of January 31, 2015. By offering value-added services such as
+Makasete Touch and optimization assessment services for public utility bills,
+the Company is taking steps to increase average revenue per user (ARPU), with
+the aim of further increasing earnings. Looking at the Company’s consolidated business performance for the fiscal year ended
+January 2015 (FY1/15), JUST PLANNING reported higher earnings on higher net
+sales for the fiscal year. Net sales were \1,851mn, up 1.0% year on year (yoy),
+and operating income was \443mn, up 4.8% yoy. These results were underpinned by
+a strong performance in the Logistics Solution Business, which delivered
+double-digit growth in net sales and earnings, plus a steady increase in the
+number of subscribing restaurants in the mainstay ASP Business. The Logistics
+Solution Business is being developed by a subsidiary of JUST PLANNING. In FY1/16, the Company is
+projecting double-digit growth in net sales and earnings. Net sales are
+forecast to increase 18.8% yoy to \2,200mn and operating income is forecast to
+rise 16.0% to \515mn. In the ASP Business, the Company is targeting monthly
+usage fees of just over \84 million, up \10 million from the previous fiscal
+year-end, based on higher ARPU from existing customers mainly atop the
+full-scale launch of Makasete Touch, and by developing new customers. Furthermore,
+the solar power generation business, which was initiated in February 2015, is
+expected to contribute to higher net sales and earnings. This new business is
+projected to push up net sales by around \55-\60mn and operating income by
+around \25mn. The Company plans to proactively form business alliances in
+order to develop new customers. It formed a partnership with Seiko Solutions
+Inc. on the supply of Makasete Touch POS services in December 2014. In
+addition, the Company plans to enter into partnerships with various alliance
+partners to develop business with restaurants run by individual owners.
+Moreover, the Company is looking at introducing new services such as restaurant
+referral services for overseas visitors in response to the increase in overseas
+visitors to Japan. As these new services steadily start contributing to
+earnings, we believe that the Company has a greater chance of restoring growth
+in its business results, which have languished for the past few years.◆Business Overview ASP Business: core earnings
+driver representing 49.0% of net sales and 80.8% of gross profit The Company’s operations are classified into four business
+segments: the ASP Business,* the
+System Solution Business, the Logistics Solution Business, and the Other
+Business. The graph below shows the composition of net sales and gross profit
+by business segment in FY1/15. The ASP Business is the core earnings driver,
+representing 49.0% of net sales and 80.8% of gross profit. The following is a
+description of each business segment.○ASP Business In the ASP Business, the core
+service is Makasete Net. This service allows customers to utilize the business
+software they need to operate various aspects of restaurants, such as sales,
+purchasing, and attendance management, via the Internet. The main customers for
+this service are small and medium-sized restaurant companies that operate
+chains of between 20 and 50 restaurants. Introducing Makasete Net makes it
+possible for these client companies to promptly and inexpensively gather, manage
+and analyze data on operating conditions at their restaurants. Although the monthly usage fee
+for Makasete Net varies depending on the menu of services chosen by the
+customer, the standard monthly price of a full-service subscription is \44,000.
+This compares with an average monthly usage fee of just under \20,000 per
+restaurant at present. The main reason for this difference appears to be that
+there are many companies that subscribe to only some of the functions offered
+by the service, such as sales management and attendance management. Even so,
+compared with the monthly fee level of around \10,000 offered by many of its
+competitors, JUST PLANNING has a relatively high price structure within the
+industry. The Company can justify this high price level because it provides
+customization support free of charge, unlike other companies that charge an
+additional fee for this type of support. (However, JUST PLANNING does charge a
+separate fee for making substantive customized changes to its service specifications).
+The number of subscribing restaurants for Makasete Net stood at
+4,733 as of January 31, 2015, representing 219 corporate subscribers, reaching
+an all-time high after three straight years of growth. According to the Japan
+Franchise Association, the number of restaurant chains in Japan has been
+gradually increasing as a trend, reaching 57,600 as of the end of FY3/14.
+Therefore, JUST PLANNING has an industry share of just under 10%, but its share
+of business with small and medium-sized restaurant chains, its targeted
+customer base, appears to be over 10%.Looking at JUST PLANNING’s competitors, rival companies of a
+similar size include Alphax Food System Co., Ltd. (3814), Hitachi Systems,
+Ltd., and Aspit Co., Ltd. Of these, Alphax Food System Co., Ltd. has surpassed
+JUST PLANNING in terms of having the industry’s largest number of subscribers,
+with 7,039 subscribing restaurants (282 corporate subscribers) as of the end of
+September 2014. Moreover, Infomart Corporation (2492) also provides order receipt
+and placement services related to ASP services for restaurant companies, and
+some of its services overlap with those of JUST PLANNING. That said, Infomart
+Corporation is mainly focused on providing services primarily to the selling
+side, i.e., food wholesalers. For this reason, the two companies have
+established a good business relationship, by, for example, cooperating with one
+another on systems for shared customers.Furthermore, in terms of
+services other than Makasete Net, optimization assessment services for public
+utility fees were initiated in 2014. Other services include Makasete Touch,
+which is a cloud-based POS ordering service unveiled in fall 2012, and AppCRM,
+which is a set of sales promotion and customer management services that
+utilizes smartphone apps. Of these services, Makasete
+Touch is a service type known as a cloud-based POS ordering service. It
+replaces dedicated devices used by restaurant staff to take orders from guests
+with general-purpose devices such as iPad and iPod touch. Since the service was
+unveiled in fall 2012, JUST PLANNING has continued test marketing at 30
+restaurants. Having upgraded and expanded the service functions to the same
+standard as the functionality of dedicated devices, the Company will begin
+marketing the Makasete Touch service in earnest in 2015. Looking at the main features
+of Makasete Touch, the service enables initial deployment costs to be reduced
+to approximately one-third of the cost of systems using dedicated devices. In
+addition, because the service makes use of devices that are widely used by the
+general public, restaurant operators stand to benefit, for example, from
+reduced staff education and training costs as staff can obtain proficiency with
+the devices in a shorter period of time. Moreover, in the future, the Company
+plans to upgrade and expand the service to include additional functions such as
+services that allow restaurant guests to order directly from their smartphones,
+and services that lead to an enhanced customer service experience by utilizing
+ordering information. The total monthly usage fee per restaurant for Makasete
+Touch is \19,800. This breaks down into \9,800 for the ordering service, \5,000
+for the POS service, and \5,000 for maintenance services. Several companies have already developed POS ordering services
+using smart devices. The difference between JUST PLANNING and these early
+corporate entrants is that JUST PLANNING provides its services through Web
+browsers, whereas other companies provide services through dedicated apps. With
+service delivery through dedicated apps, the apps may need to be updated every
+time there is a change in operating system (OS) specifications by Apple or
+Google. Therefore, JUST PLANNING believes that dedicated apps run the risk of
+service delivery interruptions if updates are not made in time for changes in
+OS specifications. Service delivery through Web browsers does not have this
+risk. Instead, initially, the disadvantage of Web browsers was that response
+speeds to user operations were slow. However, the Company has since improved
+service delivery to the point where response speeds are almost identical to
+those of dedicated apps. Another unique strength of the Company is that it
+simultaneously provides the Makasete Net restaurant operation management
+service in conjunction with Makasete Touch.○System Solution
+Business The System Solution Business
+mainly comprises the sale of various devices and equipment, such as POS systems
+and order entry systems that are deployed by the restaurants of companies
+subscribing to ASP services, as well as related system configuration and
+maintenance revenues. However, net sales in the System Solution Business have a
+weak correlation with the ASP Business. The reason is that there is no need for
+customers to repurchase devices and other equipment that are already installed
+in a restaurant. This holds true even when customers are subscribing to the ASP
+service for the first time. Furthermore, the profitability on sales of devices
+and other equipment is relatively low because these items are purchased from
+third parties for sale to the customer. ○Logistics Solution
+Business The Logistics Solution
+Business is mainly being developed by SuccessWay Inc., a subsidiary of JUST
+PLANNING. This business mainly comprises logistics solutions and merchandising
+solutions for restaurant companies, along with corporate business support
+services. Currently, the gross margin of this business, at around 15%, is
+relatively lower than other business segments, partly because labor-intensive logistics
+business support services account for the bulk of net sales in this segment.
+Going forward, the strategy for the Logistics Solution Business is to enhance
+profitability by expanding sales of the Logi Logi System, a logistics
+management ASP service developed by JUST PLANNING (the number of restaurants
+subscribing to the Logi Logi System is approximately 400). ○Others Business In the Others Business, JUST PLANNING operates one restaurant
+(an izakaya diner) as a training venue for employees to obtain expertise on
+restaurant operations. In addition, in October 2014, the Company acquired one
+golf bar in Fukuoka Prefecture. Moreover, in February 2015, the Company
+initiated a solar power generation business in the Nasu area of Tochigi
+Prefecture. Each of these businesses is operated by JP Power, a subsidiary of
+JUST PLANNING.◆Overview of Financial
+Results Net sales and operating
+income rose yoy, despite lower earnings at the ordinary income level (1) Overview of financial
+results for FY1/15 Consolidated financial results
+for FY1/15 were announced on March 13, 2015. Net sales were \1,851mn, up 1.0%
+yoy, operating income was \443mn, up 4.8%, ordinary income was \413mn, down
+1.7%, and net income for the year was \220mn, down 67.7%. Net sales and operating income both increased yoy atop an
+increase in the number of subscribing restaurants in the ASP Business and a
+strong performance in the Logistics Solution Business. However, earnings
+decreased at the ordinary income level mainly due to an increase in loss on
+equity-method investments from \7mn to \34mn under non-operating items.
+Furthermore, the Company recorded a double-digit decrease in net income for the
+year. This mainly reflected the recording of an allowance for doubtful accounts
+of \65mn for other accounts receivable in connection with solar power
+generation equipment (The Company plans to sell solar power equipment upon the
+cancellation of a project in Yamanashi Prefecture.), as well as the absence of
+a gain on sale of investment securities of \704mn recorded in FY1/14 (due to
+the dissolution of a business and capital alliance with Digital Garage, Inc.
+(4819). Additionally, the underperformance against the company’s forecasts was
+primarily due to sluggish sales in the System Solution Business.Higher net sales and earnings
+due to steady growth in the number of subscribing restaurants in the core ASP
+Business (2) Performance trends by
+business segment ○ASP Business In the ASP Business, net sales
+were \906mn, an increase of 1.5% yoy, and gross profit was \704mn, an increase
+of 3.1% yoy. The main contributor was steady growth in the number of
+subscribing restaurants to 4,733 as of January 31, 2015, an increase of 499
+restaurants from the previous fiscal year-end. Furthermore, the gross margin
+increased 1.2 percentage points to 77.7%, mainly reflecting a decrease in cost
+of sales as the development of a large-scale project recorded in the previous
+fiscal year came to a close. Looking more closely at the breakdown of changes in the number
+of subscribing restaurants, the number of new subscribing restaurants increased
+by 5 from the previous fiscal year-end to 249 and the number of new restaurants
+opened by existing customers increased by 19 to 538, with both of these
+increases continuing at the previous fiscal year’s pace. On the other hand,
+there were large decreases in the number of restaurants closed by existing
+customers, which decreased by 113 from the previous fiscal year-end to 266, and
+the number of restaurants cancelling their subscriptions, which decreased by 99
+to 22. These large decreases greatly contributed to the higher net increase in
+the number of subscribing restaurants. Notably, in regard to the number of
+restaurants cancelling their subscriptions, the Company benefited from efforts
+to actively establish contact with existing customers and upgrade its support
+framework as part of a change in sales policy instituted in the previous fiscal
+year.The growth rate for net sales
+edged up by only 1.5% compared with an increase of around 12% in the number of
+subscribing restaurants from the previous fiscal year-end. This was mainly due
+to the impact of lower ARPU. The main factor at play was a tendency for new
+corporate subscribers to have a lower ARPU. To halt this decline in ARPU and
+restore ARPU to a growth trajectory, the Company has started taking steps to
+propose new value-added services. Specifically, the Company has
+started to provide new optimization services for public utility fees from the
+second half of FY1/14 This service assesses whether an existing customer has
+entered into public utility contracts under optimal terms and conditions, such
+as by determining whether electricity fees are appropriate relative to actual
+electricity consumption. The assessment is then used as a basis for proposing
+an optimal menu of contracts and other improvements that help to reduce public
+utility expenses. The assessment is carried out by a specialist consulting firm
+that is an alliance partner of the Company. For JUST PLANNING, the primary goal
+of this service is to encourage client companies to subscribe to additional
+JUST PLANNING services by reducing their public utility expenses. The service
+in itself is not seen as a means to increase net sales. In FY1/14 the Company actually
+conducted an electricity cost optimization assessment for a corporate client
+that operates 50 restaurants. Through the assessment, the Company helped the
+corporate client to achieve electricity cost savings of \6mn on an annualized
+basis. At the same time, the Company successfully won an additional
+subscription to the Makasete Net attendance management service from this
+customer. Incidentally, the targeted customers for the electricity cost
+assessment service are restaurants with roadside locations that have contracted
+directly with electric, gas and other utilities. ○System Solution
+Business In the System Solution Business, net sales and gross profit both
+decreased sharply. Net sales were \85mn, down 59.0% yoy, and gross profit was
+\25mn, down 51.3% yoy. The main factors were continued declines in the selling
+prices of devices and other equipment, along with the absence of a large
+project recorded in the previous fiscal year. The gross margin increased by 4.7
+percentage points to 29.3%, mainly due to a decrease in the ratio of devices
+and other equipment purchased from third parties for sale to customers.○Logistics Solution
+Business The Logistics Solution
+Business delivered a strong performance. Net sales were \813mn, up 15.2% yoy,
+and gross profit was \119mn, up 16.6% yoy. Faced with a challenging operating
+environment, the restaurant industry has been moving to outsource logistics
+operations as part of cost-cutting measures. By capturing this demand for
+outsourcing services, this business segment performed well in terms of net
+sales and earnings. However, the gross margin stood at the 14% level, which was
+relatively low among the Company’s business segments. In response, plans call
+for increasing the number of subscribers to the Logi Logi System, an ASP
+service developed in-house. As of the previous fiscal year-end, the Logi Logi
+System had approximately 400 subscribing restaurants.○Others Business In the Others Business, net
+sales were \46mn, up 74.3% yoy and gross profit was \23mn, up 429.3% yoy. The
+main factor behind the higher net sales and earnings was the contribution of a
+golf bar (Fukuoka Prefecture) acquired in October 2014. In the solar power
+generation business, the Company had planned to start solar power generation
+operations in the Nasu area in January 2015. However, because the start of
+these operations was postponed to February, the Company was unable to record
+net sales in this business in FY1/15. Financial indicators of both
+profitability and stability remain strong (3) Financial condition and
+key financial indicators Looking at the Company’s financial condition as of January 31, 2015, total assets were
+\2,834mn, down \207mn from the previous fiscal year-end. The main factor at
+play was a decrease of \1,038mn in cash and deposits from the previous fiscal
+year-end. This decrease was partly offset by an increase of \360mn in property,
+plant and equipment associated with the construction of solar power generation
+facilities in the Nasu area, as well as an increase of \350mn in investment
+securities, mainly consisting of bond investment trusts. Total liabilities were \349mn, down \403mn from the previous
+fiscal year-end. This decline was mainly due to decreases of \200mn in
+short-term loans payable and \370mn in income taxes payable. In addition, net
+assets were \2,485mn, an increase of \196mn from the previous fiscal year-end.
+The main factor was an increase of \137mn in retained earnings.Turning to key financial indicators, both the current ratio and
+the equity ratio, which are indicators of financial stability, remained at high
+levels. The current ratio was 499.8%, while the equity ratio was 86.2%. This
+shows that the Company has maintained a sufficiently high level of financial
+soundness. Looking at profitability indicators, the Company has maintained a
+stable operating margin of around 20% and an ROA of around 15%. Therefore, the
+Company is to be commended for its high degree of both profitability and
+stability. The only concern is the Company’s growth potential, which has been
+impacted by lackluster operating income. Restoring operating income to a growth
+trajectory will be a key management priority going forward.◆Financial forecasts Drive earnings growth at a
+faster pace, supported by positive tailwinds in the market environment
+surrounding the Company (1) Financial forecasts for
+FY1/16 In terms of consolidated financial forecasts for FY1/16, the
+Company expects to drive faster growth in the current fiscal year. Net sales
+are projected at \2,200mn, up 18.8% yoy and operating income is forecast at
+\515mn, up 16.0% yoy. Ordinary income is forecast at \515mn, up 24.6% yoy, and
+net income for the year is forecast at \309mn, up 40.1% yoy. The projected
+growth in net sales and earnings will be driven by the expansion of the ASP
+business, mainly supported by the launch of the Makasete Touch service in
+earnest, as well as the Logistics Solution Business and the newly launched
+solar power generation business. Ordinary income and net income are both
+projected to increase faster than the growth rate for operating income. The
+faster projected growth in ordinary income and net income is mainly based on
+anticipated improvements in equity-method investment income (losses) and
+extraordinary income (losses), respectively.As the Japanese economy continues to gradually recover, the
+restaurant industry has seen a rebound in the overall number of restaurants,
+and the market environment surrounding the Company has started to gradually
+benefit from positive tailwinds. Although competition remains fierce, the
+Company’s strategy is to drive earnings growth at a faster pace. This will be
+done by boosting ARPU through the roll-out of new services, along with
+harnessing support capabilities where the Company has long been strong. In
+addition, the Company will develop new customers by upgrading and expanding
+sales channels through such means as business alliances.Targeting an increase in
+monthly usage fees of \10mn from the previous fiscal year-end in the ASP
+Business (2) Forecasts by business
+segment ○ASP Business In the ASP Business, the
+Company is targeting an increase in monthly usage fees of \10mn, from just over
+\74mn as of January 31, 2015 to \84mn plus by January 31, 2016. This target
+should be reached by driving growth in ARPU from existing customers and
+increasing the number of customers. This projected increase breaks down into an
+increase of \3mn from driving growth in ARPU from existing customers and an
+increase of \7mn from winning new customers. As a result, full-year net sales
+are anticipated to increase by around \120mn. To drive growth in ARPU from
+existing customers, the Company will introduce the Makasete Touch service in
+earnest, in addition to taking further steps to market the aforementioned
+optimization assessment service for public utility fees. And to develop new
+customers, the Company plans to proactively win new customers by taking full
+advantage of the sales channels of its corporate business alliance partners, in
+parallel with conventional measures to develop new customers. In December 2014, JUST
+PLANNING announced a business alliance with Seiko Solutions Inc., a major
+provider of information systems for the restaurant industry. As part of this
+alliance, the Company is scheduled to provide Seiko Solutions with the POS
+service functions of oishino, which is the latter company’s new POS ordering service. Seiko Solutions positions oishino as
+a service for small restaurant chains and individual restaurants. The service
+is intended to help Seiko Solutions develop new customers among these types of
+restaurants. In April 2015, Seiko Solutions launched the oishino service in
+earnest, with the aim of introducing the service to 2,000 restaurants in the
+first fiscal year of sales. Please note that the POS service for Seiko
+Solutions has not been factored into the Company’s forecasts for FY1/16. In regard to developing new
+customers for Makasete Net, the positive effects of developing new customers
+generally do not become immediately apparent, with the exception of newly
+established restaurant businesses, because the timing for winning new customers
+coincides with subscription renewals every four to five years. In contrast, the
+Company has the potential to make rapid progress on developing new customers
+for the Makasete Touch service because this service can be introduced anytime,
+starting with a single restaurant. Accordingly, the Company’s strategy is to develop new customers at a faster pace by
+continuing to proactively form business alliances and expand its sales
+channels. Specifically, the Company will partner with payment service companies
+and other firms that have strong business relationships with individual
+restaurants and small- and medium-sized restaurant chains, with a view to
+increasing sales of Makasete Touch. Currently, ARPU for Makasete Net is just under the \20,000
+level. For a full-service subscription, the ARPU per restaurant for Makasete
+Touch is also just under \20,000. Accordingly, higher sales of Makasete Touch
+will have a sizable positive impact. In addition, progress on introducing
+Makasete Touch to existing customers will also help to drive growth in ARPU.In other areas, in April 2015,
+the Company introduced Makasete Net at overseas restaurants for the first time
+and began operating the service abroad. Specifically, Makasete Net was
+introduced at the restaurants of a client company that entered Thailand, with
+service delivery made possible by contracting support to a local partner
+company. There are no other ASP services for small and medium-sized restaurant
+enterprises in Japan that are able to provide a shared service to overseas
+restaurants. (This is due to the lack of an overseas support framework.) We
+believe that this factor will set JUST PLANNING apart from the competition in
+the future. Moreover, as a value-added
+service, the Company is jointly trialing a big data-driven service together
+with a major IT systems company. Specifically, the trials are part of efforts
+to develop a service that will help to increase the net sales of restaurants
+while reducing their costs primarily through the analysis of social media.
+There are no plans to charge a fee for the service itself, which will be
+provided within the scope of existing services. However, if the service is
+successfully developed, it is particularly noteworthy that the service will
+help to bolster the competitiveness of the Company’s services. Furthermore, in response to
+recent increases in overseas visitors to Japan, the Company is currently
+developing services that will display restaurant food menus in multiple
+languages and enable customers to view food menus and place orders via their
+smartphones. It is also developing a restaurant referral service for overseas
+visitors, among other services. By leveraging the Wi-Fi infrastructure
+development expertise and other resources of alliance partner FON, the Company
+intends to launch these services as early as possible. ○System Solution
+Business In the System Solution
+Business, as the selling prices of devices and other equipment continue to
+decline, business performance is expected to remain on a par with FY1/16. ○Logistics Solution
+Business In the Logistics Solution Business,
+the Company is projecting net sales of \1,000mn, a year-on-year increase of 20%
+plus. This growth is being spurred by the positive tailwind of increased
+outsourcing of logistics operations. On the earnings front, the Company is
+projecting continued double-digit increases in profits. As part of efforts to
+enhance profitability, the Company plans to bolster sales of the Logi Logi
+System, an ASP service developed in-house. ○Others Business In the Others Business, the Company expects the launch of solar
+power generation operations to spur higher net sales and earnings, contributing
+around \55-60mn to net sales and \25mn to operating income. In this business,
+the Company has constructed solar power stations at two separate sites in
+Tochigi Prefecture at a total cost of around \500mn: an 800 kWh station in
+Nasushiobara City and a 900 kWh station in Nasu Town. The Company started
+operations at the 800 kWh station and the 900 kWh station on February 3 and
+March 27, 2015, respectively. The power sales price is \36/W at both stations.
+The power sales revenues of the power station that became operational in
+February surpassed expectations by reaching \1.90mn in the first 20 days, marking
+a steady start. Considering that solar power generation is highly susceptible
+to weather conditions, the Company has incorporated a conservative outlook for
+the solar power generation business in its forecasts. Assuming that weather
+conditions are in line with yearly norms, the Company believes there is upside
+potential for additional power sales revenues of around \5mn-\10mn. With no
+further plans to construct any new solar power stations, the solar power
+generation business will comprise the aforementioned two solar power stations
+only.◆Shareholder Return Policy Dividends could be increased
+depending on a decline in the dividend payout ratio due to future earnings
+growth The Company’s basic shareholder return policy is to return profits to
+shareholders through dividends. In regard to dividends, the Company plans to
+maintain steady dividends, while ensuring an adequate level of internal
+reserves to fund future business expansion and to strengthen its business
+foundations. The annual dividend for FY1/15 was \18.0 per share, down \2 from
+\20.0 per share in FY1/14. The decline reflects the previous fiscal year’s payment of a commemorative dividend of \2.0 to mark the
+Company’s 20th founding anniversary. In FY1/16,
+the Company is forecasting an annual dividend of \18.0 per share. In FY1/16,
+the dividend payout ratio is projected at 24.5%, falling below 30% for the
+first time in the past few years with the exception of FY1/14, when an
+extraordinary gain was recorded. Accordingly, the dividend could be increased
+in FY1/16 provided that the Company’s
+business performance exceeds its plans. Incidentally, the Company currently owns treasury stock
+representing 31.5% of the total number of shares issued. As for the handling of
+this treasury stock, the Company is considering holding the shares as treasury
+stock in the near term, as well as using the shares to provide stock options to
+employees. 報告內容僅供參考，不得作為任何投資引用之唯一依據，且其投資風險及決定應由投資人自行判斷並自負損益。

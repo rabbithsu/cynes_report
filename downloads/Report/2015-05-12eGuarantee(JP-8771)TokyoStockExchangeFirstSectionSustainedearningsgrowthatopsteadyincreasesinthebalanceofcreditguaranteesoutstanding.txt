@@ -1,0 +1,381 @@
+eGuarantee(JP-8771)TokyoStockExchangeFirstSectionSustainedearningsgrowthatopsteadyincreasesinthebalanceofcreditguaranteesoutstanding
+  2015-05-12 提供機構：FISCO 作者：FISCO 點閱次數：13   
+
+eGuarantee, Inc.’s (8771) core business is to provide credit risk guarantee
+services targeting sales credits issued by companies to their customers. The
+Company hedges the credit risk it assumes by transferring the guarantees to
+financial institutions via reassurance contracts. It follows a recurring
+revenue business model in which net sales equates to the product of the balance
+of outstanding guarantee times the guarantee fee ratio. As the number of client
+companies has increased, the Company’s
+balance of credit guarantees outstanding has risen. As a result, eGuarantee has
+delivered sustained growth. Looking at the Company’s financial results, net sales and earnings have both remained
+on a growth trajectory owing to steady increases in the balance of credit
+guarantees outstanding. As of December 31, 2014, the balance of credit
+guarantees outstanding stood at \227,734mn, an increase of 16.8% year on year
+(yoy), reaching an all-time high. As of March 31, 2015, the balance of credit
+guarantees outstanding appears to have surpassed more than \230,000mn. The
+balance has increased because the Company’s credit guarantee services are becoming better known and its
+sales channels are expanding via alliances with regional financial
+institutions. In the fiscal year ended March 31, 2015 (FY3/15), net sales were
+slightly sluggish due to a decline in the average guarantee fee ratio as a
+result of fewer corporate bankruptcies. However, the Company is expected to
+achieve its operating profit forecast for the full fiscal year (\1,530mn, up
+17.7% yoy) based on an increase in profitability mainly underpinned by lower
+securitization costs. In FY3/16, the Company is
+expected to deliver annual profit growth of around 20%, mainly based on an
+anticipated increase in the balance of credit guarantees outstanding.
+eGuarantee is implementing growth strategies to drive further business
+expansion. These strategies include upgrading and expanding the Company’s line of credit guarantee products, along with developing new
+customers by strengthening alliances with regional financial institutions.
+Besides launching a small-ticket credit guarantee service via its subsidiary in
+2014, eGuarantee is strengthening sales of its export credit guarantee service
+in China, South Korea and elsewhere in Asia. Although each of these services
+still represents only a several percent of the overall balance of credit
+guarantees outstanding, the small-ticket credit guarantee service has a high
+degree of profitability and the export guarantee service has significant growth
+potential. Accordingly, these two services serve as the core drivers of the
+Company’s financial results over the medium and
+long terms. Looking at the Shareholder Return Policy, eGuarantee’s basic policy is to pay dividends in line with earnings while
+retaining the internal reserves needed to aggressively expand business and
+ensure a strong financial position. In FY3/15, eGuarantee plans to issue an
+annual dividend of \28.00 per share, representing a dividend payout ratio of
+32%. If earnings growth continues in FY3/16, the Company is likely to continue
+increasing its dividend. As for the company’s shareholder gift program, eGuarantee awards a QUO card worth ¥1,500 to each shareholder at the end of March every year.◆Company Profile Expanding business by partnering with overseas financial
+institutions and setting up subsidiaries (1) Company History eGuarantee can trace its
+origins to its establishment as a subsidiary of ITOCHU Corp. (8001) by Mr.
+Masanori Eto, the current president and CEO of eGuarantee, during his third
+year as an ITOCHU employee. Initially, eGuarantee set out to provide a service
+to hedge the risk of uncollectible sales credits, such as trade notes and
+accounts receivable, for B2B transactions over the Internet. However, demand
+for these services was lower than initially anticipated. Therefore, eGuarantee
+evolved into a provider of credit risk guarantee services for sales credits in
+real B2B business transactions that do not involve the Internet. In 2008, eGuarantee arranged its first fund to invest in
+corporate credit and invested in the fund itself. Until this fund was arranged,
+eGuarantee had packaged its guarantees according to the degree of risk and sold
+these packages to financial institutions for hedging the risks. Arranging a new
+fund to invest in corporate credit has enabled the Company to diversify its
+opportunities for profit and increase the amount of credit it underwrites,
+adding further impetus to growth.In January 2012, eGuarantee
+acquired the factoring business of Coface Japan Finance Co., Ltd., the Japanese
+arm of Coface Group, which is a leading French credit guarantee group. The
+purpose of the acquisition was to upgrade and expand the Company’s business foundations and bolster its product development
+capabilities by obtaining expertise related to export credit guarantees. By
+leveraging the expertise obtained through this acquisition, eGuarantee entered
+into business alliances with local financial institutions in South Korea in
+December 2013 and China in June 2014, and has commenced business in those
+countries. In step with expansion in its business volume, in 2013
+eGuarantee established eGuarantee Solution, Inc. as a wholly owned subsidiary
+to specialize mainly in contract-related administrative work and data registration
+services. In 2014, eGuarantee set up wholly owned subsidiary RJG Guarantee Co.,
+Ltd. as a specialized provider of small-ticket credit guarantee services.Generating profits by diversifying and upgrading methods
+of transferring credit risk (2) Description of Businesses eGuarantee’s main business is insuring
+against the sales credit risk arising through transactions among companies.
+This business is illustrated graphically below.First, eGuarantee and its
+client company sign a contract by which eGuarantee promises to pay to the
+client a fixed amount to compensate for a sales credit if it should become
+irrecoverable. By paying a guarantee fee to eGuarantee, the client company
+minimizes its risk of loss from an irrecoverable sales credit. In other words,
+the client company is able to pay a certain guarantee fee in exchange for
+minimizing its risk of loss from an irrecoverable sales credit. Most contracts
+are effective for one year, and the client company pays the entire guarantee
+fee upfront, in principle. eGuarantee divides the sales proceeds into 12 equal
+monthly installments and records the sales every month, so month-to-month sales
+fluctuations are relatively small. As eGuarantee’s net sales are the product of
+its balance of guarantees outstanding times its guarantee fee ratio, the
+Company follows a recurring revenue business model. Therefore, the key to
+driving growth in net sales lies in increasing the balance of credit guarantees
+outstanding.The guarantee fee ratio
+differs depending on each individual contract. This is because the risk of
+recoverability and the amount of the guarantee are different for each case. In
+practice, the guarantee fee ratio is set based on the result of eGuarantee’s investigations and analyses of the credit that will be
+guaranteed by the contract and investigations of risk associated with the
+companies subject to the guarantee. Furthermore, eGuarantee refers to various
+data, including economic indicators published daily, trends in the number of
+corporate bankruptcies and the probability of credit default based on past
+experience, and revises guarantee fees every month based on this data. When the
+number of corporate bankruptcies is decreasing, the credit risk is lower. This
+means that the guarantee fee ratio will also be set lower. However, eGuarantee
+is not bound by industry practice in setting its guarantee fee, but must set a
+fee that justifies the cost of hedging the risk for the client, if it wants to
+successfully conclude a contract. For this reason, eGuarantee sets the
+guarantee fee in line with the needs of the user. In regard to the credit risk
+assumed by the Company, eGuarantee packages its guarantees into a portfolio of
+financial risk products according to risk. It then transfers the guarantees to
+financial institutions, investment funds and other entities (securitization),
+according to their needs. Upon the transfer of credit risk, eGuarantee pays
+guarantee fees and commissions to the entities that accept its guarantee
+packages. These guarantee fees and commissions constitute the bulk of
+eGuarantee’s cost of sales. Therefore, eGuarantee’s
+gross margin depends mainly on the spread between the guarantee fee ratio
+agreed upon by the Company and its clients and the reassurance fee ratio that
+applies to fees and commissions paid by the Company to the entities that accept
+the transfer of credit risk. eGuarantee has been reducing the cost-of-sales
+ratio by diversifying and upgrading its methods of transferring credit risk. In
+addition, by arranging investment funds at a subsidiary, eGuarantee has reaped
+benefits such as reducing the amount of guarantee fees paid to third parties,
+as well as increasing the amount of guarantees undertaken. These benefits have
+been a key factor behind the increase in eGuarantee’s operating margin in recent years.Winning new customers across a broad range of businesses
+centered on the comprehensive guarantee service for non-financial companies (3) Net Sales by Product eGuarantee provides disclosure
+of its businesses in four product categories based on the contract counterparty
+and the type of contract. The product category that generates the largest net
+sales is comprehensive guarantees for non-financial companies (billing by
+guarantee limit). This product category accounts for 70% of overall net sales. The comprehensive guarantee service provides a guarantee
+contract that comprehensively assumes the credit risk of 10 or more companies
+that are transaction counterparties of the client company. The transaction
+counterparties whose credit risk is covered may be grouped in a number of ways,
+including by net sales ranking or transaction terms. This guarantee service
+achieves risk dispersion by comprehensively transferring the credit risk of
+multiple transaction counterparties. For this reason, the client company is
+able to benefit from a lower guarantee fee than if it entered into separate
+guarantee contracts for each transaction counterparty. Another benefit is that
+comprehensive guarantees allow the client company to mitigate its cost of
+managing the credit of its transaction counterparties.Looking at the different types
+of billing methods for comprehensive guarantees, the billing-by-sales method
+involves charging the client company a fee that is calculated by applying a
+guarantee fee ratio set for each transaction counterparty to the client company’s actual monthly net sales to each transaction counterparty.
+This billing method is optimal for providing guarantees to client companies
+that experience well-defined busy and quiet seasons in their businesses. On the
+other hand, the billing-by-guarantee-limit method involves charging the client
+company a guarantee fee based on a guarantee limit set in advance, regardless
+of the actual amount of transactions between the client company and its
+transaction counterparties. The comprehensive guarantee service based on the
+latter billing method has become eGuarantee’s mainstay product category. Company-specific guarantee contracts are contracts in which
+eGuarantee assumes the credit risk of a transaction counterparty chosen by the
+client company on a single-company basis. The only billing method available is
+the billing-by-guarantee-limit method. For financial companies, eGuarantee
+provides a service that assumes the credit risk of various types of receivables
+held by financial institutions and other entities.As of March 2015, eGuarantee
+had approximately 1,500 client companies, ranging from small and medium-sized
+enterprises to major corporations. Furthermore, the Company guarantees the
+credit of approximately 40,000 companies. eGuarantee’s customers are spread out evenly across a multitude of
+industries, including the wholesaling, retailing, and manufacturing sectors.
+Accordingly, eGuarantee’s business performance is not
+susceptible to business volatility in any particular sector. Nationwide expansion achieved by setting up branches in
+core cities and forming alliances with 51 regional banks (4) Operational Structure In addition to its head office in Tokyo, eGuarantee has opened
+branches in Osaka, Fukuoka, Aichi, and Hokkaido in the course of expanding its
+network across Japan. The Company plans to maintain its current operational
+structure in terms of its business locations. Meanwhile, eGuarantee has
+efficiently developed customers by forming business alliances with financial
+companies, trading companies, leasing firms and other partners. Notably,
+eGuarantee has strengthened its business alliances with regional banks, which
+have many local small and medium-sized enterprises among their customers. As of
+March 31, 2015, eGuarantee had entered into business alliances with 51 regional
+banks, establishing an alliance network spanning nearly all of Japan. Looking
+at the breakdown of the number of customer referrals, referrals from regional
+banks account for around half of the total, followed by referrals via trading
+companies and those from other channels.Reaping first-mover profits on the back of domestic
+economic recovery and market growth potential (5) Market Size and
+Competition The size of the market for sales credits (trade notes and
+accounts receivable) targeted by the eGuarantee’s mainstay service is estimated to be more than \200tn.
+Certainly, not all of these sales credits will require credit risk guarantee
+services. However, the size of the sales credit market shows that sales credit
+guarantee services harbor considerable growth potential.Furthermore, there are almost
+no other companies in Japan like eGuarantee that specialize in providing sales
+credit guarantees for non-financial companies and that could compete with the
+Company. Competition has been limited to certain subsidiaries of major trading
+companies that have provided these services in the past. In the field of
+small-ticket sales credit guarantee services, eGuarantee faces some competition
+from Trust&Growth Co., Ltd., which is a subsidiary of Raccoon Co., Ltd.
+(3031). Looking ahead, the market for credit risk guarantee services for sales
+credits is projected to continue expanding. Based on this outlook, new entrants
+are forecast to increase in number. However, it should take some time before
+these companies are able to catch up with eGuarantee because they must first
+build up management expertise in fields such as credit risk management and
+portfolio structuring. In the near term, it is highly likely that eGuarantee
+will be able to reap first-mover profits as the market continues to grow. In addition, the number of corporate bankruptcies, which has an
+impact on the guarantee fee ratio, has continued to decline since peaking out
+in 2009. In 2014, the number of corporate bankruptcies decreased 11.1% yoy to
+9,180, falling below the 10,000 mark for the first time in eight years. The
+ongoing recovery of the Japanese economy, albeit at a gradual pace, forms the
+backdrop to the declining number of corporate bankruptcies. The fewer number of
+corporate bankruptcies has been accompanied by a decline in the guarantee fee
+ratio. Currently, the guarantee fee ratio stands at about 2% (compared with
+about 3% around 2009). A decline in the guarantee fee ratio is a negative
+factor that pushes down net sales. Meanwhile, considering that a lower
+guarantee fee ratio reduces the fees paid to acceptors of securitized
+guarantees, a decrease in the guarantee fee ratio is a neutral factor that has
+no impact on the gross margin. Moreover, during an economic recovery, companies
+tend to see an increase in the number of their new transaction counterparties
+in step with sales growth, and tend to generate surplus cash that can be used
+to hedge the credit risk of sales credits. For these reasons, the balance of
+credit guarantees outstanding tends to increase in times of economic recovery.◆Financial results Record-high financial results delivered for Q1-Q3 FY3/15
+owing to cost cutting and increases in the number of contracts (1) Financial results for
+Q1-Q3 FY3/15 On January 30, 2015, eGuarantee announced its financial results
+for the first three quarters of FY3/15 (Q1-Q3 FY3/15). eGuarantee continued to
+deliver record-high financial results for the nine-month period. Net sales were
+\3,003mn, up 7.4% yoy and operating profit was ¥1,159mn, up 18.3% yoy.Net sales were slightly lower
+than forecast, mainly reflecting a decline in the guarantee fee ratio due to a
+fewer number of corporate bankruptcies in step with Japan’s economic recovery. However, the balance of credit guarantees
+outstanding stood at \227,734mn as of December 31, 2014, an increase of 16.8%
+from December 31, 2013, largely in line with the Company’s forecast. The main factor was steady growth in the number of
+contracts, primarily driven by an increase in the number of financial
+institution partners, stronger small-ticket credit guarantee services, and
+enhanced sales productivity. With regard to the enhanced sales productivity, in
+April 2014, eGuarantee started fully operating a sales support system that
+increases the transparency of the sales flow. This led to an improvement in the
+contract completion ratio. Moreover, the cost-of-sales ratio decreased dramatically. This
+reflected several factors, including a decrease in fees paid to acceptors of
+securitized guarantees in line with a fewer number of corporate bankruptcies.
+Another factor was that the Company was able to structure funds at a lower
+cost, against the backdrop of a lower expected rate of return from investors
+primarily due to the Bank of Japan’s
+qualitative and quantitative monetary easing (QQE). The much lower
+cost-of-sales ratio was a positive factor that pushed up profit margins.
+Looking at the quarterly operating margin trend, the operating margin increased
+to 40.9% in the third quarter (Q3) of FY3/15 (October to December 2014),
+surpassing the 40% mark for the first time.Achieved almost all forecasts, for both the balance of
+credit guarantees outstanding and profits (2) Forecasts for FY3/15 For FY3/15, the Company is
+forecasting net sales of \4,200mn, up 12.4% yoy, and operating profit of
+\1,530mn, up 17.7% yoy. Recurring profit is projected at \1,550mn, up 17.5%
+yoy. The Company is forecasting net income of \900mn, up 27.5% yoy. The achievement rates for the
+Company’s financial results for Q1-Q3 FY3/15
+against its full-year forecasts were 71.5% for net sales and 75.8% for
+operating profit. Accordingly, although net sales fell slightly behind schedule
+relative to the full-year net sales forecast, operating profit finished the
+Q1-Q3 FY3/15 period largely as planned. Moreover, the balance of credit
+guarantees outstanding is projected to surpass \230,000mn as of March 31.
+Therefore, the Company appears to have achieved its initial forecast. Strong financial position owing to high profitability and
+a well-balanced capital structure (3) Financial condition and
+indicators As of December 31, 2014, total
+assets were \9,055mn, up \572mn from the previous fiscal year-end. The main
+factors were an increase of \395mn in cash and deposits tracking higher profits
+and an increase of \173mn in prepaid expenses to acceptors of securitized
+guarantees in line with an increase in the balance of credit guarantees
+outstanding. Total liabilities were \3,173mn, a decrease of \58mn from the
+previous fiscal year-end. Here, interest-bearing debt decreased \37mn over the
+same time period. In addition, net assets were \5,881mn, an increase of \630mn
+from the previous fiscal year-end. The main factors were increases of \468mn in
+retained earnings and \131mn in equity attributable to noncontrolling
+interests. The higher equity attributable to noncontrolling interests reflected
+the decision to establish a silent partnership (Credit Guarantee 1 Silent
+Partnership) at the end of September 2014 in order to invest in a new fund, and
+the conversion of this partnership into a subsidiary. (investment in silent
+partnership: \300mn, eGuarantee’s investment ratio: 51%,
+investment period: 5 years).Looking at financial indicators, eGuarantee has maintained an
+extremely strong financial position. The Company is virtually debt free with
+interest-bearing debt of only \144mn. In terms of indicators of financial
+stability, eGuarantee’s current ratio stood at more
+than 200% and its equity ratio was more than 50%. Furthermore, in terms of
+profitability, ROA and ROE have both been steadily maintained above 10%.
+Additionally, the operating margin has been increasing continuously. All in
+all, eGuarantee is to be commended as a highly profitable enterprise.◆Growth strategy Targeting growth in the number of contracts by
+establishing a follow-up support structure for financial institution partners eGuarantee’s strategy is to develop its businesses with a view to achieving
+the following medium-term growth trajectories: increase net sales and the
+balance of credit guarantees outstanding by 10-20% per year, and increase
+profits by 20-30% per year. The Company is pursuing growth strategies such as
+improving the service utilization rate at the financial institutions that are
+its sales partners, along with strengthening small-ticket sales credit
+guarantee services in Japan and the export credit guarantee service for exports
+to Asia. (1) Improving the service
+utilization rate at financial institution partners eGuarantee has delivered growth by efficiently developing
+customers through the formation of business alliances primarily with regional
+banks, shinkin banks, and other partners who have many customers among local
+small and medium-sized enterprises. As of March 31, eGuarantee had a network
+spanning almost all of Japan with 51 financial institution partners.
+Accordingly, the Company plans to enhance measures designed to improve the
+service utilization rate at its financial institution partners going forward.Currently, eGuarantee is able to constantly conclude new
+contracts on a monthly basis at only around 30-40% of all of its financial
+institution partners. The challenge for eGuarantee is that the service
+utilization rate at the remaining 60-70% of its partners is low. eGuarantee
+believes that the main reason for this low service utilization rate is that
+certain financial institution partners have not provided sales representatives
+with the incentive to sell eGuarantee’s
+services. Going forward, eGuarantee will encourage these financial institutions
+to introduce such incentives. The most effective incentive is to incorporate
+the number of contracts sold into the performance reviews of the sales
+representatives. In fact, sales of guarantee contracts are far higher at
+financial institutions that have actually introduced these incentives.
+Furthermore, eGuarantee will establish a finely-tuned follow-up structure by
+taking steps such as assigning one dedicated staff member to each regional
+bank. In doing so, the Company’s strategy is to increase the
+number of contracts by steadily improving the service utilization rate.Develop services for the Asian market, while
+incorporating small-ticket credit guarantees (2) Strengthening small-ticket
+credit guarantees and the export credit guarantee service As part of efforts to upgrade
+and expand its line of guarantee products, eGuarantee set up subsidiary RJG
+Guarantee Co., Ltd. in March 2014. This subsidiary specializes in small-ticket
+sales credit guarantee services for micro, small and medium-sized enterprises.
+Customers for these services are being developed through agency channels, in
+addition to the Internet via acceptance of online service applications. eGuarantee has not set clear
+standards regarding the definition of small-ticket sales credit. Looking at the
+average guarantee amount per client company for the credit guarantee service,
+the average amount for eGuarantee as a whole is between \600mn and \700mn. In
+contrast, RJR Guarantee assumes guarantee amounts that can be as small as
+between \100mn and \200mn. As of March 31, 2015, the balance of credit
+guarantees outstanding for RJG Guarantee was \1,000mn, and the number of its
+client companies was less than 100. RJG Guarantee’s performance appears to have largely tracked the Company’s forecasts. Because of the high degree of risk, RJG Guarantee
+has an average guarantee fee ratio of around 6-10%, which is higher than the
+Company-wide average of 2%. RJG Guarantee also appears to have higher profit
+margins. Meanwhile, in terms of the
+export credit guarantee service for exports to Asia, eGuarantee formed
+alliances with leading local financial institutions in South Korea, such as an
+alliance with a major non-life insurance company, in December 2013 and began providing
+these services in earnest. Additionally, in June 2014, eGuarantee entered into
+a business alliance with the Japanese branch of China-based Bank of
+Communications and launched export credit guarantee services for exports to the
+Chinese market. Nippon Export and Investment
+Insurance (NEXI) provides export credit guarantee services, but it primarily
+focuses on services with large guarantee amounts. Trading companies often carry
+out export transactions, including credit guarantees, for small and medium-sized
+enterprises. However, the guarantee fee ratio is high for these services, at
+10-20%. Therefore, we believe that eGuarantee has considerable scope to enter
+this market. eGuarantee has set a guarantee fee ratio of around 5% for the
+export credit guarantee service, which is higher than its ordinary guarantee
+fee ratio. The balance of guarantees outstanding for the export credit
+guarantee service appears to have increased to around \10,000mn as of March 31,
+2015. The profit margin is lower than eGuarantee’s ordinary guarantee service for Japanese companies.eGuarantee is conducting
+negotiations aimed at increasing the number of financial institution partners,
+with a view to bolstering its ability to assume the risk of export credit going
+forward. At the same time, the Company is developing business in Southeast
+Asian regions where the amount of exports from Japan is increasing, such as
+Thailand, Malaysia and Singapore. eGuarantee positions the next one or two years as a period for
+solidifying its business foundations for services targeting the Asian market.
+However, the yen’s depreciation in recent years
+has shaped a favorable environment that offers prospects for export growth for
+not only major corporations but also small and medium-sized enterprises. Future
+developments will be watched closely as this business has the potential to
+become a core growth driver for eGuarantee over the medium and long terms.Increase sales division personnel and continuously seek
+out M&A candidates (3) Personnel strategy and
+M&As eGuarantee plans to increase
+its personnel by 10-20 employees every year. (There were 110 employees as of
+March 31, 2014.) Personnel expenses are projected to continue increasing by
+just over \100-150mn a year, but the Company should be able to absorb these
+cost increases through higher net sales. Looking at eGuarantee’s personnel mix, the ratio of sales division personnel to
+administrative division personnel currently stands at 6:5. Going forward,
+eGuarantee plans to focus on increasing its sales division personnel. In addition, in regard to M&A strategy, eGuarantee plans to
+continue seeking out M&A candidates worldwide, targeting businesses related
+to credit guarantee services and peripheral businesses.◆Shareholder Return Policy and Risks to Business Strong prospects for maintaining the dividend payout ratio at
+the 30% level and increasing dividends in line with improved earnings (1)
+Shareholder Return Policy In
+terms of its dividend policy, eGuarantee’s basic policy is to pay dividends in line with earnings while
+retaining the internal reserves needed to aggressively expand business and
+ensure a strong financial position. Looking at the historical dividend trend,
+eGuarantee has consistently increased dividends since paying out dividends from
+FY3/09 to FY3/14. In FY3/15, eGuarantee plans to continue increasing dividends.
+The Company is projecting an annual dividend per share of \28.00 per share for
+FY3/15, up \6 per share from the previous fiscal year. eGuarantee appears to be
+targeting a dividend payout ratio of around 30%. In FY3/16 and beyond, barring
+any major funding requirements, we believe that eGuarantee is highly likely to
+continue increasing its dividends in line with earnings growth. In
+addition, the Company has introduced a shareholder gift program. Specifically,
+eGuarantee uniformly awards a QUO card worth ¥1,500 to each shareholder who holds 100 or more shares at the
+end of March every year. Based on the share price (\1,919) as of April 3, 2015,
+the total return on investment for each shareholder holding one unit of shares
+was 2.2%.Negligible impacts from sharp economic downturns, new
+corporate entrants and enactment of new statutory regulations (2) Risks to Business Finally, we examine the risks
+that should be taken into consideration when looking at eGuarantee’s business performance. The following are the primary risks that
+could affect the Company’s business results. However,
+we believe that these risks do not present any major concerns at this time. ・ In the event of a
+sharp downturn in the Japanese economy, the number of corporate bankruptcies
+could increase. This could lead to a larger-than-anticipated increase in the
+execution of guarantees by eGuarantee and increase the cost of transferring
+risk to acceptors of securitized guarantees. This, in turn, could reduce
+profitability. ・ During periods of weak
+economic growth in Japan, eGuarantee may raise the guarantee fee ratio it
+charges. This could reduce the number of new contracts, the Company’s contract renewal rate, and its balance of guarantees
+outstanding. ・ Competition could
+intensify as a result of new corporate entrants into the credit guarantee
+business. This could lower eGuarantee’s market share. ・ Currently, credit risk guarantee services are not subject to
+statutory regulations such as the Insurance Business Act and the Financial
+Instruments and Exchange Act. In the event of the enforcement of new statutory
+regulations, the Company may have to change its business model. 報告內容僅供參考，不得作為任何投資引用之唯一依據，且其投資風險及決定應由投資人自行判斷並自負損益。
